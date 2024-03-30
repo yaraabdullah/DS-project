@@ -1,676 +1,676 @@
-Hotel Name,Address,Score,Number of reviews,Price,Room type,Star rating,Room view,Swimming pool,Restaurant,Parking,Wheelchair accessibility
-Malfa Hotel Apartments,Qal'at Bishah,8.1,823,"SAR 1,250",Twin Room with Private Bathroom,0,yes,no,no,yes,yes
-Intour Al Khafji Hotel,Al Khafji,7.7,474,"SAR 1,465",Deluxe  Room,4.0,no,no,yes,yes,no
-Braira Al Ahsa,Al Ahsa,8.9,0,"SAR 3,071",Classic Room,4.0,yes,yes,yes,yes,no
-الراحة بلازا للشقق المفروشة,Sharurah,7.1,96,SAR 625,Twin Room,3.0,yes,no,no,yes,no
-Boudl Majmaa,Al Majmaah,8.1,700,"SAR 1,656",Standard Room With King Bed,0,no,yes,yes,yes,no
-ريف الشرق للشقق الفندقية,Al Madinah,8.3,309,SAR 990,Double Room,0,no,no,no,yes,no
-فندق نوفا بارك,Sharurah,9.2,23,SAR 650,Double Room,0,no,no,no,yes,yes
-Rabigh Park Hotel,Rabigh,8.0,504,"SAR 1,238",Superior Double Room,4.0,no,no,no,no,no
-Caravan by Habitas AlUla,AlUla,9.2,714,"SAR 4,872",Double Room,5.0,yes,no,yes,yes,no
-Boudl Al Rass,Al Rass,8.7,546,"SAR 1,330",Studio,0,no,no,no,yes,yes
-AlMuhaidb Residence Alkhafji,Al Khafji,8.4,0,"SAR 1,405",Superior Double Room,0,no,no,yes,yes,no
-Palms Lily Hotel Suites,Al Ahsa,5.9,0,SAR 843,Studio,0,yes,no,no,yes,no
-Lily Hotel Suite Hofuf,Al Hofuf,8.4,0,"SAR 1,250",King Studio,0,no,no,no,yes,yes
-Tala inn,Al Khafji,6.9,296,SAR 851,Standard Double Room,0,no,no,no,no,no
-Boudl Al Jubail,Al Jubail,8.4,0,"SAR 1,835",Standard Suite with City View,4.0,no,yes,yes,no,no
-Aber Unayzah,Unayzah,8.7,0,"SAR 1,501",Twin Room,3.0,no,no,no,no,no
-Aber Bani Amr,Al Namas,9.2,392,"SAR 1,150",Standard Double Room,3.0,no,no,no,no,no
-المهيدب للشقق المخدومة,Al Fuḑūl,7.7,27,"SAR 1,400",Deluxe Studio,0,yes,no,no,yes,no
-Boudl Wadi Al Dawasir,Wadi Al Dawasir,8.5,582,"SAR 1,200",Standard Double Room,3.0,no,no,no,no,no
-Park Inn by Radisson Najran,Najran,8.5,725,"SAR 1,913",Superior Room,4.0,no,no,yes,no,no
-Top View - شقق المنظر,Al Hofuf,8.0,0,"SAR 1,046",Budget Double Room,0,yes,no,no,yes,no
-Crystal Blue Hotel,Rabigh,6.7,180,SAR 900,Double Room,0,no,no,yes,no,no
-قصر أباهي النعيرية,Al Nairyah,7.1,28,SAR 900,Double Room,0,no,no,no,yes,no
-اقامة بلس ميرا هاوس,Baljurashi,7.7,136,"SAR 2,798",Double Room,3.0,no,no,yes,no,yes
-القصر الكورنيش,Jazan,8.9,161,"SAR 1,250",Deluxe Twin Room,2.0,no,no,no,no,yes
-Onizah Hotel,Unayzah,7.2,703,SAR 930,Double Room,0,no,no,yes,no,no
-فندق الملحان,Qal'at Bishah,7.8,75,"SAR 1,100",Twin Room with Shared Toilet,0,yes,no,no,no,no
-Rollins Hotel,Buraydah,8.0,0,"SAR 1,183",One-Bedroom Suite with King Bed,3.0,yes,no,no,no,yes
-Warwick Al Jubail Hotel,Al Jubail,8.6,0,"SAR 1,765",Standard King Room,4.0,yes,yes,no,no,no
-Raoum Inn Khafji Southern,Al Khafji,6.0,798,SAR 723,Superior Double Room,0,no,no,no,yes,no
-Rest Night Hotel Apartments Wadi Al Dawasir,Wadi Al Dawasir,8.0,873,"SAR 1,400",Double Room,0,yes,no,no,yes,yes
-الفخامه بارك,Şabyā,7.9,143,"SAR 1,435",Double Room,0,yes,no,no,no,no
-فندق كوخ الضباب النماص,Al Namas,7.7,21,"SAR 2,250",Studio with Balcony,4.0,no,yes,no,no,no
-Al Muhaidb Residence Al Maidan,Hafr Al Baten,8.4,792,SAR 964,Standard Double Room,0,no,no,no,yes,no
-Grand Plaza Hotel - Jazan,Jazan,8.6,0,"SAR 1,463",Standard King Room,4.0,no,yes,no,no,no
-Raoum Inn Sakaka,Sakakah,7.7,457,"SAR 1,064",Superior Double Room,0,no,no,yes,yes,no
-Boudl Al Maidan,Hafr Al Baten,8.0,146,"SAR 1,000",Two-Bedroom Apartment,0,no,yes,no,yes,no
-فندق هومي,Al Madinah,8.9,68,"SAR 1,000",Double Room,0,no,no,no,no,no
-Lolia Hotel,Raḩīmah,8.9,81,"SAR 2,400",Deluxe Junior Suite,4.0,no,no,no,no,no
-فندق صحارى الفرسان,Şabyā,8.2,177,SAR 900,Standard King Room,1.0,no,no,no,no,no
-Radisson Blu Resort Jizan,Jazan,8.0,0,"SAR 2,475",Standard Room,4.0,no,yes,yes,no,no
-شقق أحلى الأيام للوحدات السكنية المفروشة,Muhayil,8.8,418,"SAR 1,000",Double Room,0,no,no,no,no,no
-أباهي للوحدات السكنية الحوطة,Hotat bani tamim,7.5,27,SAR 810,Double Room,0,no,no,no,no,no
-Aber City Center,Hafr Al Baten,9.2,889,"SAR 1,620",Standard Twin Room,0,no,no,no,yes,no
-Al Muhaidb Sudair,Ḩawţat Sudayr,7.9,182,SAR 850,Studio,0,no,no,no,yes,no
-Hala Inn Arar Hotel,Arar,7.5,548,"SAR 2,300",Standard Double Room,0,yes,yes,yes,yes,no
-LADAN APARTMENT,AlUla,8.4,280,"SAR 1,750",One-Bedroom Apartment,0,yes,no,no,yes,no
-داركم 2 للشقق المخدومة,Buraydah,8.6,47,"SAR 2,000",Studio,0,no,no,no,no,no
-قصر أباهي النعيرية,Al Nairyah,7.1,28,SAR 900,Double Room,0,no,no,no,yes,no
-STwin Hotel,Hajlah,8.6,43,"SAR 3,861",Deluxe King Room,4.0,no,no,no,no,no
-Ewaa Express Hotel - Tabuk,Tabuk,8.7,0,"SAR 1,836",Standard King Room,3.0,no,no,no,no,no
-Al kharboush For Furnished Units,Hafr Al Baten,8.0,0,SAR 740,Deluxe Room (2 Adults + 1 Child),0,no,no,no,yes,no
-Central Park Hotel Bisha,Qal'at Bishah,7.8,753,"SAR 1,035",Superior King Room,3.0,yes,yes,yes,yes,yes
-قصر أباهي النعيرية,Al Nairyah,7.1,28,SAR 900,Double Room,0,no,no,no,yes,no
-Boudl Mahayel Aseer,Muhayil,8.1,967,"SAR 1,236",Standard Double Room,0,yes,yes,no,yes,no
-Golden Tulip Hail,Hail,6.3,0,"SAR 1,450",Deluxe Double or Twin Room,4.0,no,no,no,yes,yes
-Al Muhaidb Al Hada Resort,Al Hada,8.4,785,"SAR 1,332",Economy Double Room,0,no,no,no,yes,no
-Holiday Villa Hail,Hail,8.1,0,"SAR 1,770",Standard King Room,4.0,yes,yes,yes,yes,yes
-Manazel Al Hamra Apartment 2,Buraydah,7.9,0,"SAR 1,350",Deluxe Double Room,0,no,no,no,yes,no
-حياة تاون 3,Umm Lajj,8.4,65,"SAR 1,750",Deluxe Room (2 Adults + 1 Child),3.0,no,no,no,yes,yes
-Raoum Inn Khafji Corniche,Al Khafji,8.3,352,"SAR 1,489",Double or Twin Room with Side Sea View,0,yes,yes,yes,yes,yes
-Al Ahsa Grand Hotel,Al Hofuf,8.5,0,"SAR 2,010",Junior Suite Twin,5.0,no,no,no,yes,yes
-Ewaa Express Hotel - Buraydah,Buraydah,8.2,0,"SAR 1,575",Standard Room,3.0,no,no,no,yes,no
-Boudl Al Fakhria,Unayzah,8.8,0,"SAR 1,125",Double Room,0,no,yes,no,yes,no
-دايموند Diamond,AlUla,7.8,375,"SAR 2,500",Double or Twin Room with Private Bathroom,0,no,no,no,yes,no
-Raoum Inn - Hawtah Bani Tamim,Hotat bani tamim,6.6,183,SAR 596,One-Bedroom Suite,0,yes,no,no,yes,no
-Taiba Suites Madinah,"Central Madinah, Al Madinah",8.3,954,"SAR 5,375",Junior Suite,0,no,no,no,yes,yes
-Aber Khamis Mushait,Khamis Mushayt,8.6,0,"SAR 1,510",Superior Double Room,3.0,no,no,no,no,yes
-فندق ارجان بارك Arjan Park Hotel,Wadi Al Dawasir,9.1,231,"SAR 2,150",One-Bedroom Suite,0,yes,no,no,yes,yes
-فندق جيست هاوس,Yanbu,8.8,525,"SAR 3,800",Deluxe King Studio,4.0,yes,no,no,no,yes
-Millennium Hail Hotel,Hail,8.4,0,"SAR 1,820",Superior Double Room with King Bed,5.0,no,no,no,no,yes
-Raoum Inn Hafr Al Baten,Hafr Al Baten,8.0,0,SAR 766,One-Bedroom Suite,0,yes,no,no,no,yes
-Low Light Suites,Al Kharj,7.8,209,"SAR 1,000",Deluxe Double Room,0,no,no,no,no,no
-Rabigh Tower Hotel,Rabigh,5.2,216,SAR 761,Double Room,0,yes,no,no,no,no
-فندق لمسات نجران,Najran,8.4,202,SAR 655,King Room,2.0,yes,no,no,yes,no
-Ewaa Express Hotel - Al Jouf,Sakakah,8.9,752,"SAR 1,485",Standard Double Room,3.0,no,no,yes,yes,no
-Our Habitas AlUla,AlUla,9.3,928,"SAR 7,934",Canyon Villa,5.0,no,yes,yes,no,no
-Al Farhan Hotel & Suites Hafr Al Batin,Abū Qa‘ar,8.1,572,SAR 630,Deluxe Family Room,3.0,yes,no,yes,yes,no
-Bay La Sun Hotel and Marina - KAEC,King Abdullah Economic City,8.2,0,"SAR 3,660",Standard Double Room,5.0,yes,yes,yes,yes,yes
-Marina Arar Furnished Apartments,Arar,8.6,0,SAR 925,One-Bedroom Apartment with Living Room,0,no,no,no,yes,no
-Karims Hotel,Al Majmaah,8.0,204,"SAR 1,527",Deluxe Twin Room,2.0,yes,no,no,yes,yes
-Novotel Jazan,Jazan,8.7,0,"SAR 1,740",Standard Double Room,5.0,yes,yes,yes,yes,yes
-Best Western Plus Al Qurayyat City Center,Al Qurayyat,8.7,231,"SAR 1,853",Superior King Room - Non-Smoking,4.0,yes,yes,yes,no,no
-Views Hotel & Residences,King Abdullah Economic City,8.5,0,"SAR 4,388",Studio with Courtyard View,0,yes,no,yes,yes,no
-Raoum Inn Majmaa,Al Majmaah,6.4,486,SAR 851,Junior Suite,0,no,no,no,yes,no
-Golden Bujari Bisha جولدن بوجاري بيشة,Qal'at Bishah,8.6,376,"SAR 1,596",Junior Suite,4.0,yes,no,no,yes,yes
-Boudl Majmaa,Al Majmaah,8.1,700,"SAR 1,242",Standard Room With King Bed,0,no,yes,yes,yes,no
-Grand Millennium Gizan,Jazan,8.2,0,"SAR 2,600",Deluxe King Bed Room - Non Sea View,5.0,yes,yes,yes,yes,yes
-AlMuhaidb Residence Alkhafji,Al Khafji,8.4,0,"SAR 1,405",Superior Double Room,0,no,no,yes,yes,no
-Tanuma Aram Hospitality - Hotel Apartments,Tanomah,8.0,937,SAR 978,Studio with Mountain View,3.0,yes,no,yes,yes,yes
-Raoum Inn Khafji Southern,Al Khafji,6.0,798,SAR 723,Superior Double Room,0,no,no,no,yes,no
-فندق ادوماتو ADOMATo HOTEl,Dawmat al Jandal,8.0,103,"SAR 1,100",One-Bedroom Suite,2.0,no,yes,yes,yes,yes
-Raoum Inn Sakaka,Sakakah,7.7,457,"SAR 1,064",Superior Double Room,0,no,no,yes,yes,no
-Mirada Gold Jizan - Resort & Private Pools,Jazan,8.4,0,SAR 983,One-Bedroom Villa,5.0,no,no,no,yes,yes
-Waves Hotel,Umm Lajj,9.4,860,"SAR 4,400",King Room with Mountain View,5.0,yes,yes,yes,yes,yes
-إطلالة الواحة للوحدات السكنية المخدومة,Al Majmaah,8.1,342,SAR 894,Studio,0,yes,no,no,yes,yes
-Boudl Mahayel Aseer,Muhayil,8.1,967,"SAR 1,236",Standard Double Room,0,yes,yes,no,yes,no
-Raoum Inn Khafji Corniche,Al Khafji,8.3,352,"SAR 1,489",Double or Twin Room with Side Sea View,0,yes,yes,yes,yes,yes
-Ramada Hotel & Suites by Wyndham Al Qassim,Al Bukayriyah,8.9,0,"SAR 1,743",King Room - Smoking,5.0,yes,yes,yes,yes,yes
-Makarim Palm Hotel,Rabigh,6.9,240,"SAR 1,013",One-Bedroom Apartment,0,yes,no,no,yes,no
-Ewaa Express Hotel - Al Jouf,Sakakah,8.9,752,"SAR 1,485",Standard Double Room,3.0,no,no,yes,yes,no
-Our Habitas AlUla,AlUla,9.3,928,"SAR 7,934",Canyon Villa,5.0,no,yes,yes,no,no
-Al Farhan Hotel & Suites Hafr Al Batin,Abū Qa‘ar,8.1,572,SAR 630,Deluxe Family Room,3.0,yes,no,yes,yes,no
-Bay La Sun Hotel and Marina - KAEC,King Abdullah Economic City,8.2,0,"SAR 3,660",Standard Double Room,5.0,yes,yes,yes,yes,yes
-Marina Arar Furnished Apartments,Arar,8.6,0,SAR 925,One-Bedroom Apartment with Living Room,0,no,no,no,yes,no
-Karims Hotel,Al Majmaah,8.0,204,"SAR 1,575",Deluxe Twin Room,2.0,yes,no,no,yes,yes
-Novotel Jazan,Jazan,8.7,0,"SAR 1,740",Standard Double Room,5.0,yes,yes,yes,yes,yes
-Best Western Plus Al Qurayyat City Center,Al Qurayyat,8.7,231,"SAR 1,853",Superior King Room - Non-Smoking,4.0,yes,yes,yes,no,no
-Views Hotel & Residences,King Abdullah Economic City,8.5,0,"SAR 4,222",Studio with Courtyard View,0,yes,no,yes,yes,no
-Raoum Inn Majmaa,Al Majmaah,6.4,486,SAR 851,Junior Suite,0,no,no,no,yes,no
-Golden Bujari Bisha جولدن بوجاري بيشة,Qal'at Bishah,8.6,376,"SAR 1,596",Junior Suite,4.0,yes,no,no,yes,yes
-Boudl Majmaa,Al Majmaah,8.1,700,"SAR 1,242",Standard Room With King Bed,0,no,yes,yes,yes,no
-Grand Millennium Gizan,Jazan,8.2,0,"SAR 2,600",Deluxe King Bed Room - Non Sea View,5.0,yes,yes,yes,yes,yes
-AlMuhaidb Residence Alkhafji,Al Khafji,8.4,0,"SAR 1,405",Superior Double Room,0,no,no,yes,yes,no
-Tanuma Aram Hospitality - Hotel Apartments,Tanomah,8.0,937,SAR 978,Studio with Mountain View,3.0,yes,no,yes,yes,yes
-Raoum Inn Khafji Southern,Al Khafji,6.0,798,SAR 723,Superior Double Room,0,no,no,no,yes,no
-فندق ادوماتو ADOMATo HOTEl,Dawmat al Jandal,8.0,103,"SAR 1,100",One-Bedroom Suite,2.0,no,yes,yes,yes,yes
-Raoum Inn Sakaka,Sakakah,7.7,457,"SAR 1,064",Superior Double Room,0,no,no,yes,yes,no
-Mirada Gold Jizan - Resort & Private Pools,Jazan,8.4,0,SAR 983,One-Bedroom Villa,5.0,no,no,no,yes,yes
-Waves Hotel,Umm Lajj,9.4,860,"SAR 4,400",King Room with Mountain View,5.0,yes,yes,yes,yes,yes
-إطلالة الواحة للوحدات السكنية المخدومة,Al Majmaah,8.1,342,SAR 894,Studio,0,yes,no,no,yes,yes
-Boudl Mahayel Aseer,Muhayil,8.1,967,"SAR 1,236",Standard Double Room,0,yes,yes,no,yes,no
-Raoum Inn Khafji Corniche,Al Khafji,8.3,352,"SAR 1,489",Double or Twin Room with Side Sea View,0,yes,yes,yes,yes,yes
-Ramada Hotel & Suites by Wyndham Al Qassim,Al Bukayriyah,8.9,0,"SAR 1,743",King Room - Smoking,5.0,yes,yes,yes,yes,yes
-Makarim Palm Hotel,Rabigh,6.9,240,"SAR 1,013",One-Bedroom Apartment,0,yes,no,no,yes,no
-هابي دريم للشقق المخدومة,Ukaz,7.981994047619047,0,"SAR 1,000",Triple Room,0,no,no,no,no,no
-"Makkah Clock Royal Tower, A Fairmont Hotel","Ajyad, Makkah",8.1,0,"SAR 4,448",Fairmont King Room with City View,5.0,no,no,yes,no,no
-أجنحة العلمين,Tabuk,8.9,454,"SAR 1,850",Two-Bedroom Apartment,4.0,no,no,no,no,no
-Ewaa Express Hotel - Khurais,Riyadh,8.3,0,"SAR 1,675",Standard Double Room,3.0,no,no,yes,no,no
-Palms Lily Hotel Suites,Al Ahsa,5.9,0,SAR 800,Studio,0,yes,no,no,yes,no
-Banyan Tree AlUla,AlUla,9.0,129,"SAR 6,503",One-Bedroom Villa,5.0,yes,yes,yes,yes,no
-فندق فيفاء,Fayfāʼ,6.4,234,"SAR 1,495",Double Room,0,no,no,no,no,no
-Movenpick Hotel and Residences Riyadh,Riyadh,8.8,0,"SAR 5,639",Superior King Room,5.0,no,no,yes,no,no
-BN Residence,"Al Olayya, Al Khobar",9.2,0,"SAR 1,680",Standard King Room,0,no,no,no,no,no
-Address Sharurah Hotel,Sharurah,7.5,63,"SAR 1,225",Family Room with Bath,4.0,yes,no,yes,yes,yes
-Lily Hotel Suite Hofuf,Al Hofuf,8.4,0,"SAR 1,200",King Studio,0,no,no,no,yes,yes
-Mirada Purple - Zahra,Jeddah,8.3,0,"SAR 1,335",Studio,4.0,yes,no,no,yes,yes
-Boudl Khamis Mushait,Khamis Mushayt,9.4,229,"SAR 1,650",Economy Twin Room,0,no,no,no,no,no
-Grand Hyatt Al Khobar Hotel and Residences,Al Khobar,8.9,0,"SAR 4,250",King Room,5.0,yes,yes,yes,yes,yes
-"Al Ahsa InterContinental, an IHG Hotel",Al Ahsa,8.5,236,"SAR 2,816",Classic King Room - Smoking,5.0,yes,yes,yes,yes,yes
-Narcissus Al Hamra Hotel Jeddah,Jeddah,9.1,0,"SAR 5,432",Premium Room with City View,5.0,no,yes,yes,no,no
-Raoum Inn Buraydah,Buraydah,8.0,920,"SAR 1,064",Deluxe Double Room,0,yes,no,yes,no,no
-HIGH VIEW HOTEL فندق عالية الاطلالة,Hafr Al Baten,9.2,105,"SAR 1,400",Duplex Apartment,0,no,no,no,no,no
-Al Muhaidb Residence Al Takhassusi,"Al Olaya, Riyadh",6.5,0,"SAR 1,674",Junior Suite,0,no,yes,no,no,no
-منتجع واحة الفريد للايواء السياحي بمدينة العلا,AlUla,7.8,35,"SAR 4,950",King Room with Mountain View,0,no,no,no,no,no
-Ottoman Signature Hotel,Al Khobar,6.9,0,SAR 975,Economy Twin Room,0,yes,no,no,no,no
-Vista Haql Hotel,Al Humaizah,9.2,6,"SAR 3,500",Double Room with Sea View,4.0,yes,yes,no,no,no
-Arif Housing Units,Buraydah,8.6,0,"SAR 1,100",Standard Double Room,0,yes,no,no,no,yes
-Mövenpick Hotel Qassim,Buraydah,8.9,0,"SAR 3,440",Deluxe King Room,5.0,yes,yes,yes,yes,yes
-Best Western Plus Buraidah,Buraydah,8.2,0,"SAR 1,326",Grand Smoking 1 King Bed Room,3.0,no,no,no,no,no
-Ewaa Express Hotel - Al Jouf,Sakakah,8.9,752,"SAR 1,485",Standard Double Room,3.0,no,no,yes,yes,no
-Our Habitas AlUla,AlUla,9.3,928,"SAR 7,844",Canyon Villa,5.0,no,yes,yes,no,no
-Al Farhan Hotel & Suites Hafr Al Batin,Abū Qa‘ar,8.1,572,SAR 630,Deluxe Family Room,3.0,yes,no,yes,yes,no
-Bay La Sun Hotel and Marina - KAEC,King Abdullah Economic City,8.2,0,"SAR 4,000",Standard Double Room,5.0,yes,yes,yes,yes,yes
-Marina Arar Furnished Apartments,Arar,8.6,0,SAR 925,One-Bedroom Apartment with Living Room,0,no,no,no,yes,no
-Karims Hotel,Al Majmaah,8.0,204,"SAR 1,527",Deluxe Twin Room,2.0,yes,no,no,yes,yes
-Novotel Jazan,Jazan,8.7,0,"SAR 1,740",Standard Double Room,5.0,yes,yes,yes,yes,yes
-Best Western Plus Al Qurayyat City Center,Al Qurayyat,8.7,231,"SAR 1,853",Superior King Room - Non-Smoking,4.0,yes,yes,yes,no,no
-Views Hotel & Residences,King Abdullah Economic City,8.5,0,"SAR 4,055",Studio with Courtyard View,0,yes,no,yes,yes,no
-Raoum Inn Majmaa,Al Majmaah,6.4,486,SAR 851,Junior Suite,0,no,no,no,yes,no
-Golden Bujari Bisha جولدن بوجاري بيشة,Qal'at Bishah,8.6,376,"SAR 1,995",Junior Suite,4.0,yes,no,no,yes,yes
-Boudl Majmaa,Al Majmaah,8.1,700,"SAR 1,236",Standard Room With King Bed,0,no,yes,yes,yes,no
-Grand Millennium Gizan,Jazan,8.2,0,"SAR 2,600",Deluxe King Bed Room - Non Sea View,5.0,yes,yes,yes,yes,yes
-Raoum Inn Khafji Southern,Al Khafji,6.0,798,SAR 723,Superior Double Room,0,no,no,no,yes,no
-فندق ادوماتو ADOMATo HOTEl,Dawmat al Jandal,8.0,103,"SAR 1,100",One-Bedroom Suite,2.0,no,yes,yes,yes,yes
-Raoum Inn Sakaka,Sakakah,7.7,457,"SAR 1,064",Superior Double Room,0,no,no,yes,yes,no
-Mirada Gold Jizan - Resort & Private Pools,Jazan,8.4,0,"SAR 1,610",One-Bedroom Villa,5.0,no,no,no,yes,yes
-Waves Hotel,Umm Lajj,9.4,860,"SAR 4,400",King Room with Mountain View,5.0,yes,yes,yes,yes,yes
-إطلالة الواحة للوحدات السكنية المخدومة,Al Majmaah,8.1,342,SAR 894,Studio,0,yes,no,no,yes,yes
-Boudl Mahayel Aseer,Muhayil,8.1,967,"SAR 1,236",Standard Double Room,0,yes,yes,no,yes,no
-Raoum Inn Khafji Corniche,Al Khafji,8.3,352,"SAR 1,489",Double or Twin Room with Side Sea View,0,yes,yes,yes,yes,yes
-Ramada Hotel & Suites by Wyndham Al Qassim,Al Bukayriyah,8.9,0,"SAR 2,250",King Room - Smoking,5.0,yes,yes,yes,yes,yes
-Makarim Palm Hotel,Rabigh,6.9,240,"SAR 1,013",One-Bedroom Apartment,0,yes,no,no,yes,no
-Malfa Hotel Apartments,Qal'at Bishah,8.1,823,"SAR 1,250",Twin Room with Private Bathroom,0,yes,no,no,yes,yes
-Intour Al Khafji Hotel,Al Khafji,7.7,474,"SAR 1,465",Deluxe  Room,4.0,no,no,yes,yes,no
-شقق الورود بارك,Al Mikhlaf,7.981994047619047,0,"SAR 1,390",One-Bedroom Apartment,0,yes,no,no,yes,no
-سما2,Yanbu,8.0,103,SAR 855,Deluxe Room (2 Adults + 1 Child),0,no,no,no,yes,no
-Tamyoz Aparthotel 2,Hail,7.1,629,"SAR 1,150",Deluxe Studio,0,yes,yes,no,yes,no
-Crown Tower Hotel,Al Jubail,8.1,0,"SAR 1,478",Superior Double Room,4.0,yes,no,yes,yes,no
-Top View - شقق المنظر,Al Hofuf,8.0,0,"SAR 1,046",Budget Double Room,0,yes,no,no,yes,no
-Al Jahwah hotel,Al Namas,8.0,463,"SAR 1,110",Deluxe King Room,0,no,no,no,yes,no
-AlRayah Hotel,Jazan,9.0,279,"SAR 1,650",Deluxe Double Room,3.0,yes,no,no,yes,no
-جوان سويت للشقق المخدومة,Jeddah,7.6,118,"SAR 1,500",Triple Room,3.0,no,no,no,yes,no
-Shaza Riyadh,Riyadh,8.2,0,"SAR 2,900",Superior King Room,4.0,no,yes,no,yes,no
-Jeddah Hilton,"Al Shatiea, Jeddah",7.9,0,"SAR 6,300",Deluxe King Room with City View,5.0,no,yes,no,yes,yes
-Fakhamat Al Orjoana & Suites,Sakakah,7.2,462,SAR 900,One-Bedroom Apartment,0,yes,no,yes,no,no
-Reef Al Malaz International Hotel by Al Azmy,"Al Malaz, Riyadh",4.6,0,SAR 633,Standard King Room,3.0,no,no,no,yes,no
-أجنحة هدوء الفندقية,Riyadh,6.4,5,"SAR 1,750",Two-Bedroom Apartment,0,no,no,no,no,no
-Aber Abha,Abha,9.1,318,"SAR 1,635",Budget Double Room,3.0,no,no,no,yes,no
-Warwick Hotel Jeddah,Jeddah,8.4,0,"SAR 1,386",Deluxe King Room,4.0,no,yes,yes,yes,no
-بيست تريب فالنسيا,Jazan,7.6,399,"SAR 1,688",One-Bedroom Apartment,0,yes,no,no,yes,no
-Safa PARK HOTEL YANBU فندق صفا بارك ينبع,Yanbu,7.3,217,SAR 745,Double Room,3.0,yes,no,no,yes,no
-Mirada Purple - Obhur,"South Obhr, Jeddah",7.9,0,"SAR 1,013",Two-Bedroom Suite,0,no,no,no,yes,no
-Braira Al Dammam,Dammam,8.8,0,"SAR 1,446",Deluxe Twin Room,4.0,no,yes,yes,yes,yes
-Boudl Al Munsiyah,Riyadh,7.8,0,"SAR 2,102",Suite,0,no,yes,no,yes,no
-فندق زهرة جده,Jeddah,6.5,66,"SAR 2,730",Studio,0,no,no,no,yes,no
-روائع للشقق المخدومة,Taif,6.1,0,"SAR 1,350",Studio,0,no,no,no,yes,no
-Haven Plaza,"Al Olaya, Riyadh",6.4,0,"SAR 1,598",Standard Room,0,no,no,no,no,no
-Centro Corniche Al Khobar by Rotana,Al Khobar,7.8,0,"SAR 1,526",Centro Twin Room,4.0,no,yes,no,yes,no
-البندقية للأجنحة الفندقية بريدة BQ hotel suites,Buraydah,6.7,50,"SAR 1,125",Superior King Room,3.0,no,no,yes,yes,no
-Burj Alawal,Al Jubail,8.5,231,"SAR 1,250",One-Bedroom Suite,0,no,no,no,no,no
-Vivian Park Residential Apartment,"Al Aziziyah, Riyadh",8.9,711,"SAR 1,855",Budget Double Room,0,no,no,no,yes,no
-Danat Layalina Apparthotel,Al Namas,7.4,553,"SAR 1,350",One-Bedroom Apartment,0,no,no,yes,yes,yes
-Al Shiraz Suites,Muhayil,7.1,64,"SAR 2,250",One-Bedroom Suite,0,no,no,no,yes,no
-Rest Night Hotel Apartments Wadi Al Dawasir,Wadi Al Dawasir,8.0,873,"SAR 1,400",Double Room,0,yes,no,no,yes,yes
-فوربوينتس باي شيراتون مكة النسيم,Makkah,8.3,0,SAR 904,King Room,4.0,yes,no,yes,yes,no
-Al Rawda - Hotel,Tabuk,8.6,353,SAR 581,King Studio,0,no,no,no,yes,no
-SPAR Furnished Hotel,Al Hofuf,7.6,0,"SAR 1,250",Twin Room,0,no,no,no,yes,no
-Desert Rose,Hail,7.2,956,"SAR 1,195",Deluxe Double Room (1 adult + 2 children),0,no,no,no,yes,no
-Pullman Zamzam Madina,"Central Madinah, Al Madinah",8.0,0,"SAR 3,160",Superior King Room with City View,5.0,no,no,no,yes,no
-الفخامه بارك,Şabyā,7.9,143,"SAR 1,435",Double Room,0,yes,no,no,no,no
-Aloft Dhahran Hotel,"Al Olayya, Al Khobar",8.4,0,"SAR 1,553","Aloft Room, 1 King",4.0,yes,yes,yes,yes,no
-Sama Al Qasr Hotel Apartments,Riyadh,8.9,610,"SAR 1,500",Economy Double Room,0,no,no,no,yes,no
-Silent Room 1 By Quiet Rooms,Riyadh,5.9,0,"SAR 1,075",One-Bedroom Apartment,0,no,no,no,yes,no
-Al Nahda Urban Company Residential Units,Jeddah,6.3,986,SAR 700,Studio,3.0,no,no,no,no,no
-Sunrise Suites,Tabuk,9.4,76,"SAR 1,250",Standard Double Room,3.0,no,no,no,yes,no
-Iridium 70 Hotel,Jeddah,8.9,0,"SAR 1,589",Standard Twin Room City View,4.0,no,yes,no,yes,no
-Hadab Al Sahafa,Riyadh,8.1,0,"SAR 2,750",Economy Twin Room,4.0,yes,yes,no,yes,no
-ريـزورد بـلازا - RIZORD plaza,Hafr Al Baten,8.7,337,"SAR 2,500",King Room,4.0,no,no,no,yes,yes
-Msakn Aldar,Abha,8.6,626,"SAR 1,000",One-Bedroom Apartment,4.0,no,no,no,yes,yes
-فندق EWG أبحر الشاطئ golden sea,"South Obhr, Jeddah",7.7,0,"SAR 2,160",Deluxe Double or Twin Room with Pool View,3.0,yes,yes,yes,yes,no
-Guests Inn,Riyadh,7.4,349,"SAR 4,550",One-Bedroom Apartment,0,no,no,no,yes,no
-"Staybridge Suites - Al Khobar City, an IHG Hotel","Al Olayya, Al Khobar",8.8,0,"SAR 1,595",Studio King Suite - Smoking,0,no,no,no,yes,no
-مشار العلا للشقق الفندقيه 1,AlUla,7.5,11,"SAR 4,500",Two-Bedroom House,0,no,no,no,yes,no
-Al Muhaidb Khanshalila,Riyadh,7.4,458,SAR 825,Standard Double Room,0,no,no,no,yes,no
-Ozone hotel,"Al Hamra, Jeddah",6.8,0,"SAR 1,260",Standard Room,3.0,no,no,no,no,no
-Blue Diamond Hotel,"Al Hamra, Jeddah",8.8,0,"SAR 2,000",Standard King Room,4.0,no,yes,yes,no,yes
-Hujra Hotel Tahlia Jeddah,"Al Tahlia Street, Jeddah",8.4,0,"SAR 1,450",Deluxe Twin Room,4.0,yes,no,no,no,no
-Oriental Residence,Dammam,8.3,0,"SAR 1,473",Deluxe Double Room,3.0,no,no,yes,no,no
-Al Muhaidb Residence Al Maidan,Hafr Al Baten,8.4,792,SAR 964,Standard Double Room,0,no,no,no,yes,no
-Sama Inn Hotel,Riyadh,7.9,0,"SAR 2,500",Deluxe Double Room,4.0,no,no,no,no,no
-شاليهات التميز الراقي,Al Hada,9.1,48,"SAR 5,000",Three-Bedroom Chalet,3.0,no,yes,no,no,no
-Sharz Hotel,Buraydah,8.2,769,"SAR 1,434",Deluxe Double Room,3.0,no,no,yes,no,no
-Hilton Riyadh Hotel & Residences,Riyadh,8.2,0,"SAR 4,224",Twin Room,5.0,no,yes,yes,no,no
-قصر الممشى للشقق الفندقية,Jazan,8.2,289,"SAR 2,750",One-Bedroom Apartment,4.0,no,no,no,no,no
-Boudl Al Maidan,Hafr Al Baten,8.0,146,"SAR 1,000",Two-Bedroom Apartment,0,no,yes,no,yes,no
-The Venue Jeddah Corniche,"Al Shatiea, Jeddah",7.6,0,"SAR 3,510",Deluxe City View King (City Tower),5.0,yes,yes,no,yes,no
-Grand Millennium Tabuk,Tabuk,8.9,910,"SAR 3,875",Deluxe King Room,5.0,no,yes,yes,yes,yes
-Carawan Al Khaleej Hotel Olaya,"Al Olaya, Riyadh",8.6,0,"SAR 1,995",Budget Twin Room,2.0,no,no,yes,yes,no
-Lavana Sari,"Sari Street, Jeddah",7.8,0,"SAR 2,138",One-Bedroom Apartment,4.0,no,no,no,yes,yes
-Joudyan Jeddah Red Sea Mall,"Al Shatiea, Jeddah",8.1,0,"SAR 3,600",Standard Double Room,5.0,no,yes,yes,no,no
-Gardino Hotel & Residence,Riyadh,8.4,0,"SAR 3,670",Deluxe Room,4.0,no,yes,yes,yes,no
-Naviti Warwick Dammam,Dammam,8.1,0,"SAR 1,250",Standard Double Room,0,no,yes,yes,yes,no
-Olian Hotel,Riyadh,7.8,308,"SAR 2,083",Deluxe King Room,4.0,yes,yes,yes,yes,yes
-Al Muhaidb Residence Al Dowally,Hafr Al Baten,7.1,693,"SAR 1,045",Standard Double Room,0,yes,yes,no,yes,yes
-Dana Rayhaan by Rotana,Dammam,9.0,0,"SAR 1,635",Guest Room King Bed,5.0,yes,yes,no,no,no
-Banan Hotel Suites,Tabuk,9.5,738,"SAR 2,198",Superior Double Room,3.0,no,no,no,yes,no
-Hilton Suites Makkah,Makkah,8.5,0,"SAR 4,874",King Room with City View,5.0,no,no,no,no,no
-Madinah Hilton Hotel,"Central Madinah, Al Madinah",8.3,0,"SAR 5,643",Twin Guest Room City View,5.0,no,no,no,no,no
-Nozol Al Reef by Al Azmy,Riyadh,4.3,568,SAR 630,Double or Twin Room,0,no,no,no,no,no
-Ewaa Express Hotel - Al Jouf,Sakakah,8.9,752,"SAR 1,485",Standard Double Room,3.0,no,no,yes,yes,no
-Our Habitas AlUla,AlUla,9.3,928,"SAR 7,844",Canyon Villa,5.0,no,yes,yes,no,no
-Al Farhan Hotel & Suites Hafr Al Batin,Abū Qa‘ar,8.1,572,SAR 630,Deluxe Family Room,3.0,yes,no,yes,yes,no
-Bay La Sun Hotel and Marina - KAEC,King Abdullah Economic City,8.2,0,"SAR 4,000",Standard Double Room,5.0,yes,yes,yes,yes,yes
-Marina Arar Furnished Apartments,Arar,8.6,0,SAR 925,One-Bedroom Apartment with Living Room,0,no,no,no,yes,no
-Karims Hotel,Al Majmaah,8.0,204,"SAR 1,575",Deluxe Twin Room,2.0,yes,no,no,yes,yes
-Novotel Jazan,Jazan,8.7,0,"SAR 1,740",Standard Double Room,5.0,yes,yes,yes,yes,yes
-Best Western Plus Al Qurayyat City Center,Al Qurayyat,8.7,231,"SAR 1,853",Superior King Room - Non-Smoking,4.0,yes,yes,yes,no,no
-Views Hotel & Residences,King Abdullah Economic City,8.5,0,"SAR 4,222",Studio with Courtyard View,0,yes,no,yes,yes,no
-Raoum Inn Majmaa,Al Majmaah,6.4,486,SAR 851,Junior Suite,0,no,no,no,yes,no
-Golden Bujari Bisha جولدن بوجاري بيشة,Qal'at Bishah,8.6,376,"SAR 1,995",Junior Suite,4.0,yes,no,no,yes,yes
-Boudl Majmaa,Al Majmaah,8.1,700,"SAR 1,272",Standard Apartment,0,no,yes,yes,yes,no
-Grand Millennium Gizan,Jazan,8.2,0,"SAR 2,600",Deluxe King Bed Room - Non Sea View,5.0,yes,yes,yes,yes,yes
-AlMuhaidb Residence Alkhafji,Al Khafji,8.4,0,"SAR 1,405",Superior Double Room,0,no,no,yes,yes,no
-Raoum Inn Khafji Southern,Al Khafji,6.0,798,SAR 723,Superior Double Room,0,no,no,no,yes,no
-فندق ادوماتو ADOMATo HOTEl,Dawmat al Jandal,8.0,103,"SAR 1,100",One-Bedroom Suite,2.0,no,yes,yes,yes,yes
-Raoum Inn Sakaka,Sakakah,7.7,457,"SAR 1,064",Superior Double Room,0,no,no,yes,yes,no
-Mirada Gold Jizan - Resort & Private Pools,Jazan,8.4,0,SAR 983,One-Bedroom Villa,5.0,no,no,no,yes,yes
-Waves Hotel,Umm Lajj,9.4,860,"SAR 4,400",King Room with Mountain View,5.0,yes,yes,yes,yes,yes
-إطلالة الواحة للوحدات السكنية المخدومة,Al Majmaah,8.1,342,SAR 894,Studio,0,yes,no,no,yes,yes
-Boudl Mahayel Aseer,Muhayil,8.1,967,"SAR 1,275",Standard Double Room,0,yes,yes,no,yes,no
-Raoum Inn Khafji Corniche,Al Khafji,8.3,352,"SAR 1,489",Double or Twin Room with Side Sea View,0,yes,yes,yes,yes,yes
-Ramada Hotel & Suites by Wyndham Al Qassim,Al Bukayriyah,8.9,0,"SAR 1,743",King Room - Smoking,5.0,yes,yes,yes,yes,yes
-Makarim Palm Hotel,Rabigh,6.9,240,"SAR 1,013",One-Bedroom Apartment,0,yes,no,no,yes,no
-Malfa Hotel Apartments,Qal'at Bishah,8.1,823,"SAR 1,250",Twin Room with Private Bathroom,0,yes,no,no,yes,yes
-Mena Hotel Nasiriah Riyadh,Riyadh,8.1,422,"SAR 1,733",Standard King Room,3.0,no,no,yes,yes,no
-فندق سدرا,Al ‘Azīzīyah,7.0,0,SAR 450,Double Room with Private Bathroom,2.0,no,no,yes,no,no
-OYO 416 Bonais Hotel,Al Ahsa,3.4,260,SAR 671,Standard Studio,0,no,no,no,yes,no
-كازا رست للوحدات السكنية,Ḩayy aş Şāliḩīyah,6.5,26,"SAR 1,853",Double Room,0,no,no,no,yes,no
-داركم 2 للشقق المخدومة,Buraydah,8.6,47,"SAR 2,000",Studio,0,no,no,no,no,no
-Pullman ZamZam Makkah,"Ajyad, Makkah",6.7,0,"SAR 2,246","Classic Room, 2 Single Size Beds, City View",5.0,yes,no,no,yes,no
-Ramada by Wyndham Dammam Khaleej Road,Dammam,6.7,0,SAR 956,Queen Room - Non-Smoking,4.0,yes,no,no,yes,no
-Toot House ALQAIM,Taif,8.3,0,"SAR 1,500",Studio,0,no,no,no,yes,no
-Boudl Al Tahlia,"Al Tahlia Street, Jeddah",8.3,0,"SAR 1,624",Standard Room,4.0,no,yes,no,yes,no
-Swiss In Tabuk Hotel,Tabuk,8.8,728,"SAR 2,245",Classic Queen Room,4.0,yes,no,no,no,no
-الوادي للوحدات السكنية,Riyadh Al Khabra,8.0,249,"SAR 1,000",Deluxe Twin Room,0,no,no,no,yes,no
-المعالي للشقق المخدومة 2,Hafr Al Baten,7.9,10,SAR 750,Twin Room,2.0,no,no,no,no,no
-Kadi Hotel,Najran,7.7,64,SAR 750,One-Bedroom Suite,3.0,yes,no,no,no,no
-Baisan Suites Al Jubail,Al Jubail,6.1,620,SAR 895,Studio,0,no,no,no,no,no
-Diamond Tower,Al Jubail,7.9,817,SAR 900,Studio,0,no,no,no,no,no
-Dar Hashim Hotel Suites - Al Sahafa,Riyadh,8.4,0,"SAR 1,500",Studio Apartment,0,no,no,no,no,no
-Ibis Jeddah Malik Road,"King Abdul Aziz Road, Jeddah",7.8,0,"SAR 1,280",Standard Twin Room,3.0,no,no,no,no,no
-The Proud Hotel Al Khobar,Al Khobar,8.8,0,"SAR 1,468",Superior Double Room,4.0,no,no,no,no,no
-Makkah Towers,Makkah,7.7,0,"SAR 4,334",Guest Room City View with Two Twin Beds,5.0,no,no,no,no,no
-Skyline Tabuk Hotel,Tabuk,9.2,464,"SAR 2,005",Standard Double Room,4.0,yes,no,no,no,no
-Citadines Abha,Abha,8.7,0,"SAR 2,447",Studio Deluxe,0,yes,yes,yes,no,no
-Al Hidayah Towers Hotel,Makkah,8.1,0,SAR 369,Deluxe Twin Room,1.0,no,no,no,no,no
-Violet Al Shisha Hotel,Makkah,8.1,0,SAR 924,Triple Room,0,no,no,no,no,no
-Lavent Park Hotel Suites,Jeddah,5.5,52,"SAR 1,193",Double Room,3.0,yes,no,no,no,no
-جده هاوس Jeddah house,Jeddah,8.0,15,"SAR 1,400",Deluxe King Room,3.0,yes,no,no,no,no
-Ewaa Express Hotel - Al Jouf,Sakakah,8.9,752,"SAR 1,485",Standard Double Room,3.0,no,no,yes,yes,no
-Our Habitas AlUla,AlUla,9.3,928,"SAR 7,844",Canyon Villa,5.0,no,yes,yes,no,no
-Al Farhan Hotel & Suites Hafr Al Batin,Abū Qa‘ar,8.1,572,SAR 630,Deluxe Family Room,3.0,yes,no,yes,yes,no
-Bay La Sun Hotel and Marina - KAEC,King Abdullah Economic City,8.2,0,"SAR 3,687",Standard Double Room,5.0,yes,yes,yes,yes,yes
-Marina Arar Furnished Apartments,Arar,8.6,0,SAR 925,One-Bedroom Apartment with Living Room,0,no,no,no,yes,no
-Karims Hotel,Al Majmaah,8.0,204,"SAR 1,527",Deluxe Twin Room,2.0,yes,no,no,yes,yes
-Novotel Jazan,Jazan,8.7,0,"SAR 1,740",Standard Double Room,5.0,yes,yes,yes,yes,yes
-Best Western Plus Al Qurayyat City Center,Al Qurayyat,8.7,231,"SAR 1,853",Superior King Room - Non-Smoking,4.0,yes,yes,yes,no,no
-Views Hotel & Residences,King Abdullah Economic City,8.5,0,"SAR 4,388",Studio with Courtyard View,0,yes,no,yes,yes,no
-Raoum Inn Majmaa,Al Majmaah,6.4,486,SAR 851,Junior Suite,0,no,no,no,yes,no
-Golden Bujari Bisha جولدن بوجاري بيشة,Qal'at Bishah,8.6,376,"SAR 1,596",Junior Suite,4.0,yes,no,no,yes,yes
-Boudl Majmaa,Al Majmaah,8.1,700,"SAR 1,248",Standard Room With King Bed,0,no,yes,yes,yes,no
-Grand Millennium Gizan,Jazan,8.2,0,"SAR 2,600",Deluxe King Bed Room - Non Sea View,5.0,yes,yes,yes,yes,yes
-AlMuhaidb Residence Alkhafji,Al Khafji,8.4,0,"SAR 1,405",Superior Double Room,0,no,no,yes,yes,no
-Tanuma Aram Hospitality - Hotel Apartments,Tanomah,8.0,937,SAR 978,Studio with Mountain View,3.0,yes,no,yes,yes,yes
-Raoum Inn Khafji Southern,Al Khafji,6.0,798,SAR 723,Superior Double Room,0,no,no,no,yes,no
-فندق ادوماتو ADOMATo HOTEl,Dawmat al Jandal,8.0,103,"SAR 1,100",One-Bedroom Suite,2.0,no,yes,yes,yes,yes
-Raoum Inn Sakaka,Sakakah,7.7,457,"SAR 1,064",Superior Double Room,0,no,no,yes,yes,no
-Mirada Gold Jizan - Resort & Private Pools,Jazan,8.4,0,SAR 983,One-Bedroom Villa,5.0,no,no,no,yes,yes
-Waves Hotel,Umm Lajj,9.4,860,"SAR 4,400",King Room with Mountain View,5.0,yes,yes,yes,yes,yes
-إطلالة الواحة للوحدات السكنية المخدومة,Al Majmaah,8.1,342,SAR 894,Studio,0,yes,no,no,yes,yes
-Boudl Mahayel Aseer,Muhayil,8.1,967,"SAR 1,236",Standard Double Room,0,yes,yes,no,yes,no
-Raoum Inn Khafji Corniche,Al Khafji,8.3,352,"SAR 1,489",Double or Twin Room with Side Sea View,0,yes,yes,yes,yes,yes
-Ramada Hotel & Suites by Wyndham Al Qassim,Al Bukayriyah,8.9,0,"SAR 1,743",King Room - Smoking,5.0,yes,yes,yes,yes,yes
-Makarim Palm Hotel,Rabigh,6.9,240,"SAR 1,013",One-Bedroom Apartment,0,yes,no,no,yes,no
-Ewaa Express Hotel - Al Jouf,Sakakah,8.9,752,"SAR 1,485",Standard Double Room,3.0,no,no,yes,yes,no
-Our Habitas AlUla,AlUla,9.3,928,"SAR 7,844",Canyon Villa,5.0,no,yes,yes,no,no
-Al Farhan Hotel & Suites Hafr Al Batin,Abū Qa‘ar,8.1,572,SAR 630,Deluxe Family Room,3.0,yes,no,yes,yes,no
-Bay La Sun Hotel and Marina - KAEC,King Abdullah Economic City,8.2,0,"SAR 4,000",Standard Double Room,5.0,yes,yes,yes,yes,yes
-Marina Arar Furnished Apartments,Arar,8.6,0,SAR 925,One-Bedroom Apartment with Living Room,0,no,no,no,yes,no
-Karims Hotel,Al Majmaah,8.0,204,"SAR 1,575",Deluxe Twin Room,2.0,yes,no,no,yes,yes
-Novotel Jazan,Jazan,8.7,0,"SAR 1,740",Standard Double Room,5.0,yes,yes,yes,yes,yes
-Best Western Plus Al Qurayyat City Center,Al Qurayyat,8.7,231,"SAR 1,853",Superior King Room - Non-Smoking,4.0,yes,yes,yes,no,no
-Views Hotel & Residences,King Abdullah Economic City,8.5,0,"SAR 4,055",Studio with Courtyard View,0,yes,no,yes,yes,no
-Raoum Inn Majmaa,Al Majmaah,6.4,486,SAR 851,Junior Suite,0,no,no,no,yes,no
-Golden Bujari Bisha جولدن بوجاري بيشة,Qal'at Bishah,8.6,376,"SAR 1,596",Junior Suite,4.0,yes,no,no,yes,yes
-Boudl Majmaa,Al Majmaah,8.1,700,"SAR 1,236",Standard Room With King Bed,0,no,yes,yes,yes,no
-Grand Millennium Gizan,Jazan,8.2,0,"SAR 2,600",Deluxe King Bed Room - Non Sea View,5.0,yes,yes,yes,yes,yes
-AlMuhaidb Residence Alkhafji,Al Khafji,8.4,0,"SAR 1,405",Superior Double Room,0,no,no,yes,yes,no
-Raoum Inn Khafji Southern,Al Khafji,6.0,798,SAR 723,Superior Double Room,0,no,no,no,yes,no
-فندق ادوماتو ADOMATo HOTEl,Dawmat al Jandal,8.0,103,"SAR 1,100",One-Bedroom Suite,2.0,no,yes,yes,yes,yes
-Raoum Inn Sakaka,Sakakah,7.7,457,"SAR 1,064",Superior Double Room,0,no,no,yes,yes,no
-Mirada Gold Jizan - Resort & Private Pools,Jazan,8.4,0,SAR 983,One-Bedroom Villa,5.0,no,no,no,yes,yes
-Waves Hotel,Umm Lajj,9.4,860,"SAR 4,400",King Room with Mountain View,5.0,yes,yes,yes,yes,yes
-إطلالة الواحة للوحدات السكنية المخدومة,Al Majmaah,8.1,342,SAR 894,Studio,0,yes,no,no,yes,yes
-Boudl Mahayel Aseer,Muhayil,8.1,967,"SAR 1,275",Standard Double Room,0,yes,yes,no,yes,no
-Raoum Inn Khafji Corniche,Al Khafji,8.3,352,"SAR 1,489",Double or Twin Room with Side Sea View,0,yes,yes,yes,yes,yes
-Ramada Hotel & Suites by Wyndham Al Qassim,Al Bukayriyah,8.9,0,"SAR 1,743",King Room - Smoking,5.0,yes,yes,yes,yes,yes
-Makarim Palm Hotel,Rabigh,6.9,240,"SAR 1,013",One-Bedroom Apartment,0,yes,no,no,yes,no
-Malfa Hotel Apartments,Qal'at Bishah,8.1,823,"SAR 1,250",Twin Room with Private Bathroom,0,yes,no,no,yes,yes
-Ewaa Express Hotel - Al Jouf,Sakakah,8.9,752,"SAR 1,485",Standard Double Room,3.0,no,no,yes,yes,no
-Our Habitas AlUla,AlUla,9.3,928,"SAR 7,844",Canyon Villa,5.0,no,yes,yes,no,no
-Al Farhan Hotel & Suites Hafr Al Batin,Abū Qa‘ar,8.1,572,SAR 630,Deluxe Family Room,3.0,yes,no,yes,yes,no
-Bay La Sun Hotel and Marina - KAEC,King Abdullah Economic City,8.2,0,"SAR 3,660",Standard Double Room,5.0,yes,yes,yes,yes,yes
-Marina Arar Furnished Apartments,Arar,8.6,0,SAR 925,One-Bedroom Apartment with Living Room,0,no,no,no,yes,no
-Karims Hotel,Al Majmaah,8.0,204,"SAR 1,527",Deluxe Twin Room,2.0,yes,no,no,yes,yes
-Novotel Jazan,Jazan,8.7,0,"SAR 1,740",Standard Double Room,5.0,yes,yes,yes,yes,yes
-Best Western Plus Al Qurayyat City Center,Al Qurayyat,8.7,231,"SAR 1,853",Superior King Room - Non-Smoking,4.0,yes,yes,yes,no,no
-Views Hotel & Residences,King Abdullah Economic City,8.5,0,"SAR 4,388",Studio with Courtyard View,0,yes,no,yes,yes,no
-Raoum Inn Majmaa,Al Majmaah,6.4,486,SAR 851,Junior Suite,0,no,no,no,yes,no
-Golden Bujari Bisha جولدن بوجاري بيشة,Qal'at Bishah,8.6,376,"SAR 1,596",Junior Suite,4.0,yes,no,no,yes,yes
-Boudl Majmaa,Al Majmaah,8.1,700,"SAR 1,242",Standard Room With King Bed,0,no,yes,yes,yes,no
-Grand Millennium Gizan,Jazan,8.2,0,"SAR 2,600",Deluxe King Bed Room - Non Sea View,5.0,yes,yes,yes,yes,yes
-AlMuhaidb Residence Alkhafji,Al Khafji,8.4,0,"SAR 1,405",Superior Double Room,0,no,no,yes,yes,no
-Tanuma Aram Hospitality - Hotel Apartments,Tanomah,8.0,937,SAR 978,Studio with Mountain View,3.0,yes,no,yes,yes,yes
-Raoum Inn Khafji Southern,Al Khafji,6.0,798,SAR 723,Superior Double Room,0,no,no,no,yes,no
-فندق ادوماتو ADOMATo HOTEl,Dawmat al Jandal,8.0,103,"SAR 1,100",One-Bedroom Suite,2.0,no,yes,yes,yes,yes
-Raoum Inn Sakaka,Sakakah,7.7,457,"SAR 1,064",Superior Double Room,0,no,no,yes,yes,no
-Mirada Gold Jizan - Resort & Private Pools,Jazan,8.4,0,SAR 983,One-Bedroom Villa,5.0,no,no,no,yes,yes
-Waves Hotel,Umm Lajj,9.4,860,"SAR 4,400",King Room with Mountain View,5.0,yes,yes,yes,yes,yes
-إطلالة الواحة للوحدات السكنية المخدومة,Al Majmaah,8.1,342,SAR 894,Studio,0,yes,no,no,yes,yes
-Boudl Mahayel Aseer,Muhayil,8.1,967,"SAR 1,236",Standard Double Room,0,yes,yes,no,yes,no
-Raoum Inn Khafji Corniche,Al Khafji,8.3,352,"SAR 1,489",Double or Twin Room with Side Sea View,0,yes,yes,yes,yes,yes
-Ramada Hotel & Suites by Wyndham Al Qassim,Al Bukayriyah,8.9,0,"SAR 1,743",King Room - Smoking,5.0,yes,yes,yes,yes,yes
-Makarim Palm Hotel,Rabigh,6.9,240,"SAR 1,013",One-Bedroom Apartment,0,yes,no,no,yes,no
-Ewaa Express Hotel - Al Jouf,Sakakah,8.9,752,"SAR 1,485",Standard Double Room,3.0,no,no,yes,yes,no
-Our Habitas AlUla,AlUla,9.3,928,"SAR 7,338",Canyon Villa,5.0,no,yes,yes,no,no
-Al Farhan Hotel & Suites Hafr Al Batin,Abū Qa‘ar,8.1,572,SAR 630,Deluxe Family Room,3.0,yes,no,yes,yes,no
-Bay La Sun Hotel and Marina - KAEC,King Abdullah Economic City,8.2,0,"SAR 4,000",Standard Double Room,5.0,yes,yes,yes,yes,yes
-Marina Arar Furnished Apartments,Arar,8.6,0,SAR 925,One-Bedroom Apartment with Living Room,0,no,no,no,yes,no
-Karims Hotel,Al Majmaah,8.0,204,"SAR 1,527",Deluxe Twin Room,2.0,yes,no,no,yes,yes
-Novotel Jazan,Jazan,8.7,0,"SAR 1,740",Standard Double Room,5.0,yes,yes,yes,yes,yes
-Best Western Plus Al Qurayyat City Center,Al Qurayyat,8.7,231,"SAR 1,853",Superior King Room - Non-Smoking,4.0,yes,yes,yes,no,no
-Views Hotel & Residences,King Abdullah Economic City,8.5,0,"SAR 4,055",Studio with Courtyard View,0,yes,no,yes,yes,no
-Raoum Inn Majmaa,Al Majmaah,6.4,486,SAR 851,Junior Suite,0,no,no,no,yes,no
-Golden Bujari Bisha جولدن بوجاري بيشة,Qal'at Bishah,8.6,376,"SAR 1,995",Junior Suite,4.0,yes,no,no,yes,yes
-Boudl Majmaa,Al Majmaah,8.1,700,"SAR 2,279",Standard Room With King Bed,0,no,yes,yes,yes,no
-Grand Millennium Gizan,Jazan,8.2,0,"SAR 2,600",Deluxe King Bed Room - Non Sea View,5.0,yes,yes,yes,yes,yes
-Raoum Inn Khafji Southern,Al Khafji,6.0,798,SAR 723,Superior Double Room,0,no,no,no,yes,no
-فندق ادوماتو ADOMATo HOTEl,Dawmat al Jandal,8.0,103,"SAR 1,100",One-Bedroom Suite,2.0,no,yes,yes,yes,yes
-Raoum Inn Sakaka,Sakakah,7.7,457,"SAR 1,064",Superior Double Room,0,no,no,yes,yes,no
-Mirada Gold Jizan - Resort & Private Pools,Jazan,8.4,0,SAR 983,One-Bedroom Villa,5.0,no,no,no,yes,yes
-Waves Hotel,Umm Lajj,9.4,860,"SAR 4,400",King Room with Mountain View,5.0,yes,yes,yes,yes,yes
-إطلالة الواحة للوحدات السكنية المخدومة,Al Majmaah,8.1,342,SAR 894,Studio,0,yes,no,no,yes,yes
-Boudl Mahayel Aseer,Muhayil,8.1,967,"SAR 1,236",Standard Double Room,0,yes,yes,no,yes,no
-Raoum Inn Khafji Corniche,Al Khafji,8.3,352,"SAR 1,489",Double or Twin Room with Side Sea View,0,yes,yes,yes,yes,yes
-Ramada Hotel & Suites by Wyndham Al Qassim,Al Bukayriyah,8.9,0,"SAR 1,913",King Room - Smoking,5.0,yes,yes,yes,yes,yes
-Makarim Palm Hotel,Rabigh,6.9,240,"SAR 1,013",One-Bedroom Apartment,0,yes,no,no,yes,no
-Malfa Hotel Apartments,Qal'at Bishah,8.1,823,"SAR 1,250",Twin Room with Private Bathroom,0,yes,no,no,yes,yes
-Intour Al Khafji Hotel,Al Khafji,7.7,474,"SAR 1,465",Deluxe  Room,4.0,no,no,yes,yes,no
-Mirnian Hotel,Jeddah,8.6,0,"SAR 1,070",Executive Suite,0,no,no,yes,yes,no
-InterContinental Al Jubail Resort,Al Jubail,8.2,0,"SAR 2,965",One King Bed Classic Accessible,5.0,no,no,no,no,no
-بنزرت للشقق الفندقيه,Al Hofuf,8.7,114,"SAR 1,450",One-Bedroom Apartment,0,no,yes,no,no,no
-Al Muhaidb Al Takhasosi Hotel,Riyadh,7.8,0,"SAR 1,557",Studio,0,no,no,no,no,no
-Golden Garden Al Corniche,Dammam,7.5,0,"SAR 4,665",Deluxe Suite Partial Sea View,3.0,yes,yes,no,no,yes
-Nelover Hotel Ar Rawdah,"Al Rawdah, Riyadh",8.2,0,"SAR 5,325",Two-Bedroom Suite,0,no,no,no,no,no
-Msharef almoden hotel فندق مشارف المدن,Riyadh,9.0,218,"SAR 1,800",Deluxe King Room,4.0,yes,no,no,no,yes
-The Artisan Hotel-Suits,"Hera Street, Jeddah",8.5,249,"SAR 1,850",One-Bedroom Apartment,0,no,no,no,no,no
-Swiss International Royal Hotel Riyadh,Riyadh,7.6,0,"SAR 2,725",Accessible Room,4.0,no,no,no,no,no
-Braira Al Yarmouk,Riyadh,8.6,0,"SAR 1,861",Standard Twin Room,4.0,no,no,no,no,yes
-همم للوحدات السكنية - الرحيلي Jeddah,Al Kura,8.0,304,SAR 846,Basic Triple Room,0,no,no,no,yes,no
-Yahalla Hotel Units,"Hera Street, Jeddah",6.5,515,"SAR 1,060",Standard Studio,0,no,no,no,no,no
-Nuzl Shada Hotel,"Al Salamah, Jeddah",8.5,0,"SAR 1,748",Standard Queen Room,3.0,no,no,no,no,yes
-Mena Hotel Al Jubail,Al Jubail,7.7,316,"SAR 1,063",Business King Suite,3.0,no,no,no,no,no
-فازا سويت تشغيل مؤسسه سويت لتشغيل الفنادق,Jeddah,8.3,429,"SAR 1,418",Superior Studio,3.0,no,no,no,no,no
-Luxury Night Hotel,Riyadh,8.4,820,"SAR 2,156",Standard King Room,0,no,no,no,yes,no
-Ibis Riyadh Olaya Street,"Al Olaya, Riyadh",6.8,0,"SAR 1,309",Standard Room with 1 Double Bed,3.0,no,no,no,yes,no
-"Staybridge Suites Al Khobar, an IHG Hotel",Al Khobar,8.7,0,"SAR 2,017",Studio Suite,4.0,no,no,no,no,yes
-Al Ebaa Hotel,Makkah,8.0,0,"SAR 1,375",Standard Double or Twin Room,0,no,no,no,no,no
-Mena Andalusia Riyadh,"Al Olaya, Riyadh",6.3,0,"SAR 2,478",Standard Room King,3.0,no,no,no,no,no
-Al Farhan Hotel Suites Al siteen,Al Jubail,7.2,823,SAR 795,Deluxe Double Room (1 adult + 1 child),0,no,no,no,yes,no
-"Radisson Blu Residence, Dhahran","Al Olayya, Al Khobar",8.5,0,"SAR 1,573",Standard Room,4.0,no,no,no,yes,no
-IntercityHotel Riyadh Malaz,"Al Malaz, Riyadh",7.9,0,"SAR 2,813",Superior King Room,4.0,yes,no,no,no,yes
-Al Andalus Mall Hotel,Jeddah,8.3,0,"SAR 1,664",King Studio - Disabilty Access,4.0,no,no,no,no,yes
-Ewaa Express Hotel - Al Hamra,"Al Hamra, Jeddah",8.5,0,"SAR 2,025",Standard Double Room,3.0,no,no,no,no,no
-Ewaa Express Hotel - Al Jouf,Sakakah,8.9,752,"SAR 1,485",Standard Double Room,3.0,no,no,yes,yes,no
-Our Habitas AlUla,AlUla,9.3,928,"SAR 7,844",Canyon Villa,5.0,no,yes,yes,no,no
-Al Farhan Hotel & Suites Hafr Al Batin,Abū Qa‘ar,8.1,572,SAR 630,Deluxe Family Room,3.0,yes,no,yes,yes,no
-Bay La Sun Hotel and Marina - KAEC,King Abdullah Economic City,8.2,0,"SAR 4,000",Standard Double Room,5.0,yes,yes,yes,yes,yes
-Marina Arar Furnished Apartments,Arar,8.6,0,SAR 925,One-Bedroom Apartment with Living Room,0,no,no,no,yes,no
-Karims Hotel,Al Majmaah,8.0,204,"SAR 1,527",Deluxe Twin Room,2.0,yes,no,no,yes,yes
-Novotel Jazan,Jazan,8.7,0,"SAR 1,740",Standard Double Room,5.0,yes,yes,yes,yes,yes
-Best Western Plus Al Qurayyat City Center,Al Qurayyat,8.7,231,"SAR 1,853",Superior King Room - Non-Smoking,4.0,yes,yes,yes,no,no
-Views Hotel & Residences,King Abdullah Economic City,8.5,0,"SAR 4,055",Studio with Courtyard View,0,yes,no,yes,yes,no
-Raoum Inn Majmaa,Al Majmaah,6.4,486,SAR 851,Junior Suite,0,no,no,no,yes,no
-Golden Bujari Bisha جولدن بوجاري بيشة,Qal'at Bishah,8.6,376,"SAR 1,596",Junior Suite,4.0,yes,no,no,yes,yes
-Boudl Majmaa,Al Majmaah,8.1,700,"SAR 1,236",Standard Room With King Bed,0,no,yes,yes,yes,no
-Grand Millennium Gizan,Jazan,8.2,0,"SAR 2,600",Deluxe King Bed Room - Non Sea View,5.0,yes,yes,yes,yes,yes
-Tanuma Aram Hospitality - Hotel Apartments,Tanomah,8.0,937,SAR 978,Studio with Mountain View,3.0,yes,no,yes,yes,yes
-Raoum Inn Khafji Southern,Al Khafji,6.0,798,SAR 723,Superior Double Room,0,no,no,no,yes,no
-فندق ادوماتو ADOMATo HOTEl,Dawmat al Jandal,8.0,103,"SAR 1,100",One-Bedroom Suite,2.0,no,yes,yes,yes,yes
-Raoum Inn Sakaka,Sakakah,7.7,457,"SAR 1,064",Superior Double Room,0,no,no,yes,yes,no
-Mirada Gold Jizan - Resort & Private Pools,Jazan,8.4,0,SAR 983,One-Bedroom Villa,5.0,no,no,no,yes,yes
-Waves Hotel,Umm Lajj,9.4,860,"SAR 4,400",King Room with Mountain View,5.0,yes,yes,yes,yes,yes
-إطلالة الواحة للوحدات السكنية المخدومة,Al Majmaah,8.1,342,SAR 894,Studio,0,yes,no,no,yes,yes
-Boudl Mahayel Aseer,Muhayil,8.1,967,"SAR 1,236",Standard Double Room,0,yes,yes,no,yes,no
-Raoum Inn Khafji Corniche,Al Khafji,8.3,352,"SAR 1,489",Double or Twin Room with Side Sea View,0,yes,yes,yes,yes,yes
-Ramada Hotel & Suites by Wyndham Al Qassim,Al Bukayriyah,8.9,0,"SAR 1,743",King Room - Smoking,5.0,yes,yes,yes,yes,yes
-Makarim Palm Hotel,Rabigh,6.9,240,"SAR 1,013",One-Bedroom Apartment,0,yes,no,no,yes,no
-Malfa Hotel Apartments,Qal'at Bishah,8.1,823,"SAR 1,250",Twin Room with Private Bathroom,0,yes,no,no,yes,yes
-Ewaa Express Hotel - Al Jouf,Sakakah,8.9,752,"SAR 1,485",Standard Double Room,3.0,no,no,yes,yes,no
-Our Habitas AlUla,AlUla,9.3,928,"SAR 7,934",Canyon Villa,5.0,no,yes,yes,no,no
-Al Farhan Hotel & Suites Hafr Al Batin,Abū Qa‘ar,8.1,572,SAR 630,Deluxe Family Room,3.0,yes,no,yes,yes,no
-Bay La Sun Hotel and Marina - KAEC,King Abdullah Economic City,8.2,0,"SAR 4,000",Standard Double Room,5.0,yes,yes,yes,yes,yes
-Marina Arar Furnished Apartments,Arar,8.6,0,SAR 925,One-Bedroom Apartment with Living Room,0,no,no,no,yes,no
-Karims Hotel,Al Majmaah,8.0,204,"SAR 1,575",Deluxe Twin Room,2.0,yes,no,no,yes,yes
-Novotel Jazan,Jazan,8.7,0,"SAR 1,740",Standard Double Room,5.0,yes,yes,yes,yes,yes
-Best Western Plus Al Qurayyat City Center,Al Qurayyat,8.7,231,"SAR 1,853",Superior King Room - Non-Smoking,4.0,yes,yes,yes,no,no
-Views Hotel & Residences,King Abdullah Economic City,8.5,0,"SAR 4,388",Studio with Courtyard View,0,yes,no,yes,yes,no
-Raoum Inn Majmaa,Al Majmaah,6.4,486,SAR 851,Junior Suite,0,no,no,no,yes,no
-Golden Bujari Bisha جولدن بوجاري بيشة,Qal'at Bishah,8.6,376,"SAR 1,596",Junior Suite,4.0,yes,no,no,yes,yes
-Boudl Majmaa,Al Majmaah,8.1,700,"SAR 1,272",Standard Apartment,0,no,yes,yes,yes,no
-Grand Millennium Gizan,Jazan,8.2,0,"SAR 2,600",Deluxe King Bed Room - Non Sea View,5.0,yes,yes,yes,yes,yes
-AlMuhaidb Residence Alkhafji,Al Khafji,8.4,0,"SAR 1,405",Superior Double Room,0,no,no,yes,yes,no
-Tanuma Aram Hospitality - Hotel Apartments,Tanomah,8.0,937,SAR 978,Studio with Mountain View,3.0,yes,no,yes,yes,yes
-Raoum Inn Khafji Southern,Al Khafji,6.0,798,SAR 723,Superior Double Room,0,no,no,no,yes,no
-فندق ادوماتو ADOMATo HOTEl,Dawmat al Jandal,8.0,103,"SAR 1,100",One-Bedroom Suite,2.0,no,yes,yes,yes,yes
-Raoum Inn Sakaka,Sakakah,7.7,457,"SAR 1,064",Superior Double Room,0,no,no,yes,yes,no
-Mirada Gold Jizan - Resort & Private Pools,Jazan,8.4,0,SAR 983,One-Bedroom Villa,5.0,no,no,no,yes,yes
-Waves Hotel,Umm Lajj,9.4,860,"SAR 4,400",King Room with Mountain View,5.0,yes,yes,yes,yes,yes
-إطلالة الواحة للوحدات السكنية المخدومة,Al Majmaah,8.1,342,SAR 894,Studio,0,yes,no,no,yes,yes
-Boudl Mahayel Aseer,Muhayil,8.1,967,"SAR 1,275",Standard Double Room,0,yes,yes,no,yes,no
-Raoum Inn Khafji Corniche,Al Khafji,8.3,352,"SAR 1,489",Double or Twin Room with Side Sea View,0,yes,yes,yes,yes,yes
-Ramada Hotel & Suites by Wyndham Al Qassim,Al Bukayriyah,8.9,0,"SAR 1,743",King Room - Smoking,5.0,yes,yes,yes,yes,yes
-Makarim Palm Hotel,Rabigh,6.9,240,"SAR 1,013",One-Bedroom Apartment,0,yes,no,no,yes,no
-Ewaa Express Hotel - Al Jouf,Sakakah,8.9,752,"SAR 1,485",Standard Double Room,3.0,no,no,yes,yes,no
-Our Habitas AlUla,AlUla,9.3,928,"SAR 7,673",Canyon Villa,5.0,no,yes,yes,no,no
-Al Farhan Hotel & Suites Hafr Al Batin,Abū Qa‘ar,8.1,572,SAR 630,Deluxe Family Room,3.0,yes,no,yes,yes,no
-Bay La Sun Hotel and Marina - KAEC,King Abdullah Economic City,8.2,0,"SAR 4,000",Standard Double Room,5.0,yes,yes,yes,yes,yes
-Marina Arar Furnished Apartments,Arar,8.6,0,SAR 925,One-Bedroom Apartment with Living Room,0,no,no,no,yes,no
-Karims Hotel,Al Majmaah,8.0,204,"SAR 1,575",Deluxe Twin Room,2.0,yes,no,no,yes,yes
-Novotel Jazan,Jazan,8.7,0,"SAR 1,960",Standard Double Room,5.0,yes,yes,yes,yes,yes
-Best Western Plus Al Qurayyat City Center,Al Qurayyat,8.7,231,"SAR 1,853",Superior King Room - Non-Smoking,4.0,yes,yes,yes,no,no
-Views Hotel & Residences,King Abdullah Economic City,8.5,0,"SAR 4,388",Studio with Courtyard View,0,yes,no,yes,yes,no
-Raoum Inn Majmaa,Al Majmaah,6.4,486,SAR 851,Junior Suite,0,no,no,no,yes,no
-Golden Bujari Bisha جولدن بوجاري بيشة,Qal'at Bishah,8.6,376,"SAR 1,680",Junior Suite,4.0,yes,no,no,yes,yes
-Boudl Majmaa,Al Majmaah,8.1,700,"SAR 1,272",Standard Apartment,0,no,yes,yes,yes,no
-Grand Millennium Gizan,Jazan,8.2,0,"SAR 2,600",Deluxe King Bed Room - Non Sea View,5.0,yes,yes,yes,yes,yes
-Tanuma Aram Hospitality - Hotel Apartments,Tanomah,8.0,937,SAR 978,Studio with Mountain View,3.0,yes,no,yes,yes,yes
-Raoum Inn Khafji Southern,Al Khafji,6.0,798,SAR 723,Superior Double Room,0,no,no,no,yes,no
-فندق ادوماتو ADOMATo HOTEl,Dawmat al Jandal,8.0,103,"SAR 1,100",One-Bedroom Suite,2.0,no,yes,yes,yes,yes
-Raoum Inn Sakaka,Sakakah,7.7,457,"SAR 1,064",Superior Double Room,0,no,no,yes,yes,no
-Mirada Gold Jizan - Resort & Private Pools,Jazan,8.4,0,SAR 983,One-Bedroom Villa,5.0,no,no,no,yes,yes
-Waves Hotel,Umm Lajj,9.4,860,"SAR 4,400",King Room with Mountain View,5.0,yes,yes,yes,yes,yes
-إطلالة الواحة للوحدات السكنية المخدومة,Al Majmaah,8.1,342,SAR 894,Studio,0,yes,no,no,yes,yes
-Boudl Mahayel Aseer,Muhayil,8.1,967,"SAR 1,275",Standard Double Room,0,yes,yes,no,yes,no
-Raoum Inn Khafji Corniche,Al Khafji,8.3,352,"SAR 1,489",Double or Twin Room with Side Sea View,0,yes,yes,yes,yes,yes
-Ramada Hotel & Suites by Wyndham Al Qassim,Al Bukayriyah,8.9,0,"SAR 1,743",King Room - Smoking,5.0,yes,yes,yes,yes,yes
-Makarim Palm Hotel,Rabigh,6.9,240,"SAR 1,013",One-Bedroom Apartment,0,yes,no,no,yes,no
-Malfa Hotel Apartments,Qal'at Bishah,8.1,823,"SAR 1,250",Twin Room with Private Bathroom,0,yes,no,no,yes,yes
-Velar Inn Hotel,Taif,9.0,0,"SAR 2,277",Standard King Room,4.0,yes,no,no,no,no
-Voyage Apartments,"Al Sulimania, Riyadh",8.1,0,"SAR 2,218",Executive Suite,0,no,no,no,no,no
-Quiet Hotel Al Shatee,"Al Shatiea, Jeddah",8.0,637,"SAR 1,304",Standard King Room,3.0,yes,no,no,no,no
-FANTASTIC HOUSE,Riyadh,4.9,316,"SAR 1,290",Deluxe Double Room,0,no,no,no,no,no
-بوابة الريادة,Ar Riḩāb,4.9,26,"SAR 1,690",Economy Single Room,0,yes,no,no,no,no
-Boudl Gaber,Riyadh,8.0,0,"SAR 2,025",Standard King Room,0,no,no,no,no,no
-JW Inn Hotel,Al Khobar,7.3,379,"SAR 1,000",Classic Suite,0,yes,no,no,no,no
-Gladiolus Hotel,"Al Salamah, Jeddah",8.6,752,"SAR 2,306",Superior King Room,4.0,yes,no,no,no,no
-Al Makan Al Mosafer 116 Hotel by Al Azmy,Riyadh,5.0,0,SAR 949,Studio,0,no,no,no,no,no
-Aman Hotel Suites,Abha,9.2,656,"SAR 1,584",Superior King or Twin Room,4.0,yes,no,no,yes,yes
-فندق ضيافة القرية Al Diyafa Hotel,Al Ahsa,7.1,351,"SAR 1,338",Junior Suite,0,no,no,no,no,no
-Tu Jardin - Qurtubah- توجاردن قرطبه,Riyadh,7.5,48,"SAR 1,305",Standard Apartment,0,no,no,no,no,no
-رام جده للشقق الفندقيه Ram Jeddah,"Qurish Street, Jeddah",7.6,239,"SAR 2,250",Superior Apartment,3.0,yes,no,no,no,no
-Abeer Story Hotel Suites,Jeddah,8.0,950,SAR 700,Deluxe King Studio,0,yes,no,no,no,no
-Riyadha Home Apartment,Riyadh,8.1,460,"SAR 2,211",Studio,0,yes,no,no,no,no
-Hilton Garden Inn Riyadh Financial District,Riyadh,7.8,0,"SAR 3,493",King Room,4.0,no,no,no,no,no
-Alreem Village Hotel,Al Jubail,8.6,862,"SAR 2,346",Standard Double Room,5.0,no,no,no,no,no
-Jeddah Shadows Hotel,Jeddah,7.4,752,"SAR 7,196",Two-Bedroom Suite,4.0,yes,no,no,no,no
-Admire Apart Hotel - 1,Abu Arish,6.4,47,"SAR 1,418",Deluxe Double or Twin Room with City View,0,yes,no,no,no,no
-Dalin Hotel,"Al Olaya, Riyadh",6.6,0,"SAR 1,425",Standard Double or Twin Room,0,yes,no,no,no,no
-Al Muhaidb Takhasosi Value,"Al Olaya, Riyadh",7.4,0,"SAR 1,350",Studio,0,yes,no,no,no,no
-فندق آل متعب سويتس التراثي,Riyadh,7.8,866,"SAR 2,500",Deluxe King Room,3.0,no,no,no,no,no
-Mabet Al Tahlia Hotel Apartments,"Al Tahlia Street, Jeddah",7.7,0,"SAR 1,116",Deluxe King Studio,0,yes,no,no,no,yes
-Elite Al Hamra - Al Cornich,Jeddah,7.9,0,"SAR 2,560",Two-Bedroom Apartment,0,yes,no,no,no,no
-همم للوحدات السكنية - الحمدانية Al Hamdaniya,Jeddah,7.6,88,"SAR 1,260",Deluxe King Room,0,no,no,no,no,no
-Tu Jardin - Qurtubah- توجاردن قرطبه,Riyadh,7.5,48,"SAR 1,305",Standard Apartment,0,no,no,no,no,no
-رام جده للشقق الفندقيه Ram Jeddah,"Qurish Street, Jeddah",7.6,239,"SAR 2,250",Superior Apartment,3.0,yes,no,no,no,no
-Abeer Story Hotel Suites,Jeddah,8.0,950,SAR 700,Deluxe King Studio,0,yes,no,no,no,no
-Riyadha Home Apartment,Riyadh,8.1,460,"SAR 2,328",Studio,0,yes,no,no,no,no
-مزايا هاوس,Dammam,5.2,0,SAR 495,Budget Double Room,0,no,no,no,no,no
-Hilton Garden Inn Riyadh Financial District,Riyadh,7.8,0,"SAR 3,493",King Room,4.0,no,no,no,no,no
-Alreem Village Hotel,Al Jubail,8.6,862,"SAR 2,440",Standard Double Room,5.0,no,no,no,no,no
-Jeddah Shadows Hotel,Jeddah,7.4,752,"SAR 7,196",Two-Bedroom Suite,4.0,yes,no,no,no,no
-Admire Apart Hotel - 1,Abu Arish,6.4,47,"SAR 1,091",Deluxe Double or Twin Room with City View,0,yes,no,no,no,no
-Dalin Hotel,"Al Olaya, Riyadh",6.6,0,"SAR 1,425",Standard Double or Twin Room,0,yes,no,no,no,no
-بوابة الريادة,Ar Riḩāb,4.9,26,"SAR 1,690",Economy Single Room,0,yes,no,no,no,no
-Al Muhaidb Takhasosi Value,"Al Olaya, Riyadh",7.4,0,"SAR 1,350",Studio,0,yes,no,no,no,no
-فندق آل متعب سويتس التراثي,Riyadh,7.8,866,"SAR 2,500",Deluxe King Room,3.0,no,no,no,no,no
-Mabet Al Tahlia Hotel Apartments,"Al Tahlia Street, Jeddah",7.7,0,"SAR 1,175",Deluxe King Studio,0,yes,no,no,no,yes
-Elite Al Hamra - Al Cornich,Jeddah,7.9,0,"SAR 2,560",Two-Bedroom Apartment,0,yes,no,no,no,no
-همم للوحدات السكنية - الحمدانية Al Hamdaniya,Jeddah,7.6,88,SAR 833,Deluxe King Room,0,no,no,no,no,no
-Msharef almoden hotel فندق مشارف المدن,Jazan,9.0,567,"SAR 1,125",Deluxe Double Room,0,yes,no,no,no,yes
-هوتيلتن قرطبه HOTELTEN Qurtubah,Riyadh,8.1,80,"SAR 2,100",Studio,4.0,yes,no,no,no,yes
-فندق حور,"Al Hamra, Jeddah",7.5,301,"SAR 3,500",King Room,4.0,yes,no,no,no,no
-ال متعب سويتس الإزدهار,Riyadh,7.0,497,"SAR 3,250",Large Double Room,0,yes,no,no,no,yes
-Aseel Resort,Riyadh,8.1,151,"SAR 13,295",Deluxe Double Room,5.0,yes,no,no,no,yes
-هوليداي بلس قرطبة - Holiday Plus Qurtubah,Riyadh,6.9,517,"SAR 1,568",Executive Suite,0,yes,no,no,no,no
-Al Ayniah Hotel,Al Madinah,7.8,0,"SAR 1,800",Double Room,2.0,yes,no,no,no,yes
-المواسم الأربعة للوحدات السكنية,Tabuk,8.7,242,"SAR 1,350",Studio,0,no,no,no,yes,no
-The Royal One Hotel,"Al Olaya, Riyadh",8.0,75,"SAR 6,000",Superior King Room,5.0,no,no,no,no,no
-Hayat Al Riyadh Washam Hotel,Riyadh,8.2,0,"SAR 2,200",Deluxe Double Room,4.0,no,no,no,yes,yes
-Doubletree By Hilton Makkah Jabal Omar,Makkah,8.5,0,"SAR 3,805",King Room - Mobility Access,4.0,no,no,yes,no,no
-وجهة التميز 2,Jeddah,8.1,297,SAR 939,Budget Double Room,0,no,no,no,yes,no
-Seiba Hotel Apartments-Riyadh,"Al Malaz, Riyadh",7.0,0,"SAR 2,100",Superior King Room,0,yes,yes,no,yes,no
-BN Residence,"Al Olayya, Al Khobar",9.2,0,"SAR 1,680",Standard King Room,0,no,no,no,no,no
-Tu Jardin Al Harmain- تو جاردن الحرمين,Jeddah,8.2,725,"SAR 1,250",Triple Room,3.0,no,no,no,yes,no
-Ahlin Suites 5,Riyadh,6.7,124,SAR 900,Deluxe Double Studio,3.0,no,no,no,yes,no
-Mena Hotel Tabuk,Tabuk,7.9,923,"SAR 1,683",Deluxe Room,3.0,no,no,no,yes,no
-City Center Plaza Aparthotel,Jeddah,6.6,0,"SAR 1,125",Deluxe Double Studio,0,no,no,no,yes,no
-Touq Balad,Jeddah,8.2,964,"SAR 1,331",Budget Double Room,3.0,no,no,no,yes,yes
-Raoum Inn Buraydah,Buraydah,8.0,920,"SAR 1,064",Deluxe Double Room,0,yes,no,yes,no,no
-Park Inn by Radisson Makkah Al Naseem,Makkah,7.8,0,SAR 904,Standard Room,4.0,yes,no,yes,yes,no
-Merfal Hotel Apartments Al Taawan مرفال التعاون,Riyadh,6.5,765,"SAR 1,200",Studio,0,no,no,no,yes,no
-Boudl Palestine Jeddah,Jeddah,7.5,97,"SAR 1,250",Studio,3.0,no,no,no,yes,no
-Palm Boutique Hotel,Jeddah,7.6,496,"SAR 1,733",Double Room,0,no,no,no,no,no
-فندق سروات بارك جده Sarwat Park Hotel Jeddah,"Al Shatiea, Jeddah",8.0,350,"SAR 1,836",King Room with Garden View,4.0,no,no,no,yes,no
-"Crowne Plaza - Jeddah Al Salam, an IHG Hotel",Jeddah,9.1,0,"SAR 4,752",King Room with Bathtub - Non-Smoking,0,yes,no,yes,no,no
-Best Western Plus Fursan,Riyadh,8.1,0,"SAR 1,898",Superior King Room,0,no,no,yes,no,yes
-Royal Casablanca,Jeddah,7.2,874,"SAR 1,450",Double or Twin Room,4.0,no,no,yes,no,no
-Varvan Al-Jubail,Al Jubail,6.6,865,SAR 875,Studio,0,no,no,no,no,no
-Ruve Jeddah Hotel,"Al Tahlia Street, Jeddah",7.8,0,"SAR 1,350",Standard Twin Room,4.0,no,no,yes,no,no
-Boudl Al Fayhaa,Riyadh,6.0,0,"SAR 1,330",Standard King Room,0,no,no,no,no,no
-Boudl Al Olaya,"Al Olaya, Riyadh",7.9,0,"SAR 2,220",Economy Double Room,0,no,no,no,no,no
-Yahalla Hotel Units 2,"Hera Street, Jeddah",6.4,304,"SAR 1,060",Standard Studio,0,no,no,no,no,no
-Radisson Blu Hotel Riyadh Qurtuba,Riyadh,8.2,0,"SAR 4,420",Standard Room,5.0,yes,no,yes,no,no
-Hilton Garden Inn Al Jubail,Al Jubail,8.1,0,"SAR 1,515",King Room - Mobility Accessible,4.0,yes,no,yes,yes,no
-Le Meridien Al Khobar,Al Khobar,8.3,0,"SAR 3,521","Deluxe Room, Sea View, 1 King",5.0,no,no,yes,yes,no
-Taleen Al Nakheel Apartment,Riyadh,6.3,385,"SAR 2,500",Studio Apartment,0,no,no,no,no,no
-شقق درر رامه للشقق المخدومة 7,Riyadh,5.1,78,"SAR 1,100",Studio Apartment,0,no,no,no,no,no
-ميلاس للوحدات المفروشة,Tabuk,8.8,42,"SAR 1,100",Studio,0,no,no,no,no,no
-فندق لاجونا ڤيستا بريدة,Buraydah,8.7,167,"SAR 5,495",One-Bedroom Villa,5.0,no,no,no,no,yes
-Rahhal Hotel Suites,Yanbu,8.2,364,"SAR 1,410",One-Bedroom Apartment,0,no,no,no,no,yes
-"Holiday Inn Riyadh Izdihar, an IHG Hotel",Riyadh,7.4,0,"SAR 2,925",Standard King Room,4.0,no,no,yes,yes,no
-TIME Ruba Hotel & Suites,Makkah,8.6,320,SAR 750,Deluxe King Room,5.0,no,no,no,no,yes
-هوم للأجنحة الفندقية,Khamis Mushayt,8.4,411,"SAR 1,495",Two-Bedroom Apartment,0,no,no,no,no,no
-Dana Hotel & Residences 2,Riyadh,8.6,0,"SAR 2,950",One-Bedroom Suite,0,yes,no,no,no,yes
-Arjaan Altakhassusi Hotel Suites,Riyadh,8.5,0,"SAR 1,795",Double Room,0,yes,no,no,yes,no
-فندق لوريف,Taif,9.9,287,"SAR 3,745",Deluxe Twin Room,4.0,no,no,no,no,yes
-Al Farhan Suites Ishbillia,Riyadh,7.3,0,"SAR 1,499",One-Bedroom Apartment,0,no,no,yes,no,no
-Condo Studio Self checkin,Riyadh,8.4,17,"SAR 1,620",Deluxe Studio,0,no,no,no,yes,no
-Rose Garden Hotel,Riyadh,6.7,0,"SAR 1,500",Deluxe Room,0,no,no,no,yes,no
-روز للشقق الفندقية,Hotat bani tamim,6.1,26,"SAR 1,145",Studio,0,no,no,no,yes,no
-Amaken Aparthotel,Al Hofuf,7.9,732,"SAR 1,240",Budget Double Room,0,no,no,no,yes,no
-Myrtle Hotel - Al Sahafa,Riyadh,7.5,0,"SAR 3,495",Deluxe King Room,4.0,no,no,no,yes,no
-"InterContinental Durrat Al Riyadh Resort & Spa, an IHG Hotel",Riyadh,8.2,482,"SAR 3,792",Classic Room,5.0,yes,no,yes,yes,no
-فلورز سويتس,Yanbu,7.8,166,SAR 900,Family Studio,0,no,no,no,yes,no
-Burj Alhayah Hotel Suites Alfalah,Riyadh,6.8,795,"SAR 1,300",Deluxe Room,0,no,no,no,yes,yes
-Nelover Hotel Hafar,Hafr Al Baten,8.1,265,"SAR 1,450",Studio,0,no,no,no,yes,yes
-"Crowne Plaza Riyadh - RDC Hotel & Convention, an IHG Hotel",Riyadh,8.9,0,"SAR 4,373",Standard Room,5.0,yes,no,yes,yes,no
-Marvelous Hotel,Tabuk,9.5,194,"SAR 1,820",Twin Room with Shared Toilet,3.0,no,no,no,yes,yes
-Yar Furnished Apartments,Jazan,6.9,404,"SAR 3,275",Villa with Private Pool,3.0,no,no,no,no,no
-Boudl Al Corniche,Dammam,8.7,0,"SAR 1,250",Standard King Room,0,no,yes,no,no,no
-ال متعب سويتس خريص,Riyadh,5.2,214,"SAR 3,000",Deluxe King Room,3.0,no,no,no,no,no
-Four Seasons Hotel Riyadh,"Al Olaya, Riyadh",8.8,0,"SAR 11,688",Superior Room with King Bed,5.0,no,yes,yes,no,no
-قصر اليمامة للشقق المخدومة Al Yamama Palace Serviced Apartments,Yanbu,6.6,356,"SAR 1,080",Studio Apartment,0,no,no,no,no,no
-Rio Hotel Olaya,"Al Olaya, Riyadh",8.0,862,"SAR 3,375",Standard King Room,4.0,no,yes,yes,no,no
-Hyatt House Jeddah Sari Street,"Al Salamah, Jeddah",8.3,0,"SAR 2,731",King Studio with Sofa Bed,4.0,no,no,no,yes,no
-Radisson Blu Plaza Jeddah,Jeddah,8.2,0,"SAR 1,750",Standard Room,4.0,yes,no,no,yes,no
-Best Trip Serviced Apartments,Jeddah,8.1,0,"SAR 1,232",One-Bedroom Apartment,0,no,no,no,yes,no
-Voyage Apartments,"Al Sulimania, Riyadh",8.1,0,"SAR 2,218",Executive Suite,0,no,no,no,no,no
-Al Taif Gate Hotel Suites,Taif,7.4,0,"SAR 1,890",One-Bedroom Apartment,0,no,no,yes,yes,no
-Casablanca Grand Hotel,Jeddah,9.2,0,"SAR 3,563",Twin Room,5.0,no,no,no,no,no
-"Radisson Blu Hotel, Jeddah Al Salam","Al Salamah, Jeddah",8.8,0,"SAR 2,763",Standard Room,5.0,yes,no,no,yes,no
-Hotel Zayara,"Al Olaya, Riyadh",6.6,717,"SAR 5,750",Family Studio,0,yes,no,no,no,no
-DoubleTree by Hilton Hotel Riyadh - Al Muroj Business Gate,Riyadh,7.2,0,"SAR 3,472",King Room - Mobility Access,4.0,no,no,no,yes,no
-"Dar Al Tawhid Intercontinental Makkah, an IHG Hotel",Makkah,8.8,0,"SAR 7,641",Standard Room,5.0,yes,no,no,no,no
-Aster Hotel,"Al Hamra, Jeddah",7.5,0,"SAR 1,733",Standard Room,4.0,yes,no,yes,yes,no
-"Holiday Inn Al Khobar - Corniche, an IHG Hotel","Al Yarmouk, Al Khobar",7.2,0,"SAR 1,580",Standard King Room - Smoking,4.0,yes,no,no,yes,no
-Courtyard by Marriott Jazan,Jazan,8.5,697,"SAR 2,250",Deluxe King Room,4.0,no,no,no,yes,no
-Sokon Ladn Hotel,Riyadh,7.2,6,"SAR 1,500",Twin Room with Balcony,4.0,no,no,no,no,no
-Renee Suites,"Sari Street, Jeddah",8.7,9,"SAR 5,000",King Suite,3.0,yes,no,yes,no,no
-شقق درر رامه للشقق المخدومة 6,Riyadh,6.4,161,"SAR 2,000",Two-Bedroom Apartment,0,yes,no,no,no,no
-Rokn Al Omor Apartments by Quiet Rooms,Riyadh,5.4,726,"SAR 1,000",Studio,0,no,no,no,no,no
-Quiet Dreams - Al Noor Branch,"South Obhr, Jeddah",9.1,81,"SAR 1,748",Studio,0,no,no,no,no,no
-Lotaz Hotel Suites - Al Salamah,"Al Salamah, Jeddah",9.1,710,"SAR 3,046",One-Bedroom Suite,0,yes,no,no,yes,yes
-فندق سافوي جدة Savoye Hotel,Jeddah,8.9,134,"SAR 1,875",Double Room,3.0,yes,yes,yes,no,no
-Novotel Jeddah Tahlia,"Al Andalus, Jeddah",7.6,0,"SAR 1,596",Superior Double Room with Sofa Bed,4.0,yes,no,no,yes,no
-Al Azmy Al Ared Hotel,Riyadh,3.7,255,SAR 800,Double Room,0,no,no,no,no,no
-M Hotel Al Dana Makkah by Millennium,Makkah,7.9,0,SAR 834,Standard Double Room,4.0,yes,no,yes,no,no
-Al Taif Gate Hotel Suites,Taif,7.4,0,"SAR 1,890",One-Bedroom Apartment,0,no,no,yes,yes,no
-Residence Inn by Marriott Dammam,Dammam,9.0,0,"SAR 3,000",King Studio with City View,4.0,yes,no,no,no,yes
-ستاى ان غرف واجنحه فندقيه Stay Inn Suites,"Al Salamah, Jeddah",6.4,152,"SAR 2,250",Economy Double Room,0,yes,no,no,no,no
-Sama Al Qasr - Khurais,Riyadh,7.1,992,"SAR 1,250",Double Room,0,no,no,yes,no,no
-Sama Residence,"Al Olayya, Al Khobar",8.0,278,"SAR 1,100",Deluxe Studio,0,no,no,no,no,no
-Rafa,Riyadh,7.2,0,"SAR 1,944",Deluxe Room (2 Adults + 1 Child),0,yes,no,no,no,no
-شقق الورود بارك,Al Mikhlaf,7.981994047619047,0,"SAR 1,425",One-Bedroom Apartment,0,yes,no,no,yes,no
-Ramada Encore Al Khobar Corniche- رمادا أنكور الخبر كورنيش,Al Khobar,8.5,246,"SAR 1,900",King Room - Smoking,4.0,no,no,no,no,no
-Dorar Darea Hotel Apartments - Al Nafl,Riyadh,7.2,563,"SAR 1,782",Double Room,0,no,no,no,no,no
-OYO 401 Al Zaidan For Furnished Units,Buraydah,6.0,224,SAR 654,Standard Studio Twin,0,no,no,no,no,no
-Courtyard by Marriott Jubail,Al Jubail,8.6,94,"SAR 1,738",King Room with City View,4.0,no,no,no,no,yes
-La Fontaine Jeddah Hotel,Jeddah,7.3,0,"SAR 1,395",Deluxe Double Room,3.0,no,no,yes,no,no
-Y Platinum Hotel,Al Madinah,8.1,245,"SAR 2,600",Standard Double or Twin Room,0,no,no,no,no,no
-Kyona Purple - Al Qurayat,Jeddah,7.8,0,"SAR 1,215",Studio,2.0,no,no,no,no,no
-فنـــــــــدق ايليفــــــــــــار Elevar Hotel,Al Khobar,8.5,63,"SAR 1,495",Queen Room with Sea View,4.0,no,no,no,no,no
-Crown Rose AlSahafa Hotel,Riyadh,7.4,0,"SAR 3,425",Superior King Room,4.0,no,yes,yes,no,no
-Mövenpick Hotel Jeddah,Jeddah,7.6,0,"SAR 1,955",Classic King Room,4.0,yes,no,no,no,yes
-Novotel Dammam Business Park,Dammam,7.3,0,"SAR 1,228",Standard Double Room,4.0,yes,no,no,no,yes
-Rest Night Hotel Apartment- AlHamra,"Al Hamra, Riyadh",7.5,0,"SAR 1,475",Single Room,0,no,yes,no,no,no
-Radisson Hotel & Apartments Dammam Industry City,Dammam,7.9,0,"SAR 1,585",Standard Room,4.0,no,yes,yes,no,no
-Traveller Inn Hotel Appartments,"Al Olayya, Al Khobar",7.4,0,"SAR 1,134",Deluxe Double Room,0,yes,no,no,no,yes
-Ewaa Express Hotel - Al Jouf,Sakakah,8.9,752,"SAR 1,485",Standard Double Room,3.0,no,no,yes,yes,no
-Our Habitas AlUla,AlUla,9.3,928,"SAR 7,338",Canyon Villa,5.0,no,yes,yes,no,no
-Al Farhan Hotel & Suites Hafr Al Batin,Abū Qa‘ar,8.1,572,SAR 630,Deluxe Family Room,3.0,yes,no,yes,yes,no
-Bay La Sun Hotel and Marina - KAEC,King Abdullah Economic City,8.2,0,"SAR 4,000",Standard Double Room,5.0,yes,yes,yes,yes,yes
-Marina Arar Furnished Apartments,Arar,8.6,0,SAR 925,One-Bedroom Apartment with Living Room,0,no,no,no,yes,no
-Karims Hotel,Al Majmaah,8.0,204,"SAR 1,527",Deluxe Twin Room,2.0,yes,no,no,yes,yes
-Novotel Jazan,Jazan,8.7,0,"SAR 1,740",Standard Double Room,5.0,yes,yes,yes,yes,yes
-Best Western Plus Al Qurayyat City Center,Al Qurayyat,8.7,231,"SAR 1,853",Superior King Room - Non-Smoking,4.0,yes,yes,yes,no,no
-Views Hotel & Residences,King Abdullah Economic City,8.5,0,"SAR 4,055",Studio with Courtyard View,0,yes,no,yes,yes,no
-Raoum Inn Majmaa,Al Majmaah,6.4,486,SAR 851,Junior Suite,0,no,no,no,yes,no
-Golden Bujari Bisha جولدن بوجاري بيشة,Qal'at Bishah,8.6,376,"SAR 1,995",Junior Suite,4.0,yes,no,no,yes,yes
-Boudl Majmaa,Al Majmaah,8.1,700,"SAR 1,236",Standard Room With King Bed,0,no,yes,yes,yes,no
-Grand Millennium Gizan,Jazan,8.2,0,"SAR 2,600",Deluxe King Bed Room - Non Sea View,5.0,yes,yes,yes,yes,yes
-Raoum Inn Khafji Southern,Al Khafji,6.0,798,SAR 723,Superior Double Room,0,no,no,no,yes,no
-فندق ادوماتو ADOMATo HOTEl,Dawmat al Jandal,8.0,103,"SAR 1,100",One-Bedroom Suite,2.0,no,yes,yes,yes,yes
-Raoum Inn Sakaka,Sakakah,7.7,457,"SAR 1,064",Superior Double Room,0,no,no,yes,yes,no
-Mirada Gold Jizan - Resort & Private Pools,Jazan,8.4,0,SAR 983,One-Bedroom Villa,5.0,no,no,no,yes,yes
-Waves Hotel,Umm Lajj,9.4,860,"SAR 4,400",King Room with Mountain View,5.0,yes,yes,yes,yes,yes
-إطلالة الواحة للوحدات السكنية المخدومة,Al Majmaah,8.1,342,SAR 894,Studio,0,yes,no,no,yes,yes
-Boudl Mahayel Aseer,Muhayil,8.1,967,"SAR 1,275",Standard Double Room,0,yes,yes,no,yes,no
-Raoum Inn Khafji Corniche,Al Khafji,8.3,352,"SAR 1,489",Double or Twin Room with Side Sea View,0,yes,yes,yes,yes,yes
-Ramada Hotel & Suites by Wyndham Al Qassim,Al Bukayriyah,8.9,0,"SAR 1,743",King Room - Smoking,5.0,yes,yes,yes,yes,yes
-Makarim Palm Hotel,Rabigh,6.9,240,"SAR 1,013",One-Bedroom Apartment,0,yes,no,no,yes,no
-Malfa Hotel Apartments,Qal'at Bishah,8.1,823,"SAR 1,250",Twin Room with Private Bathroom,0,yes,no,no,yes,yes
-Intour Al Khafji Hotel,Al Khafji,7.7,474,"SAR 1,465",Deluxe  Room,4.0,no,no,yes,yes,no
+Hotel Name,Address,Score,Number of reviews,Price,Room type,Room view,Swimming pool,Restaurant,Parking,Wheelchair accessibility
+Malfa Hotel Apartments,Qal'at Bishah,8.1Scored 8.1,823 reviews,"SAR 1,250",Twin Room with Private Bathroom,yes,no,no,yes,yes
+Intour Al Khafji Hotel,Al Khafji,7.7Scored 7.7,474 reviews,"SAR 1,465",Deluxe  Room,no,no,yes,yes,no
+Braira Al Ahsa,Al Ahsa,8.9Scored 8.9,"2,750 reviews","SAR 3,071",Classic Room,yes,yes,yes,yes,no
+الراحة بلازا للشقق المفروشة,Sharurah,7.1Scored 7.1,96 reviews,SAR 625,Twin Room,yes,no,no,yes,no
+Boudl Majmaa,Al Majmaah,8.1Scored 8.1,700 reviews,"SAR 1,656",Standard Room With King Bed,no,yes,yes,yes,no
+ريف الشرق للشقق الفندقية,Al Madinah,8.3Scored 8.3,309 reviews,SAR 990,Double Room,no,no,no,yes,no
+فندق نوفا بارك,Sharurah,9.2Scored 9.2,23 reviews,SAR 650,Double Room,no,no,no,yes,yes
+Rabigh Park Hotel,Rabigh,8.0Scored 8.0,504 reviews,"SAR 1,238",Superior Double Room,no,no,no,no,no
+Caravan by Habitas AlUla,AlUla,9.2Scored 9.2,714 reviews,"SAR 4,872",Double Room,yes,no,yes,yes,no
+Boudl Al Rass,Al Rass,8.7Scored 8.7,546 reviews,"SAR 1,330",Studio,no,no,no,yes,yes
+AlMuhaidb Residence Alkhafji,Al Khafji,8.4Scored 8.4,"1,119 reviews","SAR 1,405",Superior Double Room,no,no,yes,yes,no
+Palms Lily Hotel Suites,Al Ahsa,5.9Scored 5.9,"3,283 reviews",SAR 843,Studio,yes,no,no,yes,no
+Lily Hotel Suite Hofuf,Al Hofuf,8.4Scored 8.4,"1,436 reviews","SAR 1,250",King Studio,no,no,no,yes,yes
+Tala inn,Al Khafji,6.9Scored 6.9,296 reviews,SAR 851,Standard Double Room,no,no,no,no,no
+Boudl Al Jubail,Al Jubail,8.4Scored 8.4,"3,215 reviews","SAR 1,835",Standard Suite with City View,no,yes,yes,no,no
+Aber Unayzah,Unayzah,8.7Scored 8.7,"1,654 reviews","SAR 1,501",Twin Room,no,no,no,no,no
+Aber Bani Amr,Al Namas,9.2Scored 9.2,392 reviews,"SAR 1,150",Standard Double Room,no,no,no,no,no
+المهيدب للشقق المخدومة,Al Fuḑūl,7.7Scored 7.7,27 reviews,"SAR 1,400",Deluxe Studio,yes,no,no,yes,no
+Boudl Wadi Al Dawasir,Wadi Al Dawasir,8.5Scored 8.5,582 reviews,"SAR 1,200",Standard Double Room,no,no,no,no,no
+Park Inn by Radisson Najran,Najran,8.5Scored 8.5,725 reviews,"SAR 1,913",Superior Room,no,no,yes,no,no
+Top View - شقق المنظر,Al Hofuf,8.0Scored 8.0,"2,253 reviews","SAR 1,046",Budget Double Room,yes,no,no,yes,no
+Crystal Blue Hotel,Rabigh,6.7Scored 6.7,180 reviews,SAR 900,Double Room,no,no,yes,no,no
+قصر أباهي النعيرية,Al Nairyah,7.1Scored 7.1,28 reviews,SAR 900,Double Room,no,no,no,yes,no
+اقامة بلس ميرا هاوس,Baljurashi,7.7Scored 7.7,136 reviews,"SAR 2,798",Double Room,no,no,yes,no,yes
+القصر الكورنيش,Jazan,8.9Scored 8.9,161 reviews,"SAR 1,250",Deluxe Twin Room,no,no,no,no,yes
+Onizah Hotel,Unayzah,7.2Scored 7.2,703 reviews,SAR 930,Double Room,no,no,yes,no,no
+فندق الملحان,Qal'at Bishah,7.8Scored 7.8,75 reviews,"SAR 1,100",Twin Room with Shared Toilet,yes,no,no,no,no
+Rollins Hotel,Buraydah,8.0Scored 8.0,"3,283 reviews","SAR 1,183",One-Bedroom Suite with King Bed,yes,no,no,no,yes
+Warwick Al Jubail Hotel,Al Jubail,8.6Scored 8.6,"2,003 reviews","SAR 1,765",Standard King Room,yes,yes,no,no,no
+Raoum Inn Khafji Southern,Al Khafji,6.0Scored 6.0,798 reviews,SAR 723,Superior Double Room,no,no,no,yes,no
+Rest Night Hotel Apartments Wadi Al Dawasir,Wadi Al Dawasir,8.0Scored 8.0,873 reviews,"SAR 1,400",Double Room,yes,no,no,yes,yes
+الفخامه بارك,Şabyā,7.9Scored 7.9,143 reviews,"SAR 1,435",Double Room,yes,no,no,no,no
+فندق كوخ الضباب النماص,Al Namas,7.7Scored 7.7,21 reviews,"SAR 2,250",Studio with Balcony,no,yes,no,no,no
+Al Muhaidb Residence Al Maidan,Hafr Al Baten,8.4Scored 8.4,792 reviews,SAR 964,Standard Double Room,no,no,no,yes,no
+Grand Plaza Hotel - Jazan,Jazan,8.6Scored 8.6,"1,491 reviews","SAR 1,463",Standard King Room,no,yes,no,no,no
+Raoum Inn Sakaka,Sakakah,7.7Scored 7.7,457 reviews,"SAR 1,064",Superior Double Room,no,no,yes,yes,no
+Boudl Al Maidan,Hafr Al Baten,8.0Scored 8.0,146 reviews,"SAR 1,000",Two-Bedroom Apartment,no,yes,no,yes,no
+فندق هومي,Al Madinah,8.9Scored 8.9,68 reviews,"SAR 1,000",Double Room,no,no,no,no,no
+Lolia Hotel,Raḩīmah,8.9Scored 8.9,81 reviews,"SAR 2,400",Deluxe Junior Suite,no,no,no,no,no
+فندق صحارى الفرسان,Şabyā,8.2Scored 8.2,177 reviews,SAR 900,Standard King Room,no,no,no,no,no
+Radisson Blu Resort Jizan,Jazan,8.0Scored 8.0,"3,750 reviews","SAR 2,475",Standard Room,no,yes,yes,no,no
+شقق أحلى الأيام للوحدات السكنية المفروشة,Muhayil,8.8Scored 8.8,418 reviews,"SAR 1,000",Double Room,no,no,no,no,no
+أباهي للوحدات السكنية الحوطة,Hotat bani tamim,7.5Scored 7.5,27 reviews,SAR 810,Double Room,no,no,no,no,no
+Aber City Center,Hafr Al Baten,9.2Scored 9.2,889 reviews,"SAR 1,620",Standard Twin Room,no,no,no,yes,no
+Al Muhaidb Sudair,Ḩawţat Sudayr,7.9Scored 7.9,182 reviews,SAR 850,Studio,no,no,no,yes,no
+Hala Inn Arar Hotel,Arar,7.5Scored 7.5,548 reviews,"SAR 2,300",Standard Double Room,yes,yes,yes,yes,no
+LADAN APARTMENT,AlUla,8.4Scored 8.4,280 reviews,"SAR 1,750",One-Bedroom Apartment,yes,no,no,yes,no
+داركم 2 للشقق المخدومة,Buraydah,8.6Scored 8.6,47 reviews,"SAR 2,000",Studio,no,no,no,no,no
+قصر أباهي النعيرية,Al Nairyah,7.1Scored 7.1,28 reviews,SAR 900,Double Room,no,no,no,yes,no
+STwin Hotel,Hajlah,8.6Scored 8.6,43 reviews,"SAR 3,861",Deluxe King Room,no,no,no,no,no
+Ewaa Express Hotel - Tabuk,Tabuk,8.7Scored 8.7,"2,914 reviews","SAR 1,836",Standard King Room,no,no,no,no,no
+Al kharboush For Furnished Units,Hafr Al Baten,8.0Scored 8.0,"1,233 reviews",SAR 740,Deluxe Room (2 Adults + 1 Child),no,no,no,yes,no
+Central Park Hotel Bisha,Qal'at Bishah,7.8Scored 7.8,753 reviews,"SAR 1,035",Superior King Room,yes,yes,yes,yes,yes
+قصر أباهي النعيرية,Al Nairyah,7.1Scored 7.1,28 reviews,SAR 900,Double Room,no,no,no,yes,no
+Boudl Mahayel Aseer,Muhayil,8.1Scored 8.1,967 reviews,"SAR 1,236",Standard Double Room,yes,yes,no,yes,no
+Golden Tulip Hail,Hail,6.3Scored 6.3,"2,389 reviews","SAR 1,450",Deluxe Double or Twin Room,no,no,no,yes,yes
+Al Muhaidb Al Hada Resort,Al Hada,8.4Scored 8.4,785 reviews,"SAR 1,332",Economy Double Room,no,no,no,yes,no
+Holiday Villa Hail,Hail,8.1Scored 8.1,"1,535 reviews","SAR 1,770",Standard King Room,yes,yes,yes,yes,yes
+Manazel Al Hamra Apartment 2,Buraydah,7.9Scored 7.9,"1,118 reviews","SAR 1,350",Deluxe Double Room,no,no,no,yes,no
+حياة تاون 3,Umm Lajj,8.4Scored 8.4,65 reviews,"SAR 1,750",Deluxe Room (2 Adults + 1 Child),no,no,no,yes,yes
+Raoum Inn Khafji Corniche,Al Khafji,8.3Scored 8.3,352 reviews,"SAR 1,489",Double or Twin Room with Side Sea View,yes,yes,yes,yes,yes
+Al Ahsa Grand Hotel,Al Hofuf,8.5Scored 8.5,"2,453 reviews","SAR 2,010",Junior Suite Twin,no,no,no,yes,yes
+Ewaa Express Hotel - Buraydah,Buraydah,8.2Scored 8.2,"2,803 reviews","SAR 1,575",Standard Room,no,no,no,yes,no
+Boudl Al Fakhria,Unayzah,8.8Scored 8.8,"1,005 reviews","SAR 1,125",Double Room,no,yes,no,yes,no
+دايموند Diamond,AlUla,7.8Scored 7.8,375 reviews,"SAR 2,500",Double or Twin Room with Private Bathroom,no,no,no,yes,no
+Raoum Inn - Hawtah Bani Tamim,Hotat bani tamim,6.6Scored 6.6,183 reviews,SAR 596,One-Bedroom Suite,yes,no,no,yes,no
+Taiba Suites Madinah,"Central Madinah, Al Madinah",8.3Scored 8.3,954 reviews,"SAR 5,375",Junior Suite,no,no,no,yes,yes
+Aber Khamis Mushait,Khamis Mushayt,8.6Scored 8.6,"1,726 reviews","SAR 1,510",Superior Double Room,no,no,no,no,yes
+فندق ارجان بارك Arjan Park Hotel,Wadi Al Dawasir,9.1Scored 9.1,231 reviews,"SAR 2,150",One-Bedroom Suite,yes,no,no,yes,yes
+فندق جيست هاوس,Yanbu,8.8Scored 8.8,525 reviews,"SAR 3,800",Deluxe King Studio,yes,no,no,no,yes
+Millennium Hail Hotel,Hail,8.4Scored 8.4,"2,689 reviews","SAR 1,820",Superior Double Room with King Bed,no,no,no,no,yes
+Raoum Inn Hafr Al Baten,Hafr Al Baten,8.0Scored 8.0,"1,115 reviews",SAR 766,One-Bedroom Suite,yes,no,no,no,yes
+Low Light Suites,Al Kharj,7.8Scored 7.8,209 reviews,"SAR 1,000",Deluxe Double Room,no,no,no,no,no
+Rabigh Tower Hotel,Rabigh,5.2Scored 5.2,216 reviews,SAR 761,Double Room,yes,no,no,no,no
+فندق لمسات نجران,Najran,8.4Scored 8.4,202 reviews,SAR 655,King Room,yes,no,no,yes,no
+Ewaa Express Hotel - Al Jouf,Sakakah,8.9Scored 8.9,752 reviews,"SAR 1,485",Standard Double Room,no,no,yes,yes,no
+Our Habitas AlUla,AlUla,9.3Scored 9.3,928 reviews,"SAR 7,934",Canyon Villa,no,yes,yes,no,no
+Al Farhan Hotel & Suites Hafr Al Batin,Abū Qa‘ar,8.1Scored 8.1,572 reviews,SAR 630,Deluxe Family Room,yes,no,yes,yes,no
+Bay La Sun Hotel and Marina - KAEC,King Abdullah Economic City,8.2Scored 8.2,"4,746 reviews","SAR 3,660",Standard Double Room,yes,yes,yes,yes,yes
+Marina Arar Furnished Apartments,Arar,8.6Scored 8.6,"1,164 reviews",SAR 925,One-Bedroom Apartment with Living Room,no,no,no,yes,no
+Karims Hotel,Al Majmaah,8.0Scored 8.0,204 reviews,"SAR 1,527",Deluxe Twin Room,yes,no,no,yes,yes
+Novotel Jazan,Jazan,8.7Scored 8.7,"8,284 reviews","SAR 1,740",Standard Double Room,yes,yes,yes,yes,yes
+Best Western Plus Al Qurayyat City Center,Al Qurayyat,8.7Scored 8.7,231 reviews,"SAR 1,853",Superior King Room - Non-Smoking,yes,yes,yes,no,no
+Views Hotel & Residences,King Abdullah Economic City,8.5Scored 8.5,"4,653 reviews","SAR 4,388",Studio with Courtyard View,yes,no,yes,yes,no
+Raoum Inn Majmaa,Al Majmaah,6.4Scored 6.4,486 reviews,SAR 851,Junior Suite,no,no,no,yes,no
+Golden Bujari Bisha جولدن بوجاري بيشة,Qal'at Bishah,8.6Scored 8.6,376 reviews,"SAR 1,596",Junior Suite,yes,no,no,yes,yes
+Boudl Majmaa,Al Majmaah,8.1Scored 8.1,700 reviews,"SAR 1,242",Standard Room With King Bed,no,yes,yes,yes,no
+Grand Millennium Gizan,Jazan,8.2Scored 8.2,"4,281 reviews","SAR 2,600",Deluxe King Bed Room - Non Sea View,yes,yes,yes,yes,yes
+AlMuhaidb Residence Alkhafji,Al Khafji,8.4Scored 8.4,"1,119 reviews","SAR 1,405",Superior Double Room,no,no,yes,yes,no
+Tanuma Aram Hospitality - Hotel Apartments,Tanomah,8.0Scored 8.0,937 reviews,SAR 978,Studio with Mountain View,yes,no,yes,yes,yes
+Raoum Inn Khafji Southern,Al Khafji,6.0Scored 6.0,798 reviews,SAR 723,Superior Double Room,no,no,no,yes,no
+فندق ادوماتو ADOMATo HOTEl,Dawmat al Jandal,8.0Scored 8.0,103 reviews,"SAR 1,100",One-Bedroom Suite,no,yes,yes,yes,yes
+Raoum Inn Sakaka,Sakakah,7.7Scored 7.7,457 reviews,"SAR 1,064",Superior Double Room,no,no,yes,yes,no
+Mirada Gold Jizan - Resort & Private Pools,Jazan,8.4Scored 8.4,"6,299 reviews",SAR 983,One-Bedroom Villa,no,no,no,yes,yes
+Waves Hotel,Umm Lajj,9.4Scored 9.4,860 reviews,"SAR 4,400",King Room with Mountain View,yes,yes,yes,yes,yes
+إطلالة الواحة للوحدات السكنية المخدومة,Al Majmaah,8.1Scored 8.1,342 reviews,SAR 894,Studio,yes,no,no,yes,yes
+Boudl Mahayel Aseer,Muhayil,8.1Scored 8.1,967 reviews,"SAR 1,236",Standard Double Room,yes,yes,no,yes,no
+Raoum Inn Khafji Corniche,Al Khafji,8.3Scored 8.3,352 reviews,"SAR 1,489",Double or Twin Room with Side Sea View,yes,yes,yes,yes,yes
+Ramada Hotel & Suites by Wyndham Al Qassim,Al Bukayriyah,8.9Scored 8.9,"1,352 reviews","SAR 1,743",King Room - Smoking,yes,yes,yes,yes,yes
+Makarim Palm Hotel,Rabigh,6.9Scored 6.9,240 reviews,"SAR 1,013",One-Bedroom Apartment,yes,no,no,yes,no
+Ewaa Express Hotel - Al Jouf,Sakakah,8.9Scored 8.9,752 reviews,"SAR 1,485",Standard Double Room,no,no,yes,yes,no
+Our Habitas AlUla,AlUla,9.3Scored 9.3,928 reviews,"SAR 7,934",Canyon Villa,no,yes,yes,no,no
+Al Farhan Hotel & Suites Hafr Al Batin,Abū Qa‘ar,8.1Scored 8.1,572 reviews,SAR 630,Deluxe Family Room,yes,no,yes,yes,no
+Bay La Sun Hotel and Marina - KAEC,King Abdullah Economic City,8.2Scored 8.2,"4,746 reviews","SAR 3,660",Standard Double Room,yes,yes,yes,yes,yes
+Marina Arar Furnished Apartments,Arar,8.6Scored 8.6,"1,164 reviews",SAR 925,One-Bedroom Apartment with Living Room,no,no,no,yes,no
+Karims Hotel,Al Majmaah,8.0Scored 8.0,204 reviews,"SAR 1,575",Deluxe Twin Room,yes,no,no,yes,yes
+Novotel Jazan,Jazan,8.7Scored 8.7,"8,284 reviews","SAR 1,740",Standard Double Room,yes,yes,yes,yes,yes
+Best Western Plus Al Qurayyat City Center,Al Qurayyat,8.7Scored 8.7,231 reviews,"SAR 1,853",Superior King Room - Non-Smoking,yes,yes,yes,no,no
+Views Hotel & Residences,King Abdullah Economic City,8.5Scored 8.5,"4,653 reviews","SAR 4,222",Studio with Courtyard View,yes,no,yes,yes,no
+Raoum Inn Majmaa,Al Majmaah,6.4Scored 6.4,486 reviews,SAR 851,Junior Suite,no,no,no,yes,no
+Golden Bujari Bisha جولدن بوجاري بيشة,Qal'at Bishah,8.6Scored 8.6,376 reviews,"SAR 1,596",Junior Suite,yes,no,no,yes,yes
+Boudl Majmaa,Al Majmaah,8.1Scored 8.1,700 reviews,"SAR 1,242",Standard Room With King Bed,no,yes,yes,yes,no
+Grand Millennium Gizan,Jazan,8.2Scored 8.2,"4,281 reviews","SAR 2,600",Deluxe King Bed Room - Non Sea View,yes,yes,yes,yes,yes
+AlMuhaidb Residence Alkhafji,Al Khafji,8.4Scored 8.4,"1,119 reviews","SAR 1,405",Superior Double Room,no,no,yes,yes,no
+Tanuma Aram Hospitality - Hotel Apartments,Tanomah,8.0Scored 8.0,937 reviews,SAR 978,Studio with Mountain View,yes,no,yes,yes,yes
+Raoum Inn Khafji Southern,Al Khafji,6.0Scored 6.0,798 reviews,SAR 723,Superior Double Room,no,no,no,yes,no
+فندق ادوماتو ADOMATo HOTEl,Dawmat al Jandal,8.0Scored 8.0,103 reviews,"SAR 1,100",One-Bedroom Suite,no,yes,yes,yes,yes
+Raoum Inn Sakaka,Sakakah,7.7Scored 7.7,457 reviews,"SAR 1,064",Superior Double Room,no,no,yes,yes,no
+Mirada Gold Jizan - Resort & Private Pools,Jazan,8.4Scored 8.4,"6,299 reviews",SAR 983,One-Bedroom Villa,no,no,no,yes,yes
+Waves Hotel,Umm Lajj,9.4Scored 9.4,860 reviews,"SAR 4,400",King Room with Mountain View,yes,yes,yes,yes,yes
+إطلالة الواحة للوحدات السكنية المخدومة,Al Majmaah,8.1Scored 8.1,342 reviews,SAR 894,Studio,yes,no,no,yes,yes
+Boudl Mahayel Aseer,Muhayil,8.1Scored 8.1,967 reviews,"SAR 1,236",Standard Double Room,yes,yes,no,yes,no
+Raoum Inn Khafji Corniche,Al Khafji,8.3Scored 8.3,352 reviews,"SAR 1,489",Double or Twin Room with Side Sea View,yes,yes,yes,yes,yes
+Ramada Hotel & Suites by Wyndham Al Qassim,Al Bukayriyah,8.9Scored 8.9,"1,352 reviews","SAR 1,743",King Room - Smoking,yes,yes,yes,yes,yes
+Makarim Palm Hotel,Rabigh,6.9Scored 6.9,240 reviews,"SAR 1,013",One-Bedroom Apartment,yes,no,no,yes,no
+هابي دريم للشقق المخدومة,Ukaz,,,"SAR 1,000",Triple Room,no,no,no,no,no
+"Makkah Clock Royal Tower, A Fairmont Hotel","Ajyad, Makkah",8.1Scored 8.1,"29,449 reviews","SAR 4,448",Fairmont King Room with City View,no,no,yes,no,no
+أجنحة العلمين,Tabuk,8.9Scored 8.9,454 reviews,"SAR 1,850",Two-Bedroom Apartment,no,no,no,no,no
+Ewaa Express Hotel - Khurais,Riyadh,8.3Scored 8.3,"3,432 reviews","SAR 1,675",Standard Double Room,no,no,yes,no,no
+Palms Lily Hotel Suites,Al Ahsa,5.9Scored 5.9,"3,283 reviews",SAR 800,Studio,yes,no,no,yes,no
+Banyan Tree AlUla,AlUla,9.0Scored 9.0,129 reviews,"SAR 6,503",One-Bedroom Villa,yes,yes,yes,yes,no
+فندق فيفاء,Fayfāʼ,6.4Scored 6.4,234 reviews,"SAR 1,495",Double Room,no,no,no,no,no
+Movenpick Hotel and Residences Riyadh,Riyadh,8.8Scored 8.8,"2,794 reviews","SAR 5,639",Superior King Room,no,no,yes,no,no
+BN Residence,"Al Olayya, Al Khobar",9.2Scored 9.2,"1,054 reviews","SAR 1,680",Standard King Room,no,no,no,no,no
+Address Sharurah Hotel,Sharurah,7.5Scored 7.5,63 reviews,"SAR 1,225",Family Room with Bath,yes,no,yes,yes,yes
+Lily Hotel Suite Hofuf,Al Hofuf,8.4Scored 8.4,"1,436 reviews","SAR 1,200",King Studio,no,no,no,yes,yes
+Mirada Purple - Zahra,Jeddah,8.3Scored 8.3,"3,222 reviews","SAR 1,335",Studio,yes,no,no,yes,yes
+Boudl Khamis Mushait,Khamis Mushayt,9.4Scored 9.4,229 reviews,"SAR 1,650",Economy Twin Room,no,no,no,no,no
+Grand Hyatt Al Khobar Hotel and Residences,Al Khobar,8.9Scored 8.9,"7,325 reviews","SAR 4,250",King Room,yes,yes,yes,yes,yes
+"Al Ahsa InterContinental, an IHG Hotel",Al Ahsa,8.5Scored 8.5,236 reviews,"SAR 2,816",Classic King Room - Smoking,yes,yes,yes,yes,yes
+Narcissus Al Hamra Hotel Jeddah,Jeddah,9.1Scored 9.1,"3,221 reviews","SAR 5,432",Premium Room with City View,no,yes,yes,no,no
+Raoum Inn Buraydah,Buraydah,8.0Scored 8.0,920 reviews,"SAR 1,064",Deluxe Double Room,yes,no,yes,no,no
+HIGH VIEW HOTEL فندق عالية الاطلالة,Hafr Al Baten,9.2Scored 9.2,105 reviews,"SAR 1,400",Duplex Apartment,no,no,no,no,no
+Al Muhaidb Residence Al Takhassusi,"Al Olaya, Riyadh",6.5Scored 6.5,"1,350 reviews","SAR 1,674",Junior Suite,no,yes,no,no,no
+منتجع واحة الفريد للايواء السياحي بمدينة العلا,AlUla,7.8Scored 7.8,35 reviews,"SAR 4,950",King Room with Mountain View,no,no,no,no,no
+Ottoman Signature Hotel,Al Khobar,6.9Scored 6.9,"1,004 reviews",SAR 975,Economy Twin Room,yes,no,no,no,no
+Vista Haql Hotel,Al Humaizah,9.2Scored 9.2,6 reviews,"SAR 3,500",Double Room with Sea View,yes,yes,no,no,no
+Arif Housing Units,Buraydah,8.6Scored 8.6,"1,340 reviews","SAR 1,100",Standard Double Room,yes,no,no,no,yes
+Mövenpick Hotel Qassim,Buraydah,8.9Scored 8.9,"1,327 reviews","SAR 3,440",Deluxe King Room,yes,yes,yes,yes,yes
+Best Western Plus Buraidah,Buraydah,8.2Scored 8.2,"1,825 reviews","SAR 1,326",Grand Smoking 1 King Bed Room,no,no,no,no,no
+Ewaa Express Hotel - Al Jouf,Sakakah,8.9Scored 8.9,752 reviews,"SAR 1,485",Standard Double Room,no,no,yes,yes,no
+Our Habitas AlUla,AlUla,9.3Scored 9.3,928 reviews,"SAR 7,844",Canyon Villa,no,yes,yes,no,no
+Al Farhan Hotel & Suites Hafr Al Batin,Abū Qa‘ar,8.1Scored 8.1,572 reviews,SAR 630,Deluxe Family Room,yes,no,yes,yes,no
+Bay La Sun Hotel and Marina - KAEC,King Abdullah Economic City,8.2Scored 8.2,"4,746 reviews","SAR 4,000",Standard Double Room,yes,yes,yes,yes,yes
+Marina Arar Furnished Apartments,Arar,8.6Scored 8.6,"1,164 reviews",SAR 925,One-Bedroom Apartment with Living Room,no,no,no,yes,no
+Karims Hotel,Al Majmaah,8.0Scored 8.0,204 reviews,"SAR 1,527",Deluxe Twin Room,yes,no,no,yes,yes
+Novotel Jazan,Jazan,8.7Scored 8.7,"8,284 reviews","SAR 1,740",Standard Double Room,yes,yes,yes,yes,yes
+Best Western Plus Al Qurayyat City Center,Al Qurayyat,8.7Scored 8.7,231 reviews,"SAR 1,853",Superior King Room - Non-Smoking,yes,yes,yes,no,no
+Views Hotel & Residences,King Abdullah Economic City,8.5Scored 8.5,"4,653 reviews","SAR 4,055",Studio with Courtyard View,yes,no,yes,yes,no
+Raoum Inn Majmaa,Al Majmaah,6.4Scored 6.4,486 reviews,SAR 851,Junior Suite,no,no,no,yes,no
+Golden Bujari Bisha جولدن بوجاري بيشة,Qal'at Bishah,8.6Scored 8.6,376 reviews,"SAR 1,995",Junior Suite,yes,no,no,yes,yes
+Boudl Majmaa,Al Majmaah,8.1Scored 8.1,700 reviews,"SAR 1,236",Standard Room With King Bed,no,yes,yes,yes,no
+Grand Millennium Gizan,Jazan,8.2Scored 8.2,"4,281 reviews","SAR 2,600",Deluxe King Bed Room - Non Sea View,yes,yes,yes,yes,yes
+Raoum Inn Khafji Southern,Al Khafji,6.0Scored 6.0,798 reviews,SAR 723,Superior Double Room,no,no,no,yes,no
+فندق ادوماتو ADOMATo HOTEl,Dawmat al Jandal,8.0Scored 8.0,103 reviews,"SAR 1,100",One-Bedroom Suite,no,yes,yes,yes,yes
+Raoum Inn Sakaka,Sakakah,7.7Scored 7.7,457 reviews,"SAR 1,064",Superior Double Room,no,no,yes,yes,no
+Mirada Gold Jizan - Resort & Private Pools,Jazan,8.4Scored 8.4,"6,299 reviews","SAR 1,610",One-Bedroom Villa,no,no,no,yes,yes
+Waves Hotel,Umm Lajj,9.4Scored 9.4,860 reviews,"SAR 4,400",King Room with Mountain View,yes,yes,yes,yes,yes
+إطلالة الواحة للوحدات السكنية المخدومة,Al Majmaah,8.1Scored 8.1,342 reviews,SAR 894,Studio,yes,no,no,yes,yes
+Boudl Mahayel Aseer,Muhayil,8.1Scored 8.1,967 reviews,"SAR 1,236",Standard Double Room,yes,yes,no,yes,no
+Raoum Inn Khafji Corniche,Al Khafji,8.3Scored 8.3,352 reviews,"SAR 1,489",Double or Twin Room with Side Sea View,yes,yes,yes,yes,yes
+Ramada Hotel & Suites by Wyndham Al Qassim,Al Bukayriyah,8.9Scored 8.9,"1,352 reviews","SAR 2,250",King Room - Smoking,yes,yes,yes,yes,yes
+Makarim Palm Hotel,Rabigh,6.9Scored 6.9,240 reviews,"SAR 1,013",One-Bedroom Apartment,yes,no,no,yes,no
+Malfa Hotel Apartments,Qal'at Bishah,8.1Scored 8.1,823 reviews,"SAR 1,250",Twin Room with Private Bathroom,yes,no,no,yes,yes
+Intour Al Khafji Hotel,Al Khafji,7.7Scored 7.7,474 reviews,"SAR 1,465",Deluxe  Room,no,no,yes,yes,no
+شقق الورود بارك,Al Mikhlaf,,,"SAR 1,390",One-Bedroom Apartment,yes,no,no,yes,no
+سما2,Yanbu,8.0Scored 8.0,103 reviews,SAR 855,Deluxe Room (2 Adults + 1 Child),no,no,no,yes,no
+Tamyoz Aparthotel 2,Hail,7.1Scored 7.1,629 reviews,"SAR 1,150",Deluxe Studio,yes,yes,no,yes,no
+Crown Tower Hotel,Al Jubail,8.1Scored 8.1,"1,133 reviews","SAR 1,478",Superior Double Room,yes,no,yes,yes,no
+Top View - شقق المنظر,Al Hofuf,8.0Scored 8.0,"2,253 reviews","SAR 1,046",Budget Double Room,yes,no,no,yes,no
+Al Jahwah hotel,Al Namas,8.0Scored 8.0,463 reviews,"SAR 1,110",Deluxe King Room,no,no,no,yes,no
+AlRayah Hotel,Jazan,9.0Scored 9.0,279 reviews,"SAR 1,650",Deluxe Double Room,yes,no,no,yes,no
+جوان سويت للشقق المخدومة,Jeddah,7.6Scored 7.6,118 reviews,"SAR 1,500",Triple Room,no,no,no,yes,no
+Shaza Riyadh,Riyadh,8.2Scored 8.2,"4,180 reviews","SAR 2,900",Superior King Room,no,yes,no,yes,no
+Jeddah Hilton,"Al Shatiea, Jeddah",7.9Scored 7.9,"7,359 reviews","SAR 6,300",Deluxe King Room with City View,no,yes,no,yes,yes
+Fakhamat Al Orjoana & Suites,Sakakah,7.2Scored 7.2,462 reviews,SAR 900,One-Bedroom Apartment,yes,no,yes,no,no
+Reef Al Malaz International Hotel by Al Azmy,"Al Malaz, Riyadh",4.6Scored 4.6,"7,609 reviews",SAR 633,Standard King Room,no,no,no,yes,no
+أجنحة هدوء الفندقية,Riyadh,6.4Scored 6.4,5 reviews,"SAR 1,750",Two-Bedroom Apartment,no,no,no,no,no
+Aber Abha,Abha,9.1Scored 9.1,318 reviews,"SAR 1,635",Budget Double Room,no,no,no,yes,no
+Warwick Hotel Jeddah,Jeddah,8.4Scored 8.4,"5,907 reviews","SAR 1,386",Deluxe King Room,no,yes,yes,yes,no
+بيست تريب فالنسيا,Jazan,7.6Scored 7.6,399 reviews,"SAR 1,688",One-Bedroom Apartment,yes,no,no,yes,no
+Safa PARK HOTEL YANBU فندق صفا بارك ينبع,Yanbu,7.3Scored 7.3,217 reviews,SAR 745,Double Room,yes,no,no,yes,no
+Mirada Purple - Obhur,"South Obhr, Jeddah",7.9Scored 7.9,"4,043 reviews","SAR 1,013",Two-Bedroom Suite,no,no,no,yes,no
+Braira Al Dammam,Dammam,8.8Scored 8.8,"5,527 reviews","SAR 1,446",Deluxe Twin Room,no,yes,yes,yes,yes
+Boudl Al Munsiyah,Riyadh,7.8Scored 7.8,"3,141 reviews","SAR 2,102",Suite,no,yes,no,yes,no
+فندق زهرة جده,Jeddah,6.5Scored 6.5,66 reviews,"SAR 2,730",Studio,no,no,no,yes,no
+روائع للشقق المخدومة,Taif,6.1Scored 6.1,"1,815 reviews","SAR 1,350",Studio,no,no,no,yes,no
+Haven Plaza,"Al Olaya, Riyadh",6.4Scored 6.4,"2,080 reviews","SAR 1,598",Standard Room,no,no,no,no,no
+Centro Corniche Al Khobar by Rotana,Al Khobar,7.8Scored 7.8,"4,928 reviews","SAR 1,526",Centro Twin Room,no,yes,no,yes,no
+البندقية للأجنحة الفندقية بريدة BQ hotel suites,Buraydah,6.7Scored 6.7,50 reviews,"SAR 1,125",Superior King Room,no,no,yes,yes,no
+Burj Alawal,Al Jubail,8.5Scored 8.5,231 reviews,"SAR 1,250",One-Bedroom Suite,no,no,no,no,no
+Vivian Park Residential Apartment,"Al Aziziyah, Riyadh",8.9Scored 8.9,711 reviews,"SAR 1,855",Budget Double Room,no,no,no,yes,no
+Danat Layalina Apparthotel,Al Namas,7.4Scored 7.4,553 reviews,"SAR 1,350",One-Bedroom Apartment,no,no,yes,yes,yes
+Al Shiraz Suites,Muhayil,7.1Scored 7.1,64 reviews,"SAR 2,250",One-Bedroom Suite,no,no,no,yes,no
+Rest Night Hotel Apartments Wadi Al Dawasir,Wadi Al Dawasir,8.0Scored 8.0,873 reviews,"SAR 1,400",Double Room,yes,no,no,yes,yes
+فوربوينتس باي شيراتون مكة النسيم,Makkah,8.3Scored 8.3,"17,778 reviews",SAR 904,King Room,yes,no,yes,yes,no
+Al Rawda - Hotel,Tabuk,8.6Scored 8.6,353 reviews,SAR 581,King Studio,no,no,no,yes,no
+SPAR Furnished Hotel,Al Hofuf,7.6Scored 7.6,"1,359 reviews","SAR 1,250",Twin Room,no,no,no,yes,no
+Desert Rose,Hail,7.2Scored 7.2,956 reviews,"SAR 1,195",Deluxe Double Room (1 adult + 2 children),no,no,no,yes,no
+Pullman Zamzam Madina,"Central Madinah, Al Madinah",8.0Scored 8.0,"17,218 reviews","SAR 3,160",Superior King Room with City View,no,no,no,yes,no
+الفخامه بارك,Şabyā,7.9Scored 7.9,143 reviews,"SAR 1,435",Double Room,yes,no,no,no,no
+Aloft Dhahran Hotel,"Al Olayya, Al Khobar",8.4Scored 8.4,"3,804 reviews","SAR 1,553","Aloft Room, 1 King",yes,yes,yes,yes,no
+Sama Al Qasr Hotel Apartments,Riyadh,8.9Scored 8.9,610 reviews,"SAR 1,500",Economy Double Room,no,no,no,yes,no
+Silent Room 1 By Quiet Rooms,Riyadh,5.9Scored 5.9,"1,212 reviews","SAR 1,075",One-Bedroom Apartment,no,no,no,yes,no
+Al Nahda Urban Company Residential Units,Jeddah,6.3Scored 6.3,986 reviews,SAR 700,Studio,no,no,no,no,no
+Sunrise Suites,Tabuk,9.4Scored 9.4,76 reviews,"SAR 1,250",Standard Double Room,no,no,no,yes,no
+Iridium 70 Hotel,Jeddah,8.9Scored 8.9,"3,598 reviews","SAR 1,589",Standard Twin Room City View,no,yes,no,yes,no
+Hadab Al Sahafa,Riyadh,8.1Scored 8.1,"4,034 reviews","SAR 2,750",Economy Twin Room,yes,yes,no,yes,no
+ريـزورد بـلازا - RIZORD plaza,Hafr Al Baten,8.7Scored 8.7,337 reviews,"SAR 2,500",King Room,no,no,no,yes,yes
+Msakn Aldar,Abha,8.6Scored 8.6,626 reviews,"SAR 1,000",One-Bedroom Apartment,no,no,no,yes,yes
+فندق EWG أبحر الشاطئ golden sea,"South Obhr, Jeddah",7.7Scored 7.7,"1,188 reviews","SAR 2,160",Deluxe Double or Twin Room with Pool View,yes,yes,yes,yes,no
+Guests Inn,Riyadh,7.4Scored 7.4,349 reviews,"SAR 4,550",One-Bedroom Apartment,no,no,no,yes,no
+"Staybridge Suites - Al Khobar City, an IHG Hotel","Al Olayya, Al Khobar",8.8Scored 8.8,"1,213 reviews","SAR 1,595",Studio King Suite - Smoking,no,no,no,yes,no
+مشار العلا للشقق الفندقيه 1,AlUla,7.5Scored 7.5,11 reviews,"SAR 4,500",Two-Bedroom House,no,no,no,yes,no
+Al Muhaidb Khanshalila,Riyadh,7.4Scored 7.4,458 reviews,SAR 825,Standard Double Room,no,no,no,yes,no
+Ozone hotel,"Al Hamra, Jeddah",6.8Scored 6.8,"1,940 reviews","SAR 1,260",Standard Room,no,no,no,no,no
+Blue Diamond Hotel,"Al Hamra, Jeddah",8.8Scored 8.8,"1,241 reviews","SAR 2,000",Standard King Room,no,yes,yes,no,yes
+Hujra Hotel Tahlia Jeddah,"Al Tahlia Street, Jeddah",8.4Scored 8.4,"3,673 reviews","SAR 1,450",Deluxe Twin Room,yes,no,no,no,no
+Oriental Residence,Dammam,8.3Scored 8.3,"1,843 reviews","SAR 1,473",Deluxe Double Room,no,no,yes,no,no
+Al Muhaidb Residence Al Maidan,Hafr Al Baten,8.4Scored 8.4,792 reviews,SAR 964,Standard Double Room,no,no,no,yes,no
+Sama Inn Hotel,Riyadh,7.9Scored 7.9,"2,306 reviews","SAR 2,500",Deluxe Double Room,no,no,no,no,no
+شاليهات التميز الراقي,Al Hada,9.1Scored 9.1,48 reviews,"SAR 5,000",Three-Bedroom Chalet,no,yes,no,no,no
+Sharz Hotel,Buraydah,8.2Scored 8.2,769 reviews,"SAR 1,434",Deluxe Double Room,no,no,yes,no,no
+Hilton Riyadh Hotel & Residences,Riyadh,8.2Scored 8.2,"7,166 reviews","SAR 4,224",Twin Room,no,yes,yes,no,no
+قصر الممشى للشقق الفندقية,Jazan,8.2Scored 8.2,289 reviews,"SAR 2,750",One-Bedroom Apartment,no,no,no,no,no
+Boudl Al Maidan,Hafr Al Baten,8.0Scored 8.0,146 reviews,"SAR 1,000",Two-Bedroom Apartment,no,yes,no,yes,no
+The Venue Jeddah Corniche,"Al Shatiea, Jeddah",7.6Scored 7.6,"5,105 reviews","SAR 3,510",Deluxe City View King (City Tower),yes,yes,no,yes,no
+Grand Millennium Tabuk,Tabuk,8.9Scored 8.9,910 reviews,"SAR 3,875",Deluxe King Room,no,yes,yes,yes,yes
+Carawan Al Khaleej Hotel Olaya,"Al Olaya, Riyadh",8.6Scored 8.6,"1,675 reviews","SAR 1,995",Budget Twin Room,no,no,yes,yes,no
+Lavana Sari,"Sari Street, Jeddah",7.8Scored 7.8,"2,361 reviews","SAR 2,138",One-Bedroom Apartment,no,no,no,yes,yes
+Joudyan Jeddah Red Sea Mall,"Al Shatiea, Jeddah",8.1Scored 8.1,"1,682 reviews","SAR 3,600",Standard Double Room,no,yes,yes,no,no
+Gardino Hotel & Residence,Riyadh,8.4Scored 8.4,"2,994 reviews","SAR 3,670",Deluxe Room,no,yes,yes,yes,no
+Naviti Warwick Dammam,Dammam,8.1Scored 8.1,"3,754 reviews","SAR 1,250",Standard Double Room,no,yes,yes,yes,no
+Olian Hotel,Riyadh,7.8Scored 7.8,308 reviews,"SAR 2,083",Deluxe King Room,yes,yes,yes,yes,yes
+Al Muhaidb Residence Al Dowally,Hafr Al Baten,7.1Scored 7.1,693 reviews,"SAR 1,045",Standard Double Room,yes,yes,no,yes,yes
+Dana Rayhaan by Rotana,Dammam,9.0Scored 9.0,"1,841 reviews","SAR 1,635",Guest Room King Bed,yes,yes,no,no,no
+Banan Hotel Suites,Tabuk,9.5Scored 9.5,738 reviews,"SAR 2,198",Superior Double Room,no,no,no,yes,no
+Hilton Suites Makkah,Makkah,8.5Scored 8.5,"8,522 reviews","SAR 4,874",King Room with City View,no,no,no,no,no
+Madinah Hilton Hotel,"Central Madinah, Al Madinah",8.3Scored 8.3,"7,051 reviews","SAR 5,643",Twin Guest Room City View,no,no,no,no,no
+Nozol Al Reef by Al Azmy,Riyadh,4.3Scored 4.3,568 reviews,SAR 630,Double or Twin Room,no,no,no,no,no
+Ewaa Express Hotel - Al Jouf,Sakakah,8.9Scored 8.9,752 reviews,"SAR 1,485",Standard Double Room,no,no,yes,yes,no
+Our Habitas AlUla,AlUla,9.3Scored 9.3,928 reviews,"SAR 7,844",Canyon Villa,no,yes,yes,no,no
+Al Farhan Hotel & Suites Hafr Al Batin,Abū Qa‘ar,8.1Scored 8.1,572 reviews,SAR 630,Deluxe Family Room,yes,no,yes,yes,no
+Bay La Sun Hotel and Marina - KAEC,King Abdullah Economic City,8.2Scored 8.2,"4,746 reviews","SAR 4,000",Standard Double Room,yes,yes,yes,yes,yes
+Marina Arar Furnished Apartments,Arar,8.6Scored 8.6,"1,164 reviews",SAR 925,One-Bedroom Apartment with Living Room,no,no,no,yes,no
+Karims Hotel,Al Majmaah,8.0Scored 8.0,204 reviews,"SAR 1,575",Deluxe Twin Room,yes,no,no,yes,yes
+Novotel Jazan,Jazan,8.7Scored 8.7,"8,284 reviews","SAR 1,740",Standard Double Room,yes,yes,yes,yes,yes
+Best Western Plus Al Qurayyat City Center,Al Qurayyat,8.7Scored 8.7,231 reviews,"SAR 1,853",Superior King Room - Non-Smoking,yes,yes,yes,no,no
+Views Hotel & Residences,King Abdullah Economic City,8.5Scored 8.5,"4,653 reviews","SAR 4,222",Studio with Courtyard View,yes,no,yes,yes,no
+Raoum Inn Majmaa,Al Majmaah,6.4Scored 6.4,486 reviews,SAR 851,Junior Suite,no,no,no,yes,no
+Golden Bujari Bisha جولدن بوجاري بيشة,Qal'at Bishah,8.6Scored 8.6,376 reviews,"SAR 1,995",Junior Suite,yes,no,no,yes,yes
+Boudl Majmaa,Al Majmaah,8.1Scored 8.1,700 reviews,"SAR 1,272",Standard Apartment,no,yes,yes,yes,no
+Grand Millennium Gizan,Jazan,8.2Scored 8.2,"4,281 reviews","SAR 2,600",Deluxe King Bed Room - Non Sea View,yes,yes,yes,yes,yes
+AlMuhaidb Residence Alkhafji,Al Khafji,8.4Scored 8.4,"1,119 reviews","SAR 1,405",Superior Double Room,no,no,yes,yes,no
+Raoum Inn Khafji Southern,Al Khafji,6.0Scored 6.0,798 reviews,SAR 723,Superior Double Room,no,no,no,yes,no
+فندق ادوماتو ADOMATo HOTEl,Dawmat al Jandal,8.0Scored 8.0,103 reviews,"SAR 1,100",One-Bedroom Suite,no,yes,yes,yes,yes
+Raoum Inn Sakaka,Sakakah,7.7Scored 7.7,457 reviews,"SAR 1,064",Superior Double Room,no,no,yes,yes,no
+Mirada Gold Jizan - Resort & Private Pools,Jazan,8.4Scored 8.4,"6,299 reviews",SAR 983,One-Bedroom Villa,no,no,no,yes,yes
+Waves Hotel,Umm Lajj,9.4Scored 9.4,860 reviews,"SAR 4,400",King Room with Mountain View,yes,yes,yes,yes,yes
+إطلالة الواحة للوحدات السكنية المخدومة,Al Majmaah,8.1Scored 8.1,342 reviews,SAR 894,Studio,yes,no,no,yes,yes
+Boudl Mahayel Aseer,Muhayil,8.1Scored 8.1,967 reviews,"SAR 1,275",Standard Double Room,yes,yes,no,yes,no
+Raoum Inn Khafji Corniche,Al Khafji,8.3Scored 8.3,352 reviews,"SAR 1,489",Double or Twin Room with Side Sea View,yes,yes,yes,yes,yes
+Ramada Hotel & Suites by Wyndham Al Qassim,Al Bukayriyah,8.9Scored 8.9,"1,352 reviews","SAR 1,743",King Room - Smoking,yes,yes,yes,yes,yes
+Makarim Palm Hotel,Rabigh,6.9Scored 6.9,240 reviews,"SAR 1,013",One-Bedroom Apartment,yes,no,no,yes,no
+Malfa Hotel Apartments,Qal'at Bishah,8.1Scored 8.1,823 reviews,"SAR 1,250",Twin Room with Private Bathroom,yes,no,no,yes,yes
+Mena Hotel Nasiriah Riyadh,Riyadh,8.1Scored 8.1,422 reviews,"SAR 1,733",Standard King Room,no,no,yes,yes,no
+فندق سدرا,Al ‘Azīzīyah,7.0Scored 7.0,1 review,SAR 450,Double Room with Private Bathroom,no,no,yes,no,no
+OYO 416 Bonais Hotel,Al Ahsa,3.4Scored 3.4,260 reviews,SAR 671,Standard Studio,no,no,no,yes,no
+كازا رست للوحدات السكنية,Ḩayy aş Şāliḩīyah,6.5Scored 6.5,26 reviews,"SAR 1,853",Double Room,no,no,no,yes,no
+داركم 2 للشقق المخدومة,Buraydah,8.6Scored 8.6,47 reviews,"SAR 2,000",Studio,no,no,no,no,no
+Pullman ZamZam Makkah,"Ajyad, Makkah",6.7Scored 6.7,"25,757 reviews","SAR 2,246","Classic Room, 2 Single Size Beds, City View",yes,no,no,yes,no
+Ramada by Wyndham Dammam Khaleej Road,Dammam,6.7Scored 6.7,"4,183 reviews",SAR 956,Queen Room - Non-Smoking,yes,no,no,yes,no
+Toot House ALQAIM,Taif,8.3Scored 8.3,"2,538 reviews","SAR 1,500",Studio,no,no,no,yes,no
+Boudl Al Tahlia,"Al Tahlia Street, Jeddah",8.3Scored 8.3,"1,898 reviews","SAR 1,624",Standard Room,no,yes,no,yes,no
+Swiss In Tabuk Hotel,Tabuk,8.8Scored 8.8,728 reviews,"SAR 2,245",Classic Queen Room,yes,no,no,no,no
+الوادي للوحدات السكنية,Riyadh Al Khabra,8.0Scored 8.0,249 reviews,"SAR 1,000",Deluxe Twin Room,no,no,no,yes,no
+المعالي للشقق المخدومة 2,Hafr Al Baten,7.9Scored 7.9,10 reviews,SAR 750,Twin Room,no,no,no,no,no
+Kadi Hotel,Najran,7.7Scored 7.7,64 reviews,SAR 750,One-Bedroom Suite,yes,no,no,no,no
+Baisan Suites Al Jubail,Al Jubail,6.1Scored 6.1,620 reviews,SAR 895,Studio,no,no,no,no,no
+Diamond Tower,Al Jubail,7.9Scored 7.9,817 reviews,SAR 900,Studio,no,no,no,no,no
+Dar Hashim Hotel Suites - Al Sahafa,Riyadh,8.4Scored 8.4,"1,738 reviews","SAR 1,500",Studio Apartment,no,no,no,no,no
+Ibis Jeddah Malik Road,"King Abdul Aziz Road, Jeddah",7.8Scored 7.8,"3,320 reviews","SAR 1,280",Standard Twin Room,no,no,no,no,no
+The Proud Hotel Al Khobar,Al Khobar,8.8Scored 8.8,"6,530 reviews","SAR 1,468",Superior Double Room,no,no,no,no,no
+Makkah Towers,Makkah,7.7Scored 7.7,"11,381 reviews","SAR 4,334",Guest Room City View with Two Twin Beds,no,no,no,no,no
+Skyline Tabuk Hotel,Tabuk,9.2Scored 9.2,464 reviews,"SAR 2,005",Standard Double Room,yes,no,no,no,no
+Citadines Abha,Abha,8.7Scored 8.7,"1,267 reviews","SAR 2,447",Studio Deluxe,yes,yes,yes,no,no
+Al Hidayah Towers Hotel,Makkah,8.1Scored 8.1,"5,030 reviews",SAR 369,Deluxe Twin Room,no,no,no,no,no
+Violet Al Shisha Hotel,Makkah,8.1Scored 8.1,"13,424 reviews",SAR 924,Triple Room,no,no,no,no,no
+Lavent Park Hotel Suites,Jeddah,5.5Scored 5.5,52 reviews,"SAR 1,193",Double Room,yes,no,no,no,no
+جده هاوس Jeddah house,Jeddah,8.0Scored 8.0,15 reviews,"SAR 1,400",Deluxe King Room,yes,no,no,no,no
+Ewaa Express Hotel - Al Jouf,Sakakah,8.9Scored 8.9,752 reviews,"SAR 1,485",Standard Double Room,no,no,yes,yes,no
+Our Habitas AlUla,AlUla,9.3Scored 9.3,928 reviews,"SAR 7,844",Canyon Villa,no,yes,yes,no,no
+Al Farhan Hotel & Suites Hafr Al Batin,Abū Qa‘ar,8.1Scored 8.1,572 reviews,SAR 630,Deluxe Family Room,yes,no,yes,yes,no
+Bay La Sun Hotel and Marina - KAEC,King Abdullah Economic City,8.2Scored 8.2,"4,746 reviews","SAR 3,687",Standard Double Room,yes,yes,yes,yes,yes
+Marina Arar Furnished Apartments,Arar,8.6Scored 8.6,"1,164 reviews",SAR 925,One-Bedroom Apartment with Living Room,no,no,no,yes,no
+Karims Hotel,Al Majmaah,8.0Scored 8.0,204 reviews,"SAR 1,527",Deluxe Twin Room,yes,no,no,yes,yes
+Novotel Jazan,Jazan,8.7Scored 8.7,"8,284 reviews","SAR 1,740",Standard Double Room,yes,yes,yes,yes,yes
+Best Western Plus Al Qurayyat City Center,Al Qurayyat,8.7Scored 8.7,231 reviews,"SAR 1,853",Superior King Room - Non-Smoking,yes,yes,yes,no,no
+Views Hotel & Residences,King Abdullah Economic City,8.5Scored 8.5,"4,653 reviews","SAR 4,388",Studio with Courtyard View,yes,no,yes,yes,no
+Raoum Inn Majmaa,Al Majmaah,6.4Scored 6.4,486 reviews,SAR 851,Junior Suite,no,no,no,yes,no
+Golden Bujari Bisha جولدن بوجاري بيشة,Qal'at Bishah,8.6Scored 8.6,376 reviews,"SAR 1,596",Junior Suite,yes,no,no,yes,yes
+Boudl Majmaa,Al Majmaah,8.1Scored 8.1,700 reviews,"SAR 1,248",Standard Room With King Bed,no,yes,yes,yes,no
+Grand Millennium Gizan,Jazan,8.2Scored 8.2,"4,281 reviews","SAR 2,600",Deluxe King Bed Room - Non Sea View,yes,yes,yes,yes,yes
+AlMuhaidb Residence Alkhafji,Al Khafji,8.4Scored 8.4,"1,119 reviews","SAR 1,405",Superior Double Room,no,no,yes,yes,no
+Tanuma Aram Hospitality - Hotel Apartments,Tanomah,8.0Scored 8.0,937 reviews,SAR 978,Studio with Mountain View,yes,no,yes,yes,yes
+Raoum Inn Khafji Southern,Al Khafji,6.0Scored 6.0,798 reviews,SAR 723,Superior Double Room,no,no,no,yes,no
+فندق ادوماتو ADOMATo HOTEl,Dawmat al Jandal,8.0Scored 8.0,103 reviews,"SAR 1,100",One-Bedroom Suite,no,yes,yes,yes,yes
+Raoum Inn Sakaka,Sakakah,7.7Scored 7.7,457 reviews,"SAR 1,064",Superior Double Room,no,no,yes,yes,no
+Mirada Gold Jizan - Resort & Private Pools,Jazan,8.4Scored 8.4,"6,299 reviews",SAR 983,One-Bedroom Villa,no,no,no,yes,yes
+Waves Hotel,Umm Lajj,9.4Scored 9.4,860 reviews,"SAR 4,400",King Room with Mountain View,yes,yes,yes,yes,yes
+إطلالة الواحة للوحدات السكنية المخدومة,Al Majmaah,8.1Scored 8.1,342 reviews,SAR 894,Studio,yes,no,no,yes,yes
+Boudl Mahayel Aseer,Muhayil,8.1Scored 8.1,967 reviews,"SAR 1,236",Standard Double Room,yes,yes,no,yes,no
+Raoum Inn Khafji Corniche,Al Khafji,8.3Scored 8.3,352 reviews,"SAR 1,489",Double or Twin Room with Side Sea View,yes,yes,yes,yes,yes
+Ramada Hotel & Suites by Wyndham Al Qassim,Al Bukayriyah,8.9Scored 8.9,"1,352 reviews","SAR 1,743",King Room - Smoking,yes,yes,yes,yes,yes
+Makarim Palm Hotel,Rabigh,6.9Scored 6.9,240 reviews,"SAR 1,013",One-Bedroom Apartment,yes,no,no,yes,no
+Ewaa Express Hotel - Al Jouf,Sakakah,8.9Scored 8.9,752 reviews,"SAR 1,485",Standard Double Room,no,no,yes,yes,no
+Our Habitas AlUla,AlUla,9.3Scored 9.3,928 reviews,"SAR 7,844",Canyon Villa,no,yes,yes,no,no
+Al Farhan Hotel & Suites Hafr Al Batin,Abū Qa‘ar,8.1Scored 8.1,572 reviews,SAR 630,Deluxe Family Room,yes,no,yes,yes,no
+Bay La Sun Hotel and Marina - KAEC,King Abdullah Economic City,8.2Scored 8.2,"4,746 reviews","SAR 4,000",Standard Double Room,yes,yes,yes,yes,yes
+Marina Arar Furnished Apartments,Arar,8.6Scored 8.6,"1,164 reviews",SAR 925,One-Bedroom Apartment with Living Room,no,no,no,yes,no
+Karims Hotel,Al Majmaah,8.0Scored 8.0,204 reviews,"SAR 1,575",Deluxe Twin Room,yes,no,no,yes,yes
+Novotel Jazan,Jazan,8.7Scored 8.7,"8,284 reviews","SAR 1,740",Standard Double Room,yes,yes,yes,yes,yes
+Best Western Plus Al Qurayyat City Center,Al Qurayyat,8.7Scored 8.7,231 reviews,"SAR 1,853",Superior King Room - Non-Smoking,yes,yes,yes,no,no
+Views Hotel & Residences,King Abdullah Economic City,8.5Scored 8.5,"4,653 reviews","SAR 4,055",Studio with Courtyard View,yes,no,yes,yes,no
+Raoum Inn Majmaa,Al Majmaah,6.4Scored 6.4,486 reviews,SAR 851,Junior Suite,no,no,no,yes,no
+Golden Bujari Bisha جولدن بوجاري بيشة,Qal'at Bishah,8.6Scored 8.6,376 reviews,"SAR 1,596",Junior Suite,yes,no,no,yes,yes
+Boudl Majmaa,Al Majmaah,8.1Scored 8.1,700 reviews,"SAR 1,236",Standard Room With King Bed,no,yes,yes,yes,no
+Grand Millennium Gizan,Jazan,8.2Scored 8.2,"4,281 reviews","SAR 2,600",Deluxe King Bed Room - Non Sea View,yes,yes,yes,yes,yes
+AlMuhaidb Residence Alkhafji,Al Khafji,8.4Scored 8.4,"1,119 reviews","SAR 1,405",Superior Double Room,no,no,yes,yes,no
+Raoum Inn Khafji Southern,Al Khafji,6.0Scored 6.0,798 reviews,SAR 723,Superior Double Room,no,no,no,yes,no
+فندق ادوماتو ADOMATo HOTEl,Dawmat al Jandal,8.0Scored 8.0,103 reviews,"SAR 1,100",One-Bedroom Suite,no,yes,yes,yes,yes
+Raoum Inn Sakaka,Sakakah,7.7Scored 7.7,457 reviews,"SAR 1,064",Superior Double Room,no,no,yes,yes,no
+Mirada Gold Jizan - Resort & Private Pools,Jazan,8.4Scored 8.4,"6,299 reviews",SAR 983,One-Bedroom Villa,no,no,no,yes,yes
+Waves Hotel,Umm Lajj,9.4Scored 9.4,860 reviews,"SAR 4,400",King Room with Mountain View,yes,yes,yes,yes,yes
+إطلالة الواحة للوحدات السكنية المخدومة,Al Majmaah,8.1Scored 8.1,342 reviews,SAR 894,Studio,yes,no,no,yes,yes
+Boudl Mahayel Aseer,Muhayil,8.1Scored 8.1,967 reviews,"SAR 1,275",Standard Double Room,yes,yes,no,yes,no
+Raoum Inn Khafji Corniche,Al Khafji,8.3Scored 8.3,352 reviews,"SAR 1,489",Double or Twin Room with Side Sea View,yes,yes,yes,yes,yes
+Ramada Hotel & Suites by Wyndham Al Qassim,Al Bukayriyah,8.9Scored 8.9,"1,352 reviews","SAR 1,743",King Room - Smoking,yes,yes,yes,yes,yes
+Makarim Palm Hotel,Rabigh,6.9Scored 6.9,240 reviews,"SAR 1,013",One-Bedroom Apartment,yes,no,no,yes,no
+Malfa Hotel Apartments,Qal'at Bishah,8.1Scored 8.1,823 reviews,"SAR 1,250",Twin Room with Private Bathroom,yes,no,no,yes,yes
+Ewaa Express Hotel - Al Jouf,Sakakah,8.9Scored 8.9,752 reviews,"SAR 1,485",Standard Double Room,no,no,yes,yes,no
+Our Habitas AlUla,AlUla,9.3Scored 9.3,928 reviews,"SAR 7,844",Canyon Villa,no,yes,yes,no,no
+Al Farhan Hotel & Suites Hafr Al Batin,Abū Qa‘ar,8.1Scored 8.1,572 reviews,SAR 630,Deluxe Family Room,yes,no,yes,yes,no
+Bay La Sun Hotel and Marina - KAEC,King Abdullah Economic City,8.2Scored 8.2,"4,746 reviews","SAR 3,660",Standard Double Room,yes,yes,yes,yes,yes
+Marina Arar Furnished Apartments,Arar,8.6Scored 8.6,"1,164 reviews",SAR 925,One-Bedroom Apartment with Living Room,no,no,no,yes,no
+Karims Hotel,Al Majmaah,8.0Scored 8.0,204 reviews,"SAR 1,527",Deluxe Twin Room,yes,no,no,yes,yes
+Novotel Jazan,Jazan,8.7Scored 8.7,"8,284 reviews","SAR 1,740",Standard Double Room,yes,yes,yes,yes,yes
+Best Western Plus Al Qurayyat City Center,Al Qurayyat,8.7Scored 8.7,231 reviews,"SAR 1,853",Superior King Room - Non-Smoking,yes,yes,yes,no,no
+Views Hotel & Residences,King Abdullah Economic City,8.5Scored 8.5,"4,653 reviews","SAR 4,388",Studio with Courtyard View,yes,no,yes,yes,no
+Raoum Inn Majmaa,Al Majmaah,6.4Scored 6.4,486 reviews,SAR 851,Junior Suite,no,no,no,yes,no
+Golden Bujari Bisha جولدن بوجاري بيشة,Qal'at Bishah,8.6Scored 8.6,376 reviews,"SAR 1,596",Junior Suite,yes,no,no,yes,yes
+Boudl Majmaa,Al Majmaah,8.1Scored 8.1,700 reviews,"SAR 1,242",Standard Room With King Bed,no,yes,yes,yes,no
+Grand Millennium Gizan,Jazan,8.2Scored 8.2,"4,281 reviews","SAR 2,600",Deluxe King Bed Room - Non Sea View,yes,yes,yes,yes,yes
+AlMuhaidb Residence Alkhafji,Al Khafji,8.4Scored 8.4,"1,119 reviews","SAR 1,405",Superior Double Room,no,no,yes,yes,no
+Tanuma Aram Hospitality - Hotel Apartments,Tanomah,8.0Scored 8.0,937 reviews,SAR 978,Studio with Mountain View,yes,no,yes,yes,yes
+Raoum Inn Khafji Southern,Al Khafji,6.0Scored 6.0,798 reviews,SAR 723,Superior Double Room,no,no,no,yes,no
+فندق ادوماتو ADOMATo HOTEl,Dawmat al Jandal,8.0Scored 8.0,103 reviews,"SAR 1,100",One-Bedroom Suite,no,yes,yes,yes,yes
+Raoum Inn Sakaka,Sakakah,7.7Scored 7.7,457 reviews,"SAR 1,064",Superior Double Room,no,no,yes,yes,no
+Mirada Gold Jizan - Resort & Private Pools,Jazan,8.4Scored 8.4,"6,299 reviews",SAR 983,One-Bedroom Villa,no,no,no,yes,yes
+Waves Hotel,Umm Lajj,9.4Scored 9.4,860 reviews,"SAR 4,400",King Room with Mountain View,yes,yes,yes,yes,yes
+إطلالة الواحة للوحدات السكنية المخدومة,Al Majmaah,8.1Scored 8.1,342 reviews,SAR 894,Studio,yes,no,no,yes,yes
+Boudl Mahayel Aseer,Muhayil,8.1Scored 8.1,967 reviews,"SAR 1,236",Standard Double Room,yes,yes,no,yes,no
+Raoum Inn Khafji Corniche,Al Khafji,8.3Scored 8.3,352 reviews,"SAR 1,489",Double or Twin Room with Side Sea View,yes,yes,yes,yes,yes
+Ramada Hotel & Suites by Wyndham Al Qassim,Al Bukayriyah,8.9Scored 8.9,"1,352 reviews","SAR 1,743",King Room - Smoking,yes,yes,yes,yes,yes
+Makarim Palm Hotel,Rabigh,6.9Scored 6.9,240 reviews,"SAR 1,013",One-Bedroom Apartment,yes,no,no,yes,no
+Ewaa Express Hotel - Al Jouf,Sakakah,8.9Scored 8.9,752 reviews,"SAR 1,485",Standard Double Room,no,no,yes,yes,no
+Our Habitas AlUla,AlUla,9.3Scored 9.3,928 reviews,"SAR 7,338",Canyon Villa,no,yes,yes,no,no
+Al Farhan Hotel & Suites Hafr Al Batin,Abū Qa‘ar,8.1Scored 8.1,572 reviews,SAR 630,Deluxe Family Room,yes,no,yes,yes,no
+Bay La Sun Hotel and Marina - KAEC,King Abdullah Economic City,8.2Scored 8.2,"4,746 reviews","SAR 4,000",Standard Double Room,yes,yes,yes,yes,yes
+Marina Arar Furnished Apartments,Arar,8.6Scored 8.6,"1,164 reviews",SAR 925,One-Bedroom Apartment with Living Room,no,no,no,yes,no
+Karims Hotel,Al Majmaah,8.0Scored 8.0,204 reviews,"SAR 1,527",Deluxe Twin Room,yes,no,no,yes,yes
+Novotel Jazan,Jazan,8.7Scored 8.7,"8,284 reviews","SAR 1,740",Standard Double Room,yes,yes,yes,yes,yes
+Best Western Plus Al Qurayyat City Center,Al Qurayyat,8.7Scored 8.7,231 reviews,"SAR 1,853",Superior King Room - Non-Smoking,yes,yes,yes,no,no
+Views Hotel & Residences,King Abdullah Economic City,8.5Scored 8.5,"4,653 reviews","SAR 4,055",Studio with Courtyard View,yes,no,yes,yes,no
+Raoum Inn Majmaa,Al Majmaah,6.4Scored 6.4,486 reviews,SAR 851,Junior Suite,no,no,no,yes,no
+Golden Bujari Bisha جولدن بوجاري بيشة,Qal'at Bishah,8.6Scored 8.6,376 reviews,"SAR 1,995",Junior Suite,yes,no,no,yes,yes
+Boudl Majmaa,Al Majmaah,8.1Scored 8.1,700 reviews,"SAR 2,279",Standard Room With King Bed,no,yes,yes,yes,no
+Grand Millennium Gizan,Jazan,8.2Scored 8.2,"4,281 reviews","SAR 2,600",Deluxe King Bed Room - Non Sea View,yes,yes,yes,yes,yes
+Raoum Inn Khafji Southern,Al Khafji,6.0Scored 6.0,798 reviews,SAR 723,Superior Double Room,no,no,no,yes,no
+فندق ادوماتو ADOMATo HOTEl,Dawmat al Jandal,8.0Scored 8.0,103 reviews,"SAR 1,100",One-Bedroom Suite,no,yes,yes,yes,yes
+Raoum Inn Sakaka,Sakakah,7.7Scored 7.7,457 reviews,"SAR 1,064",Superior Double Room,no,no,yes,yes,no
+Mirada Gold Jizan - Resort & Private Pools,Jazan,8.4Scored 8.4,"6,299 reviews",SAR 983,One-Bedroom Villa,no,no,no,yes,yes
+Waves Hotel,Umm Lajj,9.4Scored 9.4,860 reviews,"SAR 4,400",King Room with Mountain View,yes,yes,yes,yes,yes
+إطلالة الواحة للوحدات السكنية المخدومة,Al Majmaah,8.1Scored 8.1,342 reviews,SAR 894,Studio,yes,no,no,yes,yes
+Boudl Mahayel Aseer,Muhayil,8.1Scored 8.1,967 reviews,"SAR 1,236",Standard Double Room,yes,yes,no,yes,no
+Raoum Inn Khafji Corniche,Al Khafji,8.3Scored 8.3,352 reviews,"SAR 1,489",Double or Twin Room with Side Sea View,yes,yes,yes,yes,yes
+Ramada Hotel & Suites by Wyndham Al Qassim,Al Bukayriyah,8.9Scored 8.9,"1,352 reviews","SAR 1,913",King Room - Smoking,yes,yes,yes,yes,yes
+Makarim Palm Hotel,Rabigh,6.9Scored 6.9,240 reviews,"SAR 1,013",One-Bedroom Apartment,yes,no,no,yes,no
+Malfa Hotel Apartments,Qal'at Bishah,8.1Scored 8.1,823 reviews,"SAR 1,250",Twin Room with Private Bathroom,yes,no,no,yes,yes
+Intour Al Khafji Hotel,Al Khafji,7.7Scored 7.7,474 reviews,"SAR 1,465",Deluxe  Room,no,no,yes,yes,no
+Mirnian Hotel,Jeddah,8.6Scored 8.6,"3,173 reviews","SAR 1,070",Executive Suite,no,no,yes,yes,no
+InterContinental Al Jubail Resort,Al Jubail,8.2Scored 8.2,"1,519 reviews","SAR 2,965",One King Bed Classic Accessible,no,no,no,no,no
+بنزرت للشقق الفندقيه,Al Hofuf,8.7Scored 8.7,114 reviews,"SAR 1,450",One-Bedroom Apartment,no,yes,no,no,no
+Al Muhaidb Al Takhasosi Hotel,Riyadh,7.8Scored 7.8,"1,094 reviews","SAR 1,557",Studio,no,no,no,no,no
+Golden Garden Al Corniche,Dammam,7.5Scored 7.5,"5,330 reviews","SAR 4,665",Deluxe Suite Partial Sea View,yes,yes,no,no,yes
+Nelover Hotel Ar Rawdah,"Al Rawdah, Riyadh",8.2Scored 8.2,"1,097 reviews","SAR 5,325",Two-Bedroom Suite,no,no,no,no,no
+Msharef almoden hotel فندق مشارف المدن,Riyadh,9.0Scored 9.0,218 reviews,"SAR 1,800",Deluxe King Room,yes,no,no,no,yes
+The Artisan Hotel-Suits,"Hera Street, Jeddah",8.5Scored 8.5,249 reviews,"SAR 1,850",One-Bedroom Apartment,no,no,no,no,no
+Swiss International Royal Hotel Riyadh,Riyadh,7.6Scored 7.6,"1,668 reviews","SAR 2,725",Accessible Room,no,no,no,no,no
+Braira Al Yarmouk,Riyadh,8.6Scored 8.6,"3,486 reviews","SAR 1,861",Standard Twin Room,no,no,no,no,yes
+همم للوحدات السكنية - الرحيلي Jeddah,Al Kura,8.0Scored 8.0,304 reviews,SAR 846,Basic Triple Room,no,no,no,yes,no
+Yahalla Hotel Units,"Hera Street, Jeddah",6.5Scored 6.5,515 reviews,"SAR 1,060",Standard Studio,no,no,no,no,no
+Nuzl Shada Hotel,"Al Salamah, Jeddah",8.5Scored 8.5,"3,546 reviews","SAR 1,748",Standard Queen Room,no,no,no,no,yes
+Mena Hotel Al Jubail,Al Jubail,7.7Scored 7.7,316 reviews,"SAR 1,063",Business King Suite,no,no,no,no,no
+فازا سويت تشغيل مؤسسه سويت لتشغيل الفنادق,Jeddah,8.3Scored 8.3,429 reviews,"SAR 1,418",Superior Studio,no,no,no,no,no
+Luxury Night Hotel,Riyadh,8.4Scored 8.4,820 reviews,"SAR 2,156",Standard King Room,no,no,no,yes,no
+Ibis Riyadh Olaya Street,"Al Olaya, Riyadh",6.8Scored 6.8,"3,049 reviews","SAR 1,309",Standard Room with 1 Double Bed,no,no,no,yes,no
+"Staybridge Suites Al Khobar, an IHG Hotel",Al Khobar,8.7Scored 8.7,"2,714 reviews","SAR 2,017",Studio Suite,no,no,no,no,yes
+Al Ebaa Hotel,Makkah,8.0Scored 8.0,"1,728 reviews","SAR 1,375",Standard Double or Twin Room,no,no,no,no,no
+Mena Andalusia Riyadh,"Al Olaya, Riyadh",6.3Scored 6.3,"2,744 reviews","SAR 2,478",Standard Room King,no,no,no,no,no
+Al Farhan Hotel Suites Al siteen,Al Jubail,7.2Scored 7.2,823 reviews,SAR 795,Deluxe Double Room (1 adult + 1 child),no,no,no,yes,no
+"Radisson Blu Residence, Dhahran","Al Olayya, Al Khobar",8.5Scored 8.5,"4,139 reviews","SAR 1,573",Standard Room,no,no,no,yes,no
+IntercityHotel Riyadh Malaz,"Al Malaz, Riyadh",7.9Scored 7.9,"2,619 reviews","SAR 2,813",Superior King Room,yes,no,no,no,yes
+Al Andalus Mall Hotel,Jeddah,8.3Scored 8.3,"4,277 reviews","SAR 1,664",King Studio - Disabilty Access,no,no,no,no,yes
+Ewaa Express Hotel - Al Hamra,"Al Hamra, Jeddah",8.5Scored 8.5,"1,909 reviews","SAR 2,025",Standard Double Room,no,no,no,no,no
+Ewaa Express Hotel - Al Jouf,Sakakah,8.9Scored 8.9,752 reviews,"SAR 1,485",Standard Double Room,no,no,yes,yes,no
+Our Habitas AlUla,AlUla,9.3Scored 9.3,928 reviews,"SAR 7,844",Canyon Villa,no,yes,yes,no,no
+Al Farhan Hotel & Suites Hafr Al Batin,Abū Qa‘ar,8.1Scored 8.1,572 reviews,SAR 630,Deluxe Family Room,yes,no,yes,yes,no
+Bay La Sun Hotel and Marina - KAEC,King Abdullah Economic City,8.2Scored 8.2,"4,746 reviews","SAR 4,000",Standard Double Room,yes,yes,yes,yes,yes
+Marina Arar Furnished Apartments,Arar,8.6Scored 8.6,"1,164 reviews",SAR 925,One-Bedroom Apartment with Living Room,no,no,no,yes,no
+Karims Hotel,Al Majmaah,8.0Scored 8.0,204 reviews,"SAR 1,527",Deluxe Twin Room,yes,no,no,yes,yes
+Novotel Jazan,Jazan,8.7Scored 8.7,"8,284 reviews","SAR 1,740",Standard Double Room,yes,yes,yes,yes,yes
+Best Western Plus Al Qurayyat City Center,Al Qurayyat,8.7Scored 8.7,231 reviews,"SAR 1,853",Superior King Room - Non-Smoking,yes,yes,yes,no,no
+Views Hotel & Residences,King Abdullah Economic City,8.5Scored 8.5,"4,653 reviews","SAR 4,055",Studio with Courtyard View,yes,no,yes,yes,no
+Raoum Inn Majmaa,Al Majmaah,6.4Scored 6.4,486 reviews,SAR 851,Junior Suite,no,no,no,yes,no
+Golden Bujari Bisha جولدن بوجاري بيشة,Qal'at Bishah,8.6Scored 8.6,376 reviews,"SAR 1,596",Junior Suite,yes,no,no,yes,yes
+Boudl Majmaa,Al Majmaah,8.1Scored 8.1,700 reviews,"SAR 1,236",Standard Room With King Bed,no,yes,yes,yes,no
+Grand Millennium Gizan,Jazan,8.2Scored 8.2,"4,281 reviews","SAR 2,600",Deluxe King Bed Room - Non Sea View,yes,yes,yes,yes,yes
+Tanuma Aram Hospitality - Hotel Apartments,Tanomah,8.0Scored 8.0,937 reviews,SAR 978,Studio with Mountain View,yes,no,yes,yes,yes
+Raoum Inn Khafji Southern,Al Khafji,6.0Scored 6.0,798 reviews,SAR 723,Superior Double Room,no,no,no,yes,no
+فندق ادوماتو ADOMATo HOTEl,Dawmat al Jandal,8.0Scored 8.0,103 reviews,"SAR 1,100",One-Bedroom Suite,no,yes,yes,yes,yes
+Raoum Inn Sakaka,Sakakah,7.7Scored 7.7,457 reviews,"SAR 1,064",Superior Double Room,no,no,yes,yes,no
+Mirada Gold Jizan - Resort & Private Pools,Jazan,8.4Scored 8.4,"6,299 reviews",SAR 983,One-Bedroom Villa,no,no,no,yes,yes
+Waves Hotel,Umm Lajj,9.4Scored 9.4,860 reviews,"SAR 4,400",King Room with Mountain View,yes,yes,yes,yes,yes
+إطلالة الواحة للوحدات السكنية المخدومة,Al Majmaah,8.1Scored 8.1,342 reviews,SAR 894,Studio,yes,no,no,yes,yes
+Boudl Mahayel Aseer,Muhayil,8.1Scored 8.1,967 reviews,"SAR 1,236",Standard Double Room,yes,yes,no,yes,no
+Raoum Inn Khafji Corniche,Al Khafji,8.3Scored 8.3,352 reviews,"SAR 1,489",Double or Twin Room with Side Sea View,yes,yes,yes,yes,yes
+Ramada Hotel & Suites by Wyndham Al Qassim,Al Bukayriyah,8.9Scored 8.9,"1,352 reviews","SAR 1,743",King Room - Smoking,yes,yes,yes,yes,yes
+Makarim Palm Hotel,Rabigh,6.9Scored 6.9,240 reviews,"SAR 1,013",One-Bedroom Apartment,yes,no,no,yes,no
+Malfa Hotel Apartments,Qal'at Bishah,8.1Scored 8.1,823 reviews,"SAR 1,250",Twin Room with Private Bathroom,yes,no,no,yes,yes
+Ewaa Express Hotel - Al Jouf,Sakakah,8.9Scored 8.9,752 reviews,"SAR 1,485",Standard Double Room,no,no,yes,yes,no
+Our Habitas AlUla,AlUla,9.3Scored 9.3,928 reviews,"SAR 7,934",Canyon Villa,no,yes,yes,no,no
+Al Farhan Hotel & Suites Hafr Al Batin,Abū Qa‘ar,8.1Scored 8.1,572 reviews,SAR 630,Deluxe Family Room,yes,no,yes,yes,no
+Bay La Sun Hotel and Marina - KAEC,King Abdullah Economic City,8.2Scored 8.2,"4,746 reviews","SAR 4,000",Standard Double Room,yes,yes,yes,yes,yes
+Marina Arar Furnished Apartments,Arar,8.6Scored 8.6,"1,164 reviews",SAR 925,One-Bedroom Apartment with Living Room,no,no,no,yes,no
+Karims Hotel,Al Majmaah,8.0Scored 8.0,204 reviews,"SAR 1,575",Deluxe Twin Room,yes,no,no,yes,yes
+Novotel Jazan,Jazan,8.7Scored 8.7,"8,284 reviews","SAR 1,740",Standard Double Room,yes,yes,yes,yes,yes
+Best Western Plus Al Qurayyat City Center,Al Qurayyat,8.7Scored 8.7,231 reviews,"SAR 1,853",Superior King Room - Non-Smoking,yes,yes,yes,no,no
+Views Hotel & Residences,King Abdullah Economic City,8.5Scored 8.5,"4,653 reviews","SAR 4,388",Studio with Courtyard View,yes,no,yes,yes,no
+Raoum Inn Majmaa,Al Majmaah,6.4Scored 6.4,486 reviews,SAR 851,Junior Suite,no,no,no,yes,no
+Golden Bujari Bisha جولدن بوجاري بيشة,Qal'at Bishah,8.6Scored 8.6,376 reviews,"SAR 1,596",Junior Suite,yes,no,no,yes,yes
+Boudl Majmaa,Al Majmaah,8.1Scored 8.1,700 reviews,"SAR 1,272",Standard Apartment,no,yes,yes,yes,no
+Grand Millennium Gizan,Jazan,8.2Scored 8.2,"4,281 reviews","SAR 2,600",Deluxe King Bed Room - Non Sea View,yes,yes,yes,yes,yes
+AlMuhaidb Residence Alkhafji,Al Khafji,8.4Scored 8.4,"1,119 reviews","SAR 1,405",Superior Double Room,no,no,yes,yes,no
+Tanuma Aram Hospitality - Hotel Apartments,Tanomah,8.0Scored 8.0,937 reviews,SAR 978,Studio with Mountain View,yes,no,yes,yes,yes
+Raoum Inn Khafji Southern,Al Khafji,6.0Scored 6.0,798 reviews,SAR 723,Superior Double Room,no,no,no,yes,no
+فندق ادوماتو ADOMATo HOTEl,Dawmat al Jandal,8.0Scored 8.0,103 reviews,"SAR 1,100",One-Bedroom Suite,no,yes,yes,yes,yes
+Raoum Inn Sakaka,Sakakah,7.7Scored 7.7,457 reviews,"SAR 1,064",Superior Double Room,no,no,yes,yes,no
+Mirada Gold Jizan - Resort & Private Pools,Jazan,8.4Scored 8.4,"6,299 reviews",SAR 983,One-Bedroom Villa,no,no,no,yes,yes
+Waves Hotel,Umm Lajj,9.4Scored 9.4,860 reviews,"SAR 4,400",King Room with Mountain View,yes,yes,yes,yes,yes
+إطلالة الواحة للوحدات السكنية المخدومة,Al Majmaah,8.1Scored 8.1,342 reviews,SAR 894,Studio,yes,no,no,yes,yes
+Boudl Mahayel Aseer,Muhayil,8.1Scored 8.1,967 reviews,"SAR 1,275",Standard Double Room,yes,yes,no,yes,no
+Raoum Inn Khafji Corniche,Al Khafji,8.3Scored 8.3,352 reviews,"SAR 1,489",Double or Twin Room with Side Sea View,yes,yes,yes,yes,yes
+Ramada Hotel & Suites by Wyndham Al Qassim,Al Bukayriyah,8.9Scored 8.9,"1,352 reviews","SAR 1,743",King Room - Smoking,yes,yes,yes,yes,yes
+Makarim Palm Hotel,Rabigh,6.9Scored 6.9,240 reviews,"SAR 1,013",One-Bedroom Apartment,yes,no,no,yes,no
+Ewaa Express Hotel - Al Jouf,Sakakah,8.9Scored 8.9,752 reviews,"SAR 1,485",Standard Double Room,no,no,yes,yes,no
+Our Habitas AlUla,AlUla,9.3Scored 9.3,928 reviews,"SAR 7,673",Canyon Villa,no,yes,yes,no,no
+Al Farhan Hotel & Suites Hafr Al Batin,Abū Qa‘ar,8.1Scored 8.1,572 reviews,SAR 630,Deluxe Family Room,yes,no,yes,yes,no
+Bay La Sun Hotel and Marina - KAEC,King Abdullah Economic City,8.2Scored 8.2,"4,746 reviews","SAR 4,000",Standard Double Room,yes,yes,yes,yes,yes
+Marina Arar Furnished Apartments,Arar,8.6Scored 8.6,"1,164 reviews",SAR 925,One-Bedroom Apartment with Living Room,no,no,no,yes,no
+Karims Hotel,Al Majmaah,8.0Scored 8.0,204 reviews,"SAR 1,575",Deluxe Twin Room,yes,no,no,yes,yes
+Novotel Jazan,Jazan,8.7Scored 8.7,"8,284 reviews","SAR 1,960",Standard Double Room,yes,yes,yes,yes,yes
+Best Western Plus Al Qurayyat City Center,Al Qurayyat,8.7Scored 8.7,231 reviews,"SAR 1,853",Superior King Room - Non-Smoking,yes,yes,yes,no,no
+Views Hotel & Residences,King Abdullah Economic City,8.5Scored 8.5,"4,653 reviews","SAR 4,388",Studio with Courtyard View,yes,no,yes,yes,no
+Raoum Inn Majmaa,Al Majmaah,6.4Scored 6.4,486 reviews,SAR 851,Junior Suite,no,no,no,yes,no
+Golden Bujari Bisha جولدن بوجاري بيشة,Qal'at Bishah,8.6Scored 8.6,376 reviews,"SAR 1,680",Junior Suite,yes,no,no,yes,yes
+Boudl Majmaa,Al Majmaah,8.1Scored 8.1,700 reviews,"SAR 1,272",Standard Apartment,no,yes,yes,yes,no
+Grand Millennium Gizan,Jazan,8.2Scored 8.2,"4,281 reviews","SAR 2,600",Deluxe King Bed Room - Non Sea View,yes,yes,yes,yes,yes
+Tanuma Aram Hospitality - Hotel Apartments,Tanomah,8.0Scored 8.0,937 reviews,SAR 978,Studio with Mountain View,yes,no,yes,yes,yes
+Raoum Inn Khafji Southern,Al Khafji,6.0Scored 6.0,798 reviews,SAR 723,Superior Double Room,no,no,no,yes,no
+فندق ادوماتو ADOMATo HOTEl,Dawmat al Jandal,8.0Scored 8.0,103 reviews,"SAR 1,100",One-Bedroom Suite,no,yes,yes,yes,yes
+Raoum Inn Sakaka,Sakakah,7.7Scored 7.7,457 reviews,"SAR 1,064",Superior Double Room,no,no,yes,yes,no
+Mirada Gold Jizan - Resort & Private Pools,Jazan,8.4Scored 8.4,"6,299 reviews",SAR 983,One-Bedroom Villa,no,no,no,yes,yes
+Waves Hotel,Umm Lajj,9.4Scored 9.4,860 reviews,"SAR 4,400",King Room with Mountain View,yes,yes,yes,yes,yes
+إطلالة الواحة للوحدات السكنية المخدومة,Al Majmaah,8.1Scored 8.1,342 reviews,SAR 894,Studio,yes,no,no,yes,yes
+Boudl Mahayel Aseer,Muhayil,8.1Scored 8.1,967 reviews,"SAR 1,275",Standard Double Room,yes,yes,no,yes,no
+Raoum Inn Khafji Corniche,Al Khafji,8.3Scored 8.3,352 reviews,"SAR 1,489",Double or Twin Room with Side Sea View,yes,yes,yes,yes,yes
+Ramada Hotel & Suites by Wyndham Al Qassim,Al Bukayriyah,8.9Scored 8.9,"1,352 reviews","SAR 1,743",King Room - Smoking,yes,yes,yes,yes,yes
+Makarim Palm Hotel,Rabigh,6.9Scored 6.9,240 reviews,"SAR 1,013",One-Bedroom Apartment,yes,no,no,yes,no
+Malfa Hotel Apartments,Qal'at Bishah,8.1Scored 8.1,823 reviews,"SAR 1,250",Twin Room with Private Bathroom,yes,no,no,yes,yes
+Velar Inn Hotel,Taif,9.0Scored 9.0,"3,290 reviews","SAR 2,277",Standard King Room,yes,no,no,no,no
+Voyage Apartments,"Al Sulimania, Riyadh",8.1Scored 8.1,"1,353 reviews","SAR 2,218",Executive Suite,no,no,no,no,no
+Quiet Hotel Al Shatee,"Al Shatiea, Jeddah",8.0Scored 8.0,637 reviews,"SAR 1,304",Standard King Room,yes,no,no,no,no
+FANTASTIC HOUSE,Riyadh,4.9Scored 4.9,316 reviews,"SAR 1,290",Deluxe Double Room,no,no,no,no,no
+بوابة الريادة,Ar Riḩāb,4.9Scored 4.9,26 reviews,"SAR 1,690",Economy Single Room,yes,no,no,no,no
+Boudl Gaber,Riyadh,8.0Scored 8.0,"1,146 reviews","SAR 2,025",Standard King Room,no,no,no,no,no
+JW Inn Hotel,Al Khobar,7.3Scored 7.3,379 reviews,"SAR 1,000",Classic Suite,yes,no,no,no,no
+Gladiolus Hotel,"Al Salamah, Jeddah",8.6Scored 8.6,752 reviews,"SAR 2,306",Superior King Room,yes,no,no,no,no
+Al Makan Al Mosafer 116 Hotel by Al Azmy,Riyadh,5.0Scored 5.0,"1,537 reviews",SAR 949,Studio,no,no,no,no,no
+Aman Hotel Suites,Abha,9.2Scored 9.2,656 reviews,"SAR 1,584",Superior King or Twin Room,yes,no,no,yes,yes
+فندق ضيافة القرية Al Diyafa Hotel,Al Ahsa,7.1Scored 7.1,351 reviews,"SAR 1,338",Junior Suite,no,no,no,no,no
+Tu Jardin - Qurtubah- توجاردن قرطبه,Riyadh,7.5Scored 7.5,48 reviews,"SAR 1,305",Standard Apartment,no,no,no,no,no
+رام جده للشقق الفندقيه Ram Jeddah,"Qurish Street, Jeddah",7.6Scored 7.6,239 reviews,"SAR 2,250",Superior Apartment,yes,no,no,no,no
+Abeer Story Hotel Suites,Jeddah,8.0Scored 8.0,950 reviews,SAR 700,Deluxe King Studio,yes,no,no,no,no
+Riyadha Home Apartment,Riyadh,8.1Scored 8.1,460 reviews,"SAR 2,211",Studio,yes,no,no,no,no
+Hilton Garden Inn Riyadh Financial District,Riyadh,7.8Scored 7.8,"2,468 reviews","SAR 3,493",King Room,no,no,no,no,no
+Alreem Village Hotel,Al Jubail,8.6Scored 8.6,862 reviews,"SAR 2,346",Standard Double Room,no,no,no,no,no
+Jeddah Shadows Hotel,Jeddah,7.4Scored 7.4,752 reviews,"SAR 7,196",Two-Bedroom Suite,yes,no,no,no,no
+Admire Apart Hotel - 1,Abu Arish,6.4Scored 6.4,47 reviews,"SAR 1,418",Deluxe Double or Twin Room with City View,yes,no,no,no,no
+Dalin Hotel,"Al Olaya, Riyadh",6.6Scored 6.6,"5,935 reviews","SAR 1,425",Standard Double or Twin Room,yes,no,no,no,no
+Al Muhaidb Takhasosi Value,"Al Olaya, Riyadh",7.4Scored 7.4,"1,024 reviews","SAR 1,350",Studio,yes,no,no,no,no
+فندق آل متعب سويتس التراثي,Riyadh,7.8Scored 7.8,866 reviews,"SAR 2,500",Deluxe King Room,no,no,no,no,no
+Mabet Al Tahlia Hotel Apartments,"Al Tahlia Street, Jeddah",7.7Scored 7.7,"1,989 reviews","SAR 1,116",Deluxe King Studio,yes,no,no,no,yes
+Elite Al Hamra - Al Cornich,Jeddah,7.9Scored 7.9,"1,729 reviews","SAR 2,560",Two-Bedroom Apartment,yes,no,no,no,no
+همم للوحدات السكنية - الحمدانية Al Hamdaniya,Jeddah,7.6Scored 7.6,88 reviews,"SAR 1,260",Deluxe King Room,no,no,no,no,no
+Tu Jardin - Qurtubah- توجاردن قرطبه,Riyadh,7.5Scored 7.5,48 reviews,"SAR 1,305",Standard Apartment,no,no,no,no,no
+رام جده للشقق الفندقيه Ram Jeddah,"Qurish Street, Jeddah",7.6Scored 7.6,239 reviews,"SAR 2,250",Superior Apartment,yes,no,no,no,no
+Abeer Story Hotel Suites,Jeddah,8.0Scored 8.0,950 reviews,SAR 700,Deluxe King Studio,yes,no,no,no,no
+Riyadha Home Apartment,Riyadh,8.1Scored 8.1,460 reviews,"SAR 2,328",Studio,yes,no,no,no,no
+مزايا هاوس,Dammam,5.2Scored 5.2,"1,072 reviews",SAR 495,Budget Double Room,no,no,no,no,no
+Hilton Garden Inn Riyadh Financial District,Riyadh,7.8Scored 7.8,"2,468 reviews","SAR 3,493",King Room,no,no,no,no,no
+Alreem Village Hotel,Al Jubail,8.6Scored 8.6,862 reviews,"SAR 2,440",Standard Double Room,no,no,no,no,no
+Jeddah Shadows Hotel,Jeddah,7.4Scored 7.4,752 reviews,"SAR 7,196",Two-Bedroom Suite,yes,no,no,no,no
+Admire Apart Hotel - 1,Abu Arish,6.4Scored 6.4,47 reviews,"SAR 1,091",Deluxe Double or Twin Room with City View,yes,no,no,no,no
+Dalin Hotel,"Al Olaya, Riyadh",6.6Scored 6.6,"5,935 reviews","SAR 1,425",Standard Double or Twin Room,yes,no,no,no,no
+بوابة الريادة,Ar Riḩāb,4.9Scored 4.9,26 reviews,"SAR 1,690",Economy Single Room,yes,no,no,no,no
+Al Muhaidb Takhasosi Value,"Al Olaya, Riyadh",7.4Scored 7.4,"1,024 reviews","SAR 1,350",Studio,yes,no,no,no,no
+فندق آل متعب سويتس التراثي,Riyadh,7.8Scored 7.8,866 reviews,"SAR 2,500",Deluxe King Room,no,no,no,no,no
+Mabet Al Tahlia Hotel Apartments,"Al Tahlia Street, Jeddah",7.7Scored 7.7,"1,989 reviews","SAR 1,175",Deluxe King Studio,yes,no,no,no,yes
+Elite Al Hamra - Al Cornich,Jeddah,7.9Scored 7.9,"1,729 reviews","SAR 2,560",Two-Bedroom Apartment,yes,no,no,no,no
+همم للوحدات السكنية - الحمدانية Al Hamdaniya,Jeddah,7.6Scored 7.6,88 reviews,SAR 833,Deluxe King Room,no,no,no,no,no
+Msharef almoden hotel فندق مشارف المدن,Jazan,9.0Scored 9.0,567 reviews,"SAR 1,125",Deluxe Double Room,yes,no,no,no,yes
+هوتيلتن قرطبه HOTELTEN Qurtubah,Riyadh,8.1Scored 8.1,80 reviews,"SAR 2,100",Studio,yes,no,no,no,yes
+فندق حور,"Al Hamra, Jeddah",7.5Scored 7.5,301 reviews,"SAR 3,500",King Room,yes,no,no,no,no
+ال متعب سويتس الإزدهار,Riyadh,7.0Scored 7.0,497 reviews,"SAR 3,250",Large Double Room,yes,no,no,no,yes
+Aseel Resort,Riyadh,8.1Scored 8.1,151 reviews,"SAR 13,295",Deluxe Double Room,yes,no,no,no,yes
+هوليداي بلس قرطبة - Holiday Plus Qurtubah,Riyadh,6.9Scored 6.9,517 reviews,"SAR 1,568",Executive Suite,yes,no,no,no,no
+Al Ayniah Hotel,Al Madinah,7.8Scored 7.8,"1,551 reviews","SAR 1,800",Double Room,yes,no,no,no,yes
+المواسم الأربعة للوحدات السكنية,Tabuk,8.7Scored 8.7,242 reviews,"SAR 1,350",Studio,no,no,no,yes,no
+The Royal One Hotel,"Al Olaya, Riyadh",8.0Scored 8.0,75 reviews,"SAR 6,000",Superior King Room,no,no,no,no,no
+Hayat Al Riyadh Washam Hotel,Riyadh,8.2Scored 8.2,"1,593 reviews","SAR 2,200",Deluxe Double Room,no,no,no,yes,yes
+Doubletree By Hilton Makkah Jabal Omar,Makkah,8.5Scored 8.5,"6,673 reviews","SAR 3,805",King Room - Mobility Access,no,no,yes,no,no
+وجهة التميز 2,Jeddah,8.1Scored 8.1,297 reviews,SAR 939,Budget Double Room,no,no,no,yes,no
+Seiba Hotel Apartments-Riyadh,"Al Malaz, Riyadh",7.0Scored 7.0,"1,192 reviews","SAR 2,100",Superior King Room,yes,yes,no,yes,no
+BN Residence,"Al Olayya, Al Khobar",9.2Scored 9.2,"1,054 reviews","SAR 1,680",Standard King Room,no,no,no,no,no
+Tu Jardin Al Harmain- تو جاردن الحرمين,Jeddah,8.2Scored 8.2,725 reviews,"SAR 1,250",Triple Room,no,no,no,yes,no
+Ahlin Suites 5,Riyadh,6.7Scored 6.7,124 reviews,SAR 900,Deluxe Double Studio,no,no,no,yes,no
+Mena Hotel Tabuk,Tabuk,7.9Scored 7.9,923 reviews,"SAR 1,683",Deluxe Room,no,no,no,yes,no
+City Center Plaza Aparthotel,Jeddah,6.6Scored 6.6,"1,179 reviews","SAR 1,125",Deluxe Double Studio,no,no,no,yes,no
+Touq Balad,Jeddah,8.2Scored 8.2,964 reviews,"SAR 1,331",Budget Double Room,no,no,no,yes,yes
+Raoum Inn Buraydah,Buraydah,8.0Scored 8.0,920 reviews,"SAR 1,064",Deluxe Double Room,yes,no,yes,no,no
+Park Inn by Radisson Makkah Al Naseem,Makkah,7.8Scored 7.8,"11,927 reviews",SAR 904,Standard Room,yes,no,yes,yes,no
+Merfal Hotel Apartments Al Taawan مرفال التعاون,Riyadh,6.5Scored 6.5,765 reviews,"SAR 1,200",Studio,no,no,no,yes,no
+Boudl Palestine Jeddah,Jeddah,7.5Scored 7.5,97 reviews,"SAR 1,250",Studio,no,no,no,yes,no
+Palm Boutique Hotel,Jeddah,7.6Scored 7.6,496 reviews,"SAR 1,733",Double Room,no,no,no,no,no
+فندق سروات بارك جده Sarwat Park Hotel Jeddah,"Al Shatiea, Jeddah",8.0Scored 8.0,350 reviews,"SAR 1,836",King Room with Garden View,no,no,no,yes,no
+"Crowne Plaza - Jeddah Al Salam, an IHG Hotel",Jeddah,9.1Scored 9.1,"1,778 reviews","SAR 4,752",King Room with Bathtub - Non-Smoking,yes,no,yes,no,no
+Best Western Plus Fursan,Riyadh,8.1Scored 8.1,"1,012 reviews","SAR 1,898",Superior King Room,no,no,yes,no,yes
+Royal Casablanca,Jeddah,7.2Scored 7.2,874 reviews,"SAR 1,450",Double or Twin Room,no,no,yes,no,no
+Varvan Al-Jubail,Al Jubail,6.6Scored 6.6,865 reviews,SAR 875,Studio,no,no,no,no,no
+Ruve Jeddah Hotel,"Al Tahlia Street, Jeddah",7.8Scored 7.8,"2,849 reviews","SAR 1,350",Standard Twin Room,no,no,yes,no,no
+Boudl Al Fayhaa,Riyadh,6.0Scored 6.0,"1,409 reviews","SAR 1,330",Standard King Room,no,no,no,no,no
+Boudl Al Olaya,"Al Olaya, Riyadh",7.9Scored 7.9,"1,065 reviews","SAR 2,220",Economy Double Room,no,no,no,no,no
+Yahalla Hotel Units 2,"Hera Street, Jeddah",6.4Scored 6.4,304 reviews,"SAR 1,060",Standard Studio,no,no,no,no,no
+Radisson Blu Hotel Riyadh Qurtuba,Riyadh,8.2Scored 8.2,"2,785 reviews","SAR 4,420",Standard Room,yes,no,yes,no,no
+Hilton Garden Inn Al Jubail,Al Jubail,8.1Scored 8.1,"1,009 reviews","SAR 1,515",King Room - Mobility Accessible,yes,no,yes,yes,no
+Le Meridien Al Khobar,Al Khobar,8.3Scored 8.3,"4,528 reviews","SAR 3,521","Deluxe Room, Sea View, 1 King",no,no,yes,yes,no
+Taleen Al Nakheel Apartment,Riyadh,6.3Scored 6.3,385 reviews,"SAR 2,500",Studio Apartment,no,no,no,no,no
+شقق درر رامه للشقق المخدومة 7,Riyadh,5.1Scored 5.1,78 reviews,"SAR 1,100",Studio Apartment,no,no,no,no,no
+ميلاس للوحدات المفروشة,Tabuk,8.8Scored 8.8,42 reviews,"SAR 1,100",Studio,no,no,no,no,no
+فندق لاجونا ڤيستا بريدة,Buraydah,8.7Scored 8.7,167 reviews,"SAR 5,495",One-Bedroom Villa,no,no,no,no,yes
+Rahhal Hotel Suites,Yanbu,8.2Scored 8.2,364 reviews,"SAR 1,410",One-Bedroom Apartment,no,no,no,no,yes
+"Holiday Inn Riyadh Izdihar, an IHG Hotel",Riyadh,7.4Scored 7.4,"1,775 reviews","SAR 2,925",Standard King Room,no,no,yes,yes,no
+TIME Ruba Hotel & Suites,Makkah,8.6Scored 8.6,320 reviews,SAR 750,Deluxe King Room,no,no,no,no,yes
+هوم للأجنحة الفندقية,Khamis Mushayt,8.4Scored 8.4,411 reviews,"SAR 1,495",Two-Bedroom Apartment,no,no,no,no,no
+Dana Hotel & Residences 2,Riyadh,8.6Scored 8.6,"2,196 reviews","SAR 2,950",One-Bedroom Suite,yes,no,no,no,yes
+Arjaan Altakhassusi Hotel Suites,Riyadh,8.5Scored 8.5,"2,736 reviews","SAR 1,795",Double Room,yes,no,no,yes,no
+فندق لوريف,Taif,9.9Scored 9.9,287 reviews,"SAR 3,745",Deluxe Twin Room,no,no,no,no,yes
+Al Farhan Suites Ishbillia,Riyadh,7.3Scored 7.3,"2,050 reviews","SAR 1,499",One-Bedroom Apartment,no,no,yes,no,no
+Condo Studio Self checkin,Riyadh,8.4Scored 8.4,17 reviews,"SAR 1,620",Deluxe Studio,no,no,no,yes,no
+Rose Garden Hotel,Riyadh,6.7Scored 6.7,"1,547 reviews","SAR 1,500",Deluxe Room,no,no,no,yes,no
+روز للشقق الفندقية,Hotat bani tamim,6.1Scored 6.1,26 reviews,"SAR 1,145",Studio,no,no,no,yes,no
+Amaken Aparthotel,Al Hofuf,7.9Scored 7.9,732 reviews,"SAR 1,240",Budget Double Room,no,no,no,yes,no
+Myrtle Hotel - Al Sahafa,Riyadh,7.5Scored 7.5,"1,535 reviews","SAR 3,495",Deluxe King Room,no,no,no,yes,no
+"InterContinental Durrat Al Riyadh Resort & Spa, an IHG Hotel",Riyadh,8.2Scored 8.2,482 reviews,"SAR 3,792",Classic Room,yes,no,yes,yes,no
+فلورز سويتس,Yanbu,7.8Scored 7.8,166 reviews,SAR 900,Family Studio,no,no,no,yes,no
+Burj Alhayah Hotel Suites Alfalah,Riyadh,6.8Scored 6.8,795 reviews,"SAR 1,300",Deluxe Room,no,no,no,yes,yes
+Nelover Hotel Hafar,Hafr Al Baten,8.1Scored 8.1,265 reviews,"SAR 1,450",Studio,no,no,no,yes,yes
+"Crowne Plaza Riyadh - RDC Hotel & Convention, an IHG Hotel",Riyadh,8.9Scored 8.9,"2,215 reviews","SAR 4,373",Standard Room,yes,no,yes,yes,no
+Marvelous Hotel,Tabuk,9.5Scored 9.5,194 reviews,"SAR 1,820",Twin Room with Shared Toilet,no,no,no,yes,yes
+Yar Furnished Apartments,Jazan,6.9Scored 6.9,404 reviews,"SAR 3,275",Villa with Private Pool,no,no,no,no,no
+Boudl Al Corniche,Dammam,8.7Scored 8.7,"1,311 reviews","SAR 1,250",Standard King Room,no,yes,no,no,no
+ال متعب سويتس خريص,Riyadh,5.2Scored 5.2,214 reviews,"SAR 3,000",Deluxe King Room,no,no,no,no,no
+Four Seasons Hotel Riyadh,"Al Olaya, Riyadh",8.8Scored 8.8,"1,324 reviews","SAR 11,688",Superior Room with King Bed,no,yes,yes,no,no
+قصر اليمامة للشقق المخدومة Al Yamama Palace Serviced Apartments,Yanbu,6.6Scored 6.6,356 reviews,"SAR 1,080",Studio Apartment,no,no,no,no,no
+Rio Hotel Olaya,"Al Olaya, Riyadh",8.0Scored 8.0,862 reviews,"SAR 3,375",Standard King Room,no,yes,yes,no,no
+Hyatt House Jeddah Sari Street,"Al Salamah, Jeddah",8.3Scored 8.3,"1,458 reviews","SAR 2,731",King Studio with Sofa Bed,no,no,no,yes,no
+Radisson Blu Plaza Jeddah,Jeddah,8.2Scored 8.2,"2,656 reviews","SAR 1,750",Standard Room,yes,no,no,yes,no
+Best Trip Serviced Apartments,Jeddah,8.1Scored 8.1,"2,204 reviews","SAR 1,232",One-Bedroom Apartment,no,no,no,yes,no
+Voyage Apartments,"Al Sulimania, Riyadh",8.1Scored 8.1,"1,353 reviews","SAR 2,218",Executive Suite,no,no,no,no,no
+Al Taif Gate Hotel Suites,Taif,7.4Scored 7.4,"8,830 reviews","SAR 1,890",One-Bedroom Apartment,no,no,yes,yes,no
+Casablanca Grand Hotel,Jeddah,9.2Scored 9.2,"3,640 reviews","SAR 3,563",Twin Room,no,no,no,no,no
+"Radisson Blu Hotel, Jeddah Al Salam","Al Salamah, Jeddah",8.8Scored 8.8,"3,394 reviews","SAR 2,763",Standard Room,yes,no,no,yes,no
+Hotel Zayara,"Al Olaya, Riyadh",6.6Scored 6.6,717 reviews,"SAR 5,750",Family Studio,yes,no,no,no,no
+DoubleTree by Hilton Hotel Riyadh - Al Muroj Business Gate,Riyadh,7.2Scored 7.2,"2,017 reviews","SAR 3,472",King Room - Mobility Access,no,no,no,yes,no
+"Dar Al Tawhid Intercontinental Makkah, an IHG Hotel",Makkah,8.8Scored 8.8,"6,912 reviews","SAR 7,641",Standard Room,yes,no,no,no,no
+Aster Hotel,"Al Hamra, Jeddah",7.5Scored 7.5,"2,924 reviews","SAR 1,733",Standard Room,yes,no,yes,yes,no
+"Holiday Inn Al Khobar - Corniche, an IHG Hotel","Al Yarmouk, Al Khobar",7.2Scored 7.2,"1,637 reviews","SAR 1,580",Standard King Room - Smoking,yes,no,no,yes,no
+Courtyard by Marriott Jazan,Jazan,8.5Scored 8.5,697 reviews,"SAR 2,250",Deluxe King Room,no,no,no,yes,no
+Sokon Ladn Hotel,Riyadh,7.2Scored 7.2,6 reviews,"SAR 1,500",Twin Room with Balcony,no,no,no,no,no
+Renee Suites,"Sari Street, Jeddah",8.7Scored 8.7,9 reviews,"SAR 5,000",King Suite,yes,no,yes,no,no
+شقق درر رامه للشقق المخدومة 6,Riyadh,6.4Scored 6.4,161 reviews,"SAR 2,000",Two-Bedroom Apartment,yes,no,no,no,no
+Rokn Al Omor Apartments by Quiet Rooms,Riyadh,5.4Scored 5.4,726 reviews,"SAR 1,000",Studio,no,no,no,no,no
+Quiet Dreams - Al Noor Branch,"South Obhr, Jeddah",9.1Scored 9.1,81 reviews,"SAR 1,748",Studio,no,no,no,no,no
+Lotaz Hotel Suites - Al Salamah,"Al Salamah, Jeddah",9.1Scored 9.1,710 reviews,"SAR 3,046",One-Bedroom Suite,yes,no,no,yes,yes
+فندق سافوي جدة Savoye Hotel,Jeddah,8.9Scored 8.9,134 reviews,"SAR 1,875",Double Room,yes,yes,yes,no,no
+Novotel Jeddah Tahlia,"Al Andalus, Jeddah",7.6Scored 7.6,"2,776 reviews","SAR 1,596",Superior Double Room with Sofa Bed,yes,no,no,yes,no
+Al Azmy Al Ared Hotel,Riyadh,3.7Scored 3.7,255 reviews,SAR 800,Double Room,no,no,no,no,no
+M Hotel Al Dana Makkah by Millennium,Makkah,7.9Scored 7.9,"9,069 reviews",SAR 834,Standard Double Room,yes,no,yes,no,no
+Al Taif Gate Hotel Suites,Taif,7.4Scored 7.4,"8,830 reviews","SAR 1,890",One-Bedroom Apartment,no,no,yes,yes,no
+Residence Inn by Marriott Dammam,Dammam,9.0Scored 9.0,"1,433 reviews","SAR 3,000",King Studio with City View,yes,no,no,no,yes
+ستاى ان غرف واجنحه فندقيه Stay Inn Suites,"Al Salamah, Jeddah",6.4Scored 6.4,152 reviews,"SAR 2,250",Economy Double Room,yes,no,no,no,no
+Sama Al Qasr - Khurais,Riyadh,7.1Scored 7.1,992 reviews,"SAR 1,250",Double Room,no,no,yes,no,no
+Sama Residence,"Al Olayya, Al Khobar",8.0Scored 8.0,278 reviews,"SAR 1,100",Deluxe Studio,no,no,no,no,no
+Rafa,Riyadh,7.2Scored 7.2,"1,258 reviews","SAR 1,944",Deluxe Room (2 Adults + 1 Child),yes,no,no,no,no
+شقق الورود بارك,Al Mikhlaf,,,"SAR 1,425",One-Bedroom Apartment,yes,no,no,yes,no
+Ramada Encore Al Khobar Corniche- رمادا أنكور الخبر كورنيش,Al Khobar,8.5Scored 8.5,246 reviews,"SAR 1,900",King Room - Smoking,no,no,no,no,no
+Dorar Darea Hotel Apartments - Al Nafl,Riyadh,7.2Scored 7.2,563 reviews,"SAR 1,782",Double Room,no,no,no,no,no
+OYO 401 Al Zaidan For Furnished Units,Buraydah,6.0Scored 6.0,224 reviews,SAR 654,Standard Studio Twin,no,no,no,no,no
+Courtyard by Marriott Jubail,Al Jubail,8.6Scored 8.6,94 reviews,"SAR 1,738",King Room with City View,no,no,no,no,yes
+La Fontaine Jeddah Hotel,Jeddah,7.3Scored 7.3,"1,471 reviews","SAR 1,395",Deluxe Double Room,no,no,yes,no,no
+Y Platinum Hotel,Al Madinah,8.1Scored 8.1,245 reviews,"SAR 2,600",Standard Double or Twin Room,no,no,no,no,no
+Kyona Purple - Al Qurayat,Jeddah,7.8Scored 7.8,"1,825 reviews","SAR 1,215",Studio,no,no,no,no,no
+فنـــــــــدق ايليفــــــــــــار Elevar Hotel,Al Khobar,8.5Scored 8.5,63 reviews,"SAR 1,495",Queen Room with Sea View,no,no,no,no,no
+Crown Rose AlSahafa Hotel,Riyadh,7.4Scored 7.4,"2,636 reviews","SAR 3,425",Superior King Room,no,yes,yes,no,no
+Mövenpick Hotel Jeddah,Jeddah,7.6Scored 7.6,"2,667 reviews","SAR 1,955",Classic King Room,yes,no,no,no,yes
+Novotel Dammam Business Park,Dammam,7.3Scored 7.3,"1,552 reviews","SAR 1,228",Standard Double Room,yes,no,no,no,yes
+Rest Night Hotel Apartment- AlHamra,"Al Hamra, Riyadh",7.5Scored 7.5,"2,055 reviews","SAR 1,475",Single Room,no,yes,no,no,no
+Radisson Hotel & Apartments Dammam Industry City,Dammam,7.9Scored 7.9,"2,263 reviews","SAR 1,585",Standard Room,no,yes,yes,no,no
+Traveller Inn Hotel Appartments,"Al Olayya, Al Khobar",7.4Scored 7.4,"1,776 reviews","SAR 1,134",Deluxe Double Room,yes,no,no,no,yes
+Ewaa Express Hotel - Al Jouf,Sakakah,8.9Scored 8.9,752 reviews,"SAR 1,485",Standard Double Room,no,no,yes,yes,no
+Our Habitas AlUla,AlUla,9.3Scored 9.3,928 reviews,"SAR 7,338",Canyon Villa,no,yes,yes,no,no
+Al Farhan Hotel & Suites Hafr Al Batin,Abū Qa‘ar,8.1Scored 8.1,572 reviews,SAR 630,Deluxe Family Room,yes,no,yes,yes,no
+Bay La Sun Hotel and Marina - KAEC,King Abdullah Economic City,8.2Scored 8.2,"4,746 reviews","SAR 4,000",Standard Double Room,yes,yes,yes,yes,yes
+Marina Arar Furnished Apartments,Arar,8.6Scored 8.6,"1,164 reviews",SAR 925,One-Bedroom Apartment with Living Room,no,no,no,yes,no
+Karims Hotel,Al Majmaah,8.0Scored 8.0,204 reviews,"SAR 1,527",Deluxe Twin Room,yes,no,no,yes,yes
+Novotel Jazan,Jazan,8.7Scored 8.7,"8,284 reviews","SAR 1,740",Standard Double Room,yes,yes,yes,yes,yes
+Best Western Plus Al Qurayyat City Center,Al Qurayyat,8.7Scored 8.7,231 reviews,"SAR 1,853",Superior King Room - Non-Smoking,yes,yes,yes,no,no
+Views Hotel & Residences,King Abdullah Economic City,8.5Scored 8.5,"4,653 reviews","SAR 4,055",Studio with Courtyard View,yes,no,yes,yes,no
+Raoum Inn Majmaa,Al Majmaah,6.4Scored 6.4,486 reviews,SAR 851,Junior Suite,no,no,no,yes,no
+Golden Bujari Bisha جولدن بوجاري بيشة,Qal'at Bishah,8.6Scored 8.6,376 reviews,"SAR 1,995",Junior Suite,yes,no,no,yes,yes
+Boudl Majmaa,Al Majmaah,8.1Scored 8.1,700 reviews,"SAR 1,236",Standard Room With King Bed,no,yes,yes,yes,no
+Grand Millennium Gizan,Jazan,8.2Scored 8.2,"4,281 reviews","SAR 2,600",Deluxe King Bed Room - Non Sea View,yes,yes,yes,yes,yes
+Raoum Inn Khafji Southern,Al Khafji,6.0Scored 6.0,798 reviews,SAR 723,Superior Double Room,no,no,no,yes,no
+فندق ادوماتو ADOMATo HOTEl,Dawmat al Jandal,8.0Scored 8.0,103 reviews,"SAR 1,100",One-Bedroom Suite,no,yes,yes,yes,yes
+Raoum Inn Sakaka,Sakakah,7.7Scored 7.7,457 reviews,"SAR 1,064",Superior Double Room,no,no,yes,yes,no
+Mirada Gold Jizan - Resort & Private Pools,Jazan,8.4Scored 8.4,"6,299 reviews",SAR 983,One-Bedroom Villa,no,no,no,yes,yes
+Waves Hotel,Umm Lajj,9.4Scored 9.4,860 reviews,"SAR 4,400",King Room with Mountain View,yes,yes,yes,yes,yes
+إطلالة الواحة للوحدات السكنية المخدومة,Al Majmaah,8.1Scored 8.1,342 reviews,SAR 894,Studio,yes,no,no,yes,yes
+Boudl Mahayel Aseer,Muhayil,8.1Scored 8.1,967 reviews,"SAR 1,275",Standard Double Room,yes,yes,no,yes,no
+Raoum Inn Khafji Corniche,Al Khafji,8.3Scored 8.3,352 reviews,"SAR 1,489",Double or Twin Room with Side Sea View,yes,yes,yes,yes,yes
+Ramada Hotel & Suites by Wyndham Al Qassim,Al Bukayriyah,8.9Scored 8.9,"1,352 reviews","SAR 1,743",King Room - Smoking,yes,yes,yes,yes,yes
+Makarim Palm Hotel,Rabigh,6.9Scored 6.9,240 reviews,"SAR 1,013",One-Bedroom Apartment,yes,no,no,yes,no
+Malfa Hotel Apartments,Qal'at Bishah,8.1Scored 8.1,823 reviews,"SAR 1,250",Twin Room with Private Bathroom,yes,no,no,yes,yes
+Intour Al Khafji Hotel,Al Khafji,7.7Scored 7.7,474 reviews,"SAR 1,465",Deluxe  Room,no,no,yes,yes,no
